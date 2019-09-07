@@ -188,5 +188,35 @@
     "hanzi": "听",
     "pinyin": "tīng",
     "translate": "listen"
+  },
+  {
+    "hanzi": "手",
+    "translate": "hand",
+    "pinyin": "shǒu"
+  },
+  {
+    "hanzi": "眼睛",
+    "translate": "eye",
+    "pinyin": "yǎn jīng"
+  },
+  {
+    "hanzi": "嘴",
+    "translate": "mouth",
+    "pinyin": "zuǐ"
+  },
+  {
+    "hanzi": "头发",
+    "translate": "hair",
+    "pinyin": "tóu fā"
+  },
+  {
+    "hanzi": "耳朵",
+    "translate": "ear",
+    "pinyin": "ěr duo"
+  },
+  {
+    "hanzi": "鼻子",
+    "translate": "nose",
+    "pinyin": "bí zi"
   }
 ]
