@@ -1,24 +1,27 @@
 import { readFileSync } from "fs"
 import React, { useState } from "react"
-import { Layout, Menu, Icon } from "antd"
+import { Layout, Menu, Form, Radio, Icon } from "antd"
 import yaml from "yaml"
 
 import FlashCard from "./FlashCard"
 import QuizReel from "./QuizReel"
+import { shuffle } from "../utils"
 
 const data = yaml.parse(readFileSync("./card-data/data.yml", "utf8"))
 const { Header, Content, Footer, Sider } = Layout
 
 
 export default function Main() {
-  const [ activeView, setActiveView ] = useState("quiz")
+  const [ activeView, setActiveView ] = useState("list")
+  const [ shuffledCards, setShuffledCards ] = useState(data.slice())
+  const [ frontLang, setFrontLang ] = useState("mandarin")
   let activeComponent
   switch (activeView) {
     case "list":
-      activeComponent = data.map(obj => <FlashCard data={obj} key={obj.hanzi} />)
+      activeComponent = data.map(obj => <FlashCard data={obj} key={obj.hanzi} frontLang={frontLang} />)
       break;
     case "quiz":
-      activeComponent = <QuizReel cards={data} />
+      activeComponent = <QuizReel cards={shuffledCards} frontLang={frontLang} />
       break;
     default:
       throw new Error(`unknown view: ${activeView}`)
@@ -26,13 +29,13 @@ export default function Main() {
 
   function startQuiz() {
     setActiveView("quiz")
+    setShuffledCards(shuffle(shuffledCards.slice()))
   }
 
   return <>
     <Layout style={{ minHeight: '100vh' }}>
       <Sider theme="light">
-        <div className="logo" />
-        <Menu theme="light" mode="inline">
+        <Menu theme="light" mode="inline" className="main-menu">
           {
             activeView === "list" ?
               <Menu.Item key="1" onClick={startQuiz}>
@@ -44,12 +47,19 @@ export default function Main() {
                 <span>All</span>
               </Menu.Item>
           }
-
         </Menu>
+        <Form layout="vertical">
+          <Form.Item label="Front side">
+            <Radio.Group onChange={e => setFrontLang(e.target.value)} value={frontLang}>
+              <Radio value="mandarin" style={{ display: "block" }}>中文</Radio>
+              <Radio value="english" style={{ display: "block" }}>English</Radio>
+            </Radio.Group>
+          </Form.Item>
+        </Form>
       </Sider>
-      <Layout>
-        <Content style={{ margin: '0 16px' }}>
-          <div style={{ padding: 24, minHeight: 360 }}>
+      <Layout className="content">
+        <Content className="content-display">
+          <div className="content-wrap">
             {activeComponent}
           </div>
         </Content>

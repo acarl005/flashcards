@@ -2,6 +2,14 @@ import React from "react"
 import { Card } from "antd"
 
 export default function FlashCard(props) {
+  const frontSide = props.frontLang === "mandarin" ?
+    <div className="hanzi-wrap">
+      <div className="hanzi">{props.data.hanzi}</div>
+      <div className="pinyin">{props.data.pinyin}</div>
+    </div> :
+    <p className="translation">
+      {props.data.translate}
+    </p>
   return <>
     <div className={`flip-card ${props.flipped ? "flipped" : ""}`}>
       <div className="flip-card-inner">
@@ -9,10 +17,7 @@ export default function FlashCard(props) {
           <Card className="flashcard">
             <div className="card-content">
               <div className="card-item">
-                <div className="hanzi-wrap">
-                  <div className="hanzi">{props.data.hanzi}</div>
-                  <div className="pinyin">{props.data.pinyin}</div>
-                </div>
+                {frontSide}
               </div>
             </div>
           </Card>
@@ -27,7 +32,9 @@ export default function FlashCard(props) {
                 </div>
               </div>
               <div className="card-item">
-                {props.data.translate}
+                <p className="translation">
+                  {props.data.translate}
+                </p>
               </div>
             </div>
           </Card>

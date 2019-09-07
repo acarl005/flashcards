@@ -1,5 +1,7 @@
 @import "../node_modules/antd/dist/antd.css";
+@import "./components/Main.scss";
 @import "./components/FlashCard.scss";
+@import "./components/QuizReel.scss";
 
 body {
   background: #F7F7E7;
@@ -7,4 +9,20 @@ body {
 
 .ant-layout-sider {
   box-shadow: 10px 0 10px #ccc;
+  position: fixed;
+  height: 100%;
+  
+  .main-menu {
+    margin-bottom: 30px;
+  }
+
+  .ant-form {
+    padding: 0 16px;
+    margin: 4px 0;
+  }
 }
+
+.ant-layout.content {
+  margin-left: 200px;
+}
+
