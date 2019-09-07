@@ -20,6 +20,11 @@ export default function Main() {
     default:
       throw new Error(`unknown view: ${activeView}`)
   }
+
+  function startQuiz() {
+    setActiveView("quiz")
+  }
+
   return <>
     <Layout style={{ minHeight: '100vh' }}>
       <Sider theme="light">
@@ -27,7 +32,7 @@ export default function Main() {
         <Menu theme="light" mode="inline">
           {
             activeView === "list" ?
-              <Menu.Item key="1" onClick={() => setActiveView("quiz")}>
+              <Menu.Item key="1" onClick={startQuiz}>
                 <Icon type="question-circle" />
                 <span>Quiz</span>
               </Menu.Item> :

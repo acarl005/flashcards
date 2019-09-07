@@ -8,14 +8,15 @@ export default function QuizReel(props) {
   const { cards } = props
   const shuffledCards = shuffle(cards.slice())
   const [ activeCard, setActiveCard ] = useState(0)
+  const [ cardFlipped, setCardFlipped ] = useState(false)
   return <>
-    <FlashCard data={shuffledCards[activeCard]} />
+    <FlashCard data={shuffledCards[activeCard]} flipped={cardFlipped} />
     <div className="quiz-buttons">
       <Button.Group>
         <Button disabled={activeCard === 0} onClick={() => setActiveCard(activeCard - 1)}>
           <Icon type="left" />
         </Button>
-        <Button>
+        <Button onClick={() => setCardFlipped(!cardFlipped)}>
           <Icon type="redo" />
         </Button>
         <Button disabled={activeCard >= cards.length - 1} onClick={() => setActiveCard(activeCard + 1)}>

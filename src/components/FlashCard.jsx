@@ -3,7 +3,7 @@ import { Card } from "antd"
 
 export default function FlashCard(props) {
   return <>
-    <div className="flip-card">
+    <div className={`flip-card ${props.flipped ? "flipped" : ""}`}>
       <div className="flip-card-inner">
         <div className="flip-card-front">
           <Card className="flashcard">

@@ -14,11 +14,13 @@
   transform-style: preserve-3d;
 }
 
-.flip-card:hover .flip-card-inner {
+.flip-card:hover .flip-card-inner,
+.flip-card.flipped .flip-card-inner {
   transform: rotateY(180deg);
 }
 
-.flip-card-front:hover .flashcard {
+.flip-card-front:hover .flashcard,
+.flipped .flip-card-front .flashcard {
   box-shadow: none;
 }
 
