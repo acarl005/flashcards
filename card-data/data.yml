@@ -2,135 +2,223 @@
 - hanzi: 你好
   pinyin: nǐ hǎo
   translate: You good? (Hello)
+  tags:
+    - Basics 1
 - hanzi: 喜欢
   pinyin: xǐ huān
   translate: like
+  tags:
+    - Basics 1
 - hanzi: 我
   pinyin: wǒ
   translate: I, me
+  tags:
+    - Basics 1
 - hanzi: 你
   pinyin: nǐ
   translate: you
+  tags:
+    - Basics 1
 - hanzi: 他
   pinyin: tā
   translate: he, him
+  tags:
+    - Basics 1
 - hanzi: 她
   pinyin: tā
   translate: she, her
+  tags:
+    - Basics 1
 - hanzi: 们
   pinyin: men
   translate: pluralize pronouns and some animated nouns
+  tags:
+    - Basics 1
 - hanzi: 是
   pinyin: shì
   translate: be (when the object is a noun)
+  tags:
+    - Basics 1
 - hanzi: 美国
   pinyin: měi guó
   translate: America
+  tags:
+    - Basics 1
 - hanzi: 中国
   pinyin: zhōng guó
   translate: China
+  tags:
+    - Basics 1
 - hanzi: 法国
   pinyin: fǎ guó
   translate: France
+  tags:
+    - Basics 1
 - hanzi: 韩国
   pinyin: hán guó
   translate: South Korea
+  tags:
+    - Basics 1
 - hanzi: 人
   pinyin: rén
   translate: person
+  tags:
+    - Basics 1
 # basics 2
 - hanzi: 男人
   pinyin: nán rén
   translate: man
+  tags:
+    - Basics 2
 - hanzi: 男孩
   pinyin: nán hái
   translate: boy
+  tags:
+    - Basics 2
 - hanzi: 女人
   pinyin: nǚ rén
   translate: woman
+  tags:
+    - Basics 2
 - hanzi: 女孩
   pinyin: nǚ hái
   translate: girl
+  tags:
+    - Basics 2
 - hanzi: 桃
   pinyin: táo
   translate: peach
+  tags:
+    - Basics 2
 - hanzi: 水果
   pinyin: shuǐ guǒ
   translate: fruit
+  tags:
+    - Basics 2
 - hanzi: 梨
   pinyin: lí
   translate: pear
+  tags:
+    - Basics 2
 - hanzi: 吃
   pinyin: chī
   translate: eat
+  tags:
+    - Basics 2
 - hanzi: 喝
   pinyin: hē
   translate: drink
+  tags:
+    - Basics 2
 - hanzi: 酒
   pinyin: jiǔ
   translate: alcohol
+  tags:
+    - Basics 2
 - hanzi: 水
   pinyin: shuǐ
   translate: water
+  tags:
+    - Basics 2
 - hanzi: 茶
   pinyin: chá
   translate: tea
+  tags:
+    - Basics 2
 # basics 3
 - hanzi: 这
   pinyin: zhè
   translate: this (often followed by measure word)
+  tags:
+    - Basics 3
 - hanzi: 那
   pinyin: nà
   translate: that (often followed by measure word)
+  tags:
+    - Basics 3
 - hanzi: 在
   pinyin: zài
   translate: currently
+  tags:
+    - Basics 3
 - hanzi: 唱
   pinyin: chàng
   translate: sing
+  tags:
+    - Basics 3
 - hanzi: 歌
   pinyin: gē
   translate: song
+  tags:
+    - Basics 3
 - hanzi: 跳
   pinyin: tiào
   translate: jump
+  tags:
+    - Basics 3
 - hanzi: 舞
   pinyin: wǔ
   translate: dance
+  tags:
+    - Basics 3
 - hanzi: 看
   pinyin: kàn
   translate: read/watch
+  tags:
+    - Basics 3
 - hanzi: 书
   pinyin: shū
   translate: book
+  tags:
+    - Basics 3
 - hanzi: 报纸
   pinyin: bào zhǐ
   translate: newspaper
+  tags:
+    - Basics 3
 - hanzi: 写
   pinyin: xiě
   translate: write
+  tags:
+    - Basics 3
 - hanzi: 信
   pinyin: xìn
   translate: letter
+  tags:
+    - Basics 3
 - hanzi: 听
   pinyin: tīng
   translate: listen
+  tags:
+    - Basics 3
 # family
 - hanzi: 手
   translate: hand
   pinyin: shǒu
+  tags:
+    - Family
 - hanzi: 眼睛
   translate: eye
   pinyin: yǎn jīng
+  tags:
+    - Family
 - hanzi: 嘴
   translate: mouth
   pinyin: zuǐ
+  tags:
+    - Family
 - hanzi: 头发
   translate: hair
   pinyin: tóu fā
+  tags:
+    - Family
 - hanzi: 耳朵
   translate: ear
   pinyin: ěr duo
+  tags:
+    - Family
 - hanzi: 鼻子
   translate: nose
   pinyin: bí zi
+  tags:
+    - Family

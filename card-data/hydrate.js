@@ -1,7 +1,9 @@
-const fs = require("fs").promises
+const path = require("path")
+const fs = require("fs")
 const request = require("request-promise")
-const data = require("./data")
+const yaml = require("yaml")
 
+const data = yaml.parse(fs.readFileSync(path.resolve(__dirname, "./data.yml"), "utf8"))
 const url = 'https://glosbe.com/transliteration/api?from=Han&dest=Latin&format=json&text='
 
 ;(async () => {
@@ -23,5 +25,5 @@ const url = 'https://glosbe.com/transliteration/api?from=Han&dest=Latin&format=j
     console.log(response.text)
     obj.pinyin = response.text
   }
-  fs.writeFile("./data-hydrate.json", JSON.stringify(data, null, 2), "utf8")
+  await fs.promises.writeFile("./data-hydrate.yml", yaml.stringify(data), "utf8")
 })()

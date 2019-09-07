@@ -1,5 +1,5 @@
 import React from "react"
-import { Card } from "antd"
+import { Card, Tag } from "antd"
 
 export default function FlashCard(props) {
   const frontSide = props.frontLang === "mandarin" ?
@@ -10,6 +10,13 @@ export default function FlashCard(props) {
     <p className="translation">
       {props.data.translate}
     </p>
+
+  const tagList = props.data.tags ?
+    <div className="tag-list">
+      {props.data.tags.map(tag => <Tag key={tag}>{tag}</Tag>)}
+    </div> :
+    null
+
   return <>
     <div className={`flip-card ${props.flipped ? "flipped" : ""}`}>
       <div className="flip-card-inner">
@@ -37,6 +44,7 @@ export default function FlashCard(props) {
                 </p>
               </div>
             </div>
+            {tagList}
           </Card>
         </div>
       </div>

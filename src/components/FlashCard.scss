@@ -12,6 +12,12 @@
   height: 100%;
   transition: transform 0.4s;
   transform-style: preserve-3d;
+
+  .tag-list {
+    position: absolute;
+    right: 5px;
+    bottom: 10px;
+  }
 }
 
 .flip-card:hover .flip-card-inner,

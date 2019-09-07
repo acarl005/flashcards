@@ -17,3 +17,6 @@ export function shuffle(array) {
   return array
 }
 
+export function hasMatch(cardTags, selectedTags) {
+  return cardTags.reduce((anyMatch, tag) => anyMatch || selectedTags.has(tag), false)
+}
