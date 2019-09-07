@@ -167,7 +167,8 @@
   pinyin: shū
   translate: book
   sentences:
-    - 我看了三本书
+    - hanzi: 我 看了 三 本 书
+      pinyin: wǒ kàn le sān běn shū
   tags:
     - Basics 3
 - hanzi: 报纸

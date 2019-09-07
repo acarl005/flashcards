@@ -25,7 +25,7 @@
   transform: rotateY(180deg);
 }
 
-.flip-card-front:hover .flashcard,
+.flip-card:hover .flip-card-front .flashcard,
 .flipped .flip-card-front .flashcard {
   box-shadow: none;
 }
@@ -43,6 +43,12 @@
 
 .flashcard {
   box-shadow: 10px 5px 10px #ccc;
+
+  .sentence-list {
+    text-align: center;
+    padding: 0 10px;
+    list-style: none;
+  }
 }
 
 .card-content {
@@ -58,10 +64,22 @@
 
 .hanzi-wrap {
   margin-bottom: 10px;
-}
+  margin-right: 5px;
+  display: inline-block;
 
-.hanzi {
-  font-size: 30px;
+  div {
+    text-align: center;
+  }
+  
+  .hanzi {
+    font-size: 20px;
+  }
+
+  &.title {
+    .hanzi {
+      font-size: 50px;
+    }
+  }
 }
 
 .translation {

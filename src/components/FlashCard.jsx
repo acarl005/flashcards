@@ -3,7 +3,7 @@ import { Card, Tag } from "antd"
 
 export default function FlashCard(props) {
   const frontSide = props.frontLang === "mandarin" ?
-    <div className="hanzi-wrap">
+    <div className="hanzi-wrap title">
       <div className="hanzi">{props.data.hanzi}</div>
       <div className="pinyin">{props.data.pinyin}</div>
     </div> :
@@ -16,6 +16,28 @@ export default function FlashCard(props) {
       {props.data.tags.map(tag => <Tag key={tag}>{tag}</Tag>)}
     </div> :
     null
+
+  let sentences = null
+  if (props.data.sentences) {
+    const sentenceItems = props.data.sentences.map(sentence => {
+      const listItems = []
+      let i = 0
+      const splitPinyin = sentence.pinyin.split(/\s+/)
+      for (let word of sentence.hanzi.split(/\s+/)) {
+        listItems.push(
+          <div className="hanzi-wrap">
+            <div className="hanzi">{word}</div>
+            <div className="pinyin">{splitPinyin.slice(i, i + word.length).join(" ")}</div>
+          </div>
+        )
+        i += word.length
+      }
+      return <li key={sentence.hanzi}>
+        {listItems}
+      </li>
+    })
+    sentences = <ul className="sentence-list">{sentenceItems}</ul>
+  }
 
   return <>
     <div className={`flip-card ${props.flipped ? "flipped" : ""}`}>
@@ -33,7 +55,7 @@ export default function FlashCard(props) {
           <Card className="flashcard">
             <div className="card-content">
               <div className="card-item">
-                <div className="hanzi-wrap">
+                <div className="hanzi-wrap title">
                   <div className="hanzi">{props.data.hanzi}</div>
                   <div className="pinyin">{props.data.pinyin}</div>
                 </div>
@@ -43,6 +65,7 @@ export default function FlashCard(props) {
                   {props.data.translate}
                 </p>
               </div>
+              {sentences}
             </div>
             {tagList}
           </Card>
