@@ -1,3 +1,5 @@
+// this script takes the data.yml, checks all the items, and adds the pinyin if its not there
+// i wanted to automate it, as it can be inferred from the hanzi. no need to duplicate work!
 const path = require("path")
 const fs = require("fs")
 const request = require("request-promise")

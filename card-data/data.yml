@@ -166,6 +166,8 @@
 - hanzi: 书
   pinyin: shū
   translate: book
+  sentences:
+    - 我看了三本书
   tags:
     - Basics 3
 - hanzi: 报纸
@@ -223,6 +225,111 @@
   tags:
     - Colors
   pinyin: tiān
+- hanzi: 一
+  translate: "1"
+  tags:
+    - Numbers 1
+  pinyin: yī
+- hanzi: 二
+  translate: "2"
+  tags:
+    - Numbers 1
+  pinyin: èr
+- hanzi: 三
+  translate: "3"
+  tags:
+    - Numbers 1
+  pinyin: sān
+- hanzi: 四
+  translate: "4"
+  tags:
+    - Numbers 1
+  pinyin: sì
+- hanzi: 五
+  translate: "5"
+  tags:
+    - Numbers 1
+  pinyin: wǔ
+- hanzi: 六
+  translate: "6"
+  tags:
+    - Numbers 1
+  pinyin: liù
+- hanzi: 七
+  translate: "7"
+  tags:
+    - Numbers 1
+  pinyin: qī
+- hanzi: 八
+  translate: "8"
+  tags:
+    - Numbers 1
+  pinyin: bā
+- hanzi: 九
+  translate: "9"
+  tags:
+    - Numbers 1
+  pinyin: jiǔ
+- hanzi: 十
+  translate: "10"
+  tags:
+    - Numbers 1
+  pinyin: shí
+- hanzi: 兩
+  translate: 2 (when quantifying noun)
+  tags:
+    - Numbers 1
+  pinyin: liǎng
+- hanzi: 星期一
+  translate: Monday
+  tags:
+    - Numbers 1
+  pinyin: xīng qī yī
+- hanzi: 星期二
+  translate: Tuesday
+  tags:
+    - Numbers 1
+  pinyin: xīng qī èr
+- hanzi: 星期三
+  translate: Wednesday
+  tags:
+    - Numbers 1
+  pinyin: xīng qī sān
+- hanzi: 星期四
+  translate: Thursday
+  tags:
+    - Numbers 1
+  pinyin: xīng qī sì
+- hanzi: 星期五
+  translate: Friday
+  tags:
+    - Numbers 1
+  pinyin: xīng qī wǔ
+- hanzi: 星期六
+  translate: Saturday
+  tags:
+    - Numbers 1
+  pinyin: xīng qī liù
+- hanzi: 星期天
+  translate: Sunday
+  tags:
+    - Numbers 1
+  pinyin: xīng qī tiān
+- hanzi: 今天
+  translate: today
+  tags:
+    - Numbers 1
+  pinyin: jīn tiān
+- hanzi: 明天
+  translate: tomorrow
+  tags:
+    - Numbers 1
+  pinyin: míng tiān
+- hanzi: 昨天
+  translate: yesterday
+  tags:
+    - Numbers 1
+  pinyin: zuó tiān
 - hanzi: 手
   translate: hand
   pinyin: shǒu
