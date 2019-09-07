@@ -1,0 +1,21 @@
+{
+  "name": "flashcards",
+  "version": "1.0.0",
+  "description": "Simple web app for Chinese (Mandarin) flash cards.",
+  "main": "src/index.html",
+  "scripts": {
+    "dev": "parcel src/index.html"
+  },
+  "author": "Andrew Carlson <acarl005@g.ucla.edu>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^1.12.3",
+    "sass": "^1.23.0-module.beta.1"
+  },
+  "dependencies": {
+    "antd": "^3.23.2",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "request-promise": "^4.2.4"
+  }
+}

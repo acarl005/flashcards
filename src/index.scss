@@ -1,0 +1,10 @@
+@import "../node_modules/antd/dist/antd.css";
+@import "./components/FlashCard.scss";
+
+body {
+  background: #F7F7E7;
+}
+
+.ant-layout-sider {
+  box-shadow: 10px 0 10px #ccc;
+}
