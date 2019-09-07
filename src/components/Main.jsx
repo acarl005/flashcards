@@ -1,11 +1,14 @@
+import { readFileSync } from "fs"
 import React, { useState } from "react"
 import { Layout, Menu, Icon } from "antd"
+import yaml from "yaml"
 
-const { Header, Content, Footer, Sider } = Layout
-
-import data from "../../card-data/data.json"
 import FlashCard from "./FlashCard"
 import QuizReel from "./QuizReel"
+
+const data = yaml.parse(readFileSync("./card-data/data.yml", "utf8"))
+const { Header, Content, Footer, Sider } = Layout
+
 
 export default function Main() {
   const [ activeView, setActiveView ] = useState("quiz")

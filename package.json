@@ -16,6 +16,7 @@
     "antd": "^3.23.2",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "request-promise": "^4.2.4"
+    "request-promise": "^4.2.4",
+    "yaml": "^1.6.0"
   }
 }
