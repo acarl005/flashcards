@@ -26,3 +26,11 @@ body {
   margin-left: 200px;
 }
 
+.ant-table-tbody > tr:hover:not(.ant-table-expanded-row) > td,
+.ant-table-tbody > tr:not(.ant-table-expanded-row) > td {
+  background: white;
+}
+
+.ant-table-thead > tr > th {
+  background: white;
+}
