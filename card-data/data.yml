@@ -331,6 +331,105 @@
   tags:
     - Numbers 1
   pinyin: zuó tiān
+- hanzi: 苹果
+  translate: apple
+  tags:
+    - Food
+  pinyin: píng guǒ
+- hanzi: 芒果
+  translate: mango
+  tags:
+    - Food
+  pinyin: máng guǒ
+- hanzi: 西瓜
+  translate: watermelon
+  tags:
+    - Food
+  pinyin: xī guā
+- hanzi: 木瓜
+  translate: papaya
+  tags:
+    - Food
+  pinyin: mù guā
+- hanzi: 果汁
+  translate: fruit juice
+  tags:
+    - Food
+  sentences:
+    - hanzi: 三 杯 果汁
+      pinyin: sān bēi guǒ zhī
+  pinyin: guǒ zhī
+- hanzi: 啤酒
+  translate: beer
+  tags:
+    - Food
+  pinyin: pí jiǔ
+- hanzi: 咖啡
+  translate: coffee
+  tags:
+    - Food
+  pinyin: kā fēi
+- hanzi: 牛奶
+  translate: milk
+  tags:
+    - Food
+  pinyin: niú nǎi
+- hanzi: 菜
+  translate: vegetable
+  tags:
+    - Food
+  pinyin: cài
+- hanzi: 蛋
+  translate: egg
+  tags:
+    - Food
+  pinyin: dàn
+- hanzi: 肉
+  translate: meat
+  tags:
+    - Food
+  pinyin: ròu
+- hanzi: 饭
+  translate: rice/meal
+  tags:
+    - Food
+  pinyin: fàn
+- hanzi: 餃子
+  translate: dumpling
+  tags:
+    - Food
+  pinyin: jiǎo zi
+- hanzi: 面包
+  translate: bread
+  tags:
+    - Food
+  pinyin: miàn bāo
+- hanzi: 包子
+  translate: steamed bun (stuffed)
+  tags:
+    - Food
+  pinyin: bāo zi
+- hanzi: 麵條
+  translate: noodle
+  tags:
+    - Food
+  pinyin: miàn tiáo
+- hanzi: 色
+  translate: colored (follows a color)
+  sentences:
+    - hanzi: 芒果 是 黃色 的
+      pinyin: máng guǒ shì huáng sè de
+  tags:
+    - Food
+  pinyin: sè
+- hanzi: 也
+  translate: also; too
+  sentences:
+    - hanzi: 那 个 男孩 也 在 吃 一 面條
+      pinyin: nà gè nán hái yě zài chī yī miàn tiáo
+  tags:
+    - Food
+  pinyin: yě
 - hanzi: 手
   translate: hand
   pinyin: shǒu
