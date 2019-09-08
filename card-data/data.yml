@@ -1,8 +1,13 @@
 - hanzi: 你好
   pinyin: nǐ hǎo
-  translate: You good? (Hello)
+  translate: You good? (Hello.)
   tags:
     - Basics 1
+- hanzi: 再见
+  translate: see again (goodbye)
+  tags:
+    - Basics 1
+  pinyin: zài jiàn
 - hanzi: 喜欢
   pinyin: xǐ huān
   translate: like
