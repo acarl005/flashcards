@@ -31,7 +31,9 @@ async function toPinyin(hanzi) {
     }
     if ("sentences" in obj) {
       for (let sentence of obj.sentences) {
-        sentence.pinyin = await toPinyin(sentence.hanzi)
+        if (!("pinyin" in sentence)) {
+          sentence.pinyin = await toPinyin(sentence.hanzi)
+        }
       }
     }
   }

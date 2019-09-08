@@ -35,7 +35,7 @@
     - Basics 1
 - hanzi: 是
   pinyin: shì
-  translate: be (when the object is a noun)
+  translate: be/is/am/are (when the object is a noun)
   tags:
     - Basics 1
 - hanzi: 美国
@@ -160,7 +160,7 @@
     - Basics 3
 - hanzi: 看
   pinyin: kàn
-  translate: read/watch
+  translate: read; watch
   tags:
     - Basics 3
 - hanzi: 书
@@ -334,27 +334,27 @@
 - hanzi: 苹果
   translate: apple
   tags:
-    - Food
+    - Food 1
   pinyin: píng guǒ
 - hanzi: 芒果
   translate: mango
   tags:
-    - Food
+    - Food 1
   pinyin: máng guǒ
 - hanzi: 西瓜
   translate: watermelon
   tags:
-    - Food
+    - Food 1
   pinyin: xī guā
 - hanzi: 木瓜
   translate: papaya
   tags:
-    - Food
+    - Food 1
   pinyin: mù guā
 - hanzi: 果汁
   translate: fruit juice
   tags:
-    - Food
+    - Food 1
   sentences:
     - hanzi: 三 杯 果汁
       pinyin: sān bēi guǒ zhī
@@ -362,57 +362,57 @@
 - hanzi: 啤酒
   translate: beer
   tags:
-    - Food
+    - Food 1
   pinyin: pí jiǔ
 - hanzi: 咖啡
   translate: coffee
   tags:
-    - Food
+    - Food 1
   pinyin: kā fēi
 - hanzi: 牛奶
   translate: milk
   tags:
-    - Food
+    - Food 1
   pinyin: niú nǎi
 - hanzi: 菜
   translate: vegetable
   tags:
-    - Food
+    - Food 1
   pinyin: cài
 - hanzi: 蛋
   translate: egg
   tags:
-    - Food
+    - Food 1
   pinyin: dàn
 - hanzi: 肉
   translate: meat
   tags:
-    - Food
+    - Food 1
   pinyin: ròu
 - hanzi: 饭
-  translate: rice/meal
+  translate: rice; meal
   tags:
-    - Food
+    - Food 1
   pinyin: fàn
 - hanzi: 餃子
   translate: dumpling
   tags:
-    - Food
+    - Food 1
   pinyin: jiǎo zi
 - hanzi: 面包
   translate: bread
   tags:
-    - Food
+    - Food 1
   pinyin: miàn bāo
 - hanzi: 包子
   translate: steamed bun (stuffed)
   tags:
-    - Food
+    - Food 1
   pinyin: bāo zi
 - hanzi: 麵條
   translate: noodle
   tags:
-    - Food
+    - Food 1
   pinyin: miàn tiáo
 - hanzi: 色
   translate: colored (follows a color)
@@ -420,7 +420,7 @@
     - hanzi: 芒果 是 黃色 的
       pinyin: máng guǒ shì huáng sè de
   tags:
-    - Food
+    - Food 1
   pinyin: sè
 - hanzi: 也
   translate: also; too
@@ -428,8 +428,54 @@
     - hanzi: 那 个 男孩 也 在 吃 一 面條
       pinyin: nà gè nán hái yě zài chī yī miàn tiáo
   tags:
-    - Food
+    - Food 1
   pinyin: yě
+- hanzi: 圓形
+  translate: circle; round
+  tags:
+    - Shapes
+  pinyin: yuán xíng
+- hanzi: 三角形
+  translate: triangle
+  tags:
+    - Shapes
+  pinyin: sān jiǎo xíng
+- hanzi: 方形
+  translate: square
+  tags:
+    - Shapes
+  pinyin: fāng xíng
+- hanzi: 桌子
+  translate: table
+  sentences:
+    - hanzi: 我们 有 一 張 圓形 的 桌子
+      pinyin: wǒ men yǒu yī zhāng yuán xíng de zhuō zi
+  tags:
+    - Shapes
+  pinyin: zhuō zi
+- hanzi: 椅子
+  translate: chair
+  sentences:
+    - hanzi: 我们 有 四 把 方形 的 椅子
+      pinyin: wǒ men yǒu sì bǎ fāng xíng de yǐ zi
+  tags:
+    - Shapes
+  pinyin: yǐ zi
+- hanzi: 杯子
+  translate: cup
+  tags:
+    - Shapes
+  pinyin: bēi zi
+- hanzi: 鏡子
+  translate: mirror
+  tags:
+    - Shapes
+  pinyin: jìng zi
+- hanzi: 有
+  translate: have/has
+  tags:
+    - Shapes
+  pinyin: yǒu
 - hanzi: 手
   translate: hand
   pinyin: shǒu
