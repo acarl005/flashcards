@@ -476,6 +476,96 @@
   tags:
     - Shapes
   pinyin: yǒu
+- hanzi: 阴
+  translate: cloudy
+  sentences:
+    - hanzi: 天 阴 了
+      pinyin: tiān yīn le
+  tags:
+    - Nature
+  pinyin: yīn
+- hanzi: 雨
+  translate: rain
+  sentences:
+    - hanzi: 下 雨 了
+      pinyin: xià yǔ le
+  tags:
+    - Nature
+  pinyin: yǔ
+- hanzi: 雪
+  translate: snow
+  sentences:
+    - hanzi: 下 雪 了
+      pinyin: xià xuě le
+  tags:
+    - Nature
+  pinyin: xuě
+- hanzi: 晴
+  translate: sunny; clear
+  sentences:
+    - hanzi: 天 晴 了
+      pinyin: tiān qíng le
+  tags:
+    - Nature
+  pinyin: qíng
+- hanzi: 夏天
+  translate: summer
+  tags:
+    - Nature
+  pinyin: xià tiān
+- hanzi: 春天
+  translate: spring
+  tags:
+    - Nature
+  pinyin: chūn tiān
+- hanzi: 冬天
+  translate: winter
+  tags:
+    - Nature
+  pinyin: dōng tiān
+- hanzi: 秋天
+  translate: autumn
+  tags:
+    - Nature
+  pinyin: qiū tiān
+- hanzi: 冷
+  translate: cold
+  tags:
+    - Nature
+  pinyin: lěng
+- hanzi: 热
+  translate: hot; heat
+  tags:
+    - Nature
+  pinyin: rè
+- hanzi: 太阳
+  translate: sun
+  tags:
+    - Nature
+  pinyin: tài yáng
+- hanzi: 地球
+  translate: Earth
+  tags:
+    - Nature
+  pinyin: dì qiú
+- hanzi: 月亮
+  translate: moon
+  tags:
+    - Nature
+  pinyin: yuè liàng
+- hanzi: 星星
+  translate: star
+  tags:
+    - Nature
+  pinyin: xīng xīng
+- hanzi: 要來
+  translate: coming
+  sentences:
+    - hanzi: 冬天 要 來 了
+      pinyin: dōng tiān yào lái le
+  tags:
+    - Nature
+  pinyin: yào lái
 - hanzi: 手
   translate: hand
   pinyin: shǒu
