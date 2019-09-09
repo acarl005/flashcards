@@ -19,6 +19,11 @@ for (let obj of data) {
 }
 allTags = Array.from(allTags).sort()
 
+const numWithoutTags = data.reduce((count, obj) => count + !obj.tags, 0)
+if (numWithoutTags > 0) {
+  console.warn(`hiding ${numWithoutTags} card(s) without tags`)
+}
+
 
 export default function Main() {
   const [ activeView, setActiveView ] = useState("list")

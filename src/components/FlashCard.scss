@@ -15,7 +15,7 @@
 
   .tag-list {
     position: absolute;
-    right: 5px;
+    left: 5px;
     bottom: 10px;
   }
 }
@@ -44,10 +44,16 @@
 .flashcard {
   box-shadow: 10px 5px 10px #ccc;
 
+  .sentence-container {
+    max-height: 80px;
+  }
+
   .sentence-list {
     text-align: center;
     padding: 0 10px;
     list-style: none;
+    overflow-y: scroll;
+    height: 100%;
   }
 }
 
