@@ -435,6 +435,17 @@
   tags:
     - Food 1
   pinyin: yě
+- hanzi: 的
+  translate: A linking particle. Links a subject to a noun to express possession. Links
+    an adjective to a noun to "apply" the adjective as an attribute of the noun.
+  sentences:
+    - hanzi: 我 有 方形 的 桌子
+      pinyin: wǒ yǒu fāng xíng de zhuō zi
+    - hanzi: 我 的 椅子 是 绿色 的
+      pinyin: wǒ de yǐ zi shì lǜ sè de
+  pinyin: de
+  tags:
+    - Shapes
 - hanzi: 圓形
   translate: circle; round
   tags:
@@ -473,6 +484,9 @@
   pinyin: bēi zi
 - hanzi: 鏡子
   translate: mirror
+  sentences:
+    - hanzi: 这 面 镜子 是 圆形 的
+      pinyin: zhè miàn jìng zi shì yuán xíng de
   tags:
     - Shapes
   pinyin: jìng zi
@@ -563,14 +577,46 @@
   tags:
     - Nature
   pinyin: xīng xīng
-- hanzi: 要來
-  translate: coming
+- hanzi: 來
+  translate: come
+  tags:
+    - Nature
+  pinyin: lái
+- hanzi: 了
+  translate: The change-of-state modal particle. Indicates a change of state.
+  sentences:
+    - hanzi: 下 雨 了
+      pinyin: xià yǔ le
+  tags:
+    - Nature
+  pinyin: le
+- hanzi: 要
+  translate: to demand, to want, going to; combined with 了(le) to express "about to
+    happen"
   sentences:
     - hanzi: 冬天 要 來 了
       pinyin: dōng tiān yào lái le
   tags:
     - Nature
-  pinyin: yào lái
+  pinyin: yào
+- hanzi: 不
+  translate: not; negation of 是(shì) or verbs in present/future tense
+  notes:
+    - When followed by a 4th-tone character, it changes its tone to 2nd.
+  sentences:
+    - hanzi: 我 不 会 跳舞
+      pinyin: wǒ bù huì tiào wǔ
+  tags:
+    - Negation
+  pinyin: bù
+- hanzi: 沒
+  translate: not; negation of 有(yǒu) and past tense
+  sentences:
+    - hanzi: 我 沒有 钱
+      pinyin: wǒ méi yǒu qián
+  tags:
+    - Negation
+  pinyin: méi
 - hanzi: 手
   translate: hand
   pinyin: shǒu
