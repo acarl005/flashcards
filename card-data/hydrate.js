@@ -15,7 +15,7 @@ async function toPinyin(hanzi) {
     json: true
   })
   if (response.result !== "ok") {
-    throw new Error(`${response}`)
+    throw new Error(JSON.stringify(response, null, 2))
   }
   console.log(response.text)
   return response.text
@@ -23,8 +23,8 @@ async function toPinyin(hanzi) {
 
 ;(async () => {
   for (let obj of data) {
-    if (!("hanzi" in obj)) {
-      throw new Error(`obj has no hanzi: ${obj}`)
+    if (!obj.hanzi) {
+      throw new Error(`obj has no hanzi: ${JSON.stringify(obj, null, 2)}`)
     }
     if (!("pinyin" in obj)) {
       obj.pinyin = await toPinyin(obj.hanzi)

@@ -617,6 +617,126 @@
   tags:
     - Negation
   pinyin: méi
+- hanzi: 名字
+  translate: given name
+  sentences:
+    - hanzi: 你 叫 什么 名字 ？
+      pinyin: nǐ jiào shén me míng zì ？
+  tags:
+    - Question 1
+  pinyin: míng zì
+- hanzi: 什么
+  translate: what
+  sentences:
+    - hanzi: 你 在 吃 什么 ？
+      pinyin: nǐ zài chī shén me ？
+  tags:
+    - Question 1
+  pinyin: shén me
+- hanzi: 吗
+  translate: A question particle. Add it to the end of a statement to make it a question.
+  sentences:
+    - hanzi: 你 吃 鱼 吗 ？
+      pinyin: nǐ chī yú ma ？
+  tags:
+    - Question 1
+  pinyin: ma
+- hanzi: 顏色
+  translate: color
+  tags:
+    - Question 1
+  pinyin: yán sè
+- hanzi: 中午
+  translate: noon
+  tags:
+    - Time
+  pinyin: zhōng wǔ
+- hanzi: 下午
+  translate: afternoon
+  tags:
+    - Time
+  pinyin: xià wǔ
+- hanzi: 早上
+  translate: morning
+  sentences:
+    - hanzi: 早上 好
+      pinyin: zǎo shàng hǎo
+  tags:
+    - Time
+  pinyin: zǎo shàng
+- hanzi: 晚上
+  translate: night
+  tags:
+    - Time
+  pinyin: wǎn shàng
+- hanzi: 岁
+  translate: years old
+  sentences:
+    - hanzi: 我 二十 八 岁
+      pinyin: wǒ èr shí bā suì
+  tags:
+    - Time
+  pinyin: suì
+- hanzi: 一月
+  translate: January
+  tags:
+    - Time
+  pinyin: yī yuè
+- hanzi: 二月
+  translate: Febuary
+  tags:
+    - Time
+  pinyin: èr yuè
+- hanzi: 三月
+  translate: March
+  tags:
+    - Time
+  pinyin: sān yuè
+- hanzi: 四月
+  translate: April
+  tags:
+    - Time
+  pinyin: sì yuè
+- hanzi: 五月
+  translate: May
+  tags:
+    - Time
+  pinyin: wǔ yuè
+- hanzi: 六月
+  translate: June
+  tags:
+    - Time
+  pinyin: liù yuè
+- hanzi: 七月
+  translate: July
+  tags:
+    - Time
+  pinyin: qī yuè
+- hanzi: 八月
+  translate: August
+  tags:
+    - Time
+  pinyin: bā yuè
+- hanzi: 九月
+  translate: September
+  tags:
+    - Time
+  pinyin: jiǔ yuè
+- hanzi: 十月
+  translate: October
+  tags:
+    - Time
+  pinyin: shí yuè
+- hanzi: 十一月
+  translate: November
+  tags:
+    - Time
+  pinyin: shí yī yuè
+- hanzi: 十二月
+  translate: December
+  tags:
+    - Time
+  pinyin: shí èr yuè
 - hanzi: 手
   translate: hand
   pinyin: shǒu
