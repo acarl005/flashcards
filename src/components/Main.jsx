@@ -66,46 +66,48 @@ export default function Main() {
   return <>
     <Layout style={{ minHeight: '100vh' }}>
       <Sider theme="light" width="200px">
-        <Menu theme="light" mode="inline" className="main-menu">
-          {
-            activeView === "list" ?
-              <Menu.Item key="1" onClick={startQuiz}>
-                <Icon type="question-circle" />
-                <span>Quiz</span>
-              </Menu.Item> :
-              <Menu.Item key="2" onClick={() => setActiveView("list")}>
-                <Icon type="switcher" />
-                <span>All</span>
-              </Menu.Item>
-          }
-        </Menu>
-        <Form layout="vertical" className="sider-menu">
-          <Form.Item label="Front side">
-            <Radio.Group onChange={e => setFrontLang(e.target.value)} value={frontLang}>
-              <Radio value="mandarin">中文</Radio>
-              <Radio value="english">English</Radio>
-            </Radio.Group>
-          </Form.Item>
-          { activeView === "list" ?
-              <Form.Item>
-                <Input.Search
-                  ref={searchRef}
-                  placeholder="search cards"
-                  onChange={debounce(() => {
-                    setSearchTerm(searchRef.current.input.state.value)
-                  }, 200)}
-                  allowClear={true}
-                />
-              </Form.Item> :
-              null
-          }
-        </Form>
-        <Table
-          rowSelection={{ onChange: onTagChange, selectedRowKeys: Array.from(selectedTags) }}
-          columns={[{ title: "Tags", dataIndex: "tag" }]}
-          dataSource={tableData}
-          pagination={false}
-        />
+        <div className="sider-container">
+          <Menu theme="light" mode="inline" className="main-menu">
+            {
+              activeView === "list" ?
+                <Menu.Item key="1" onClick={startQuiz}>
+                  <Icon type="question-circle" />
+                  <span>Quiz</span>
+                </Menu.Item> :
+                <Menu.Item key="2" onClick={() => setActiveView("list")}>
+                  <Icon type="switcher" />
+                  <span>All</span>
+                </Menu.Item>
+            }
+          </Menu>
+          <Form layout="vertical" className="sider-menu">
+            <Form.Item label="Front side">
+              <Radio.Group onChange={e => setFrontLang(e.target.value)} value={frontLang}>
+                <Radio value="mandarin">中文</Radio>
+                <Radio value="english">English</Radio>
+              </Radio.Group>
+            </Form.Item>
+            { activeView === "list" ?
+                <Form.Item>
+                  <Input.Search
+                    ref={searchRef}
+                    placeholder="search cards"
+                    onChange={debounce(() => {
+                      setSearchTerm(searchRef.current.input.state.value)
+                    }, 200)}
+                    allowClear={true}
+                  />
+                </Form.Item> :
+                null
+            }
+          </Form>
+          <Table
+            rowSelection={{ onChange: onTagChange, selectedRowKeys: Array.from(selectedTags) }}
+            columns={[{ title: "Tags", dataIndex: "tag" }]}
+            dataSource={tableData}
+            pagination={false}
+          />
+        </div>
       </Sider>
       <Layout className="content">
         <Content className="content-display">
