@@ -583,10 +583,13 @@
     - Nature
   pinyin: lái
 - hanzi: 了
-  translate: The change-of-state modal particle. Indicates a change of state.
+  translate: change-of-state modal particle (indicates a change of state); perfective
+    aspect particle (following past tense clause)
   sentences:
     - hanzi: 下 雨 了
       pinyin: xià yǔ le
+    - hanzi: 我 昨天 游泳 了
+      pinyin: wǒ zuó tiān yóu yǒng le
   tags:
     - Nature
   pinyin: le
@@ -737,6 +740,97 @@
   tags:
     - Time
   pinyin: shí èr yuè
+- hanzi: 草莓
+  translate: strawberry
+  tags:
+    - Tense
+  pinyin: cǎo méi
+- hanzi: 香蕉
+  translate: banana
+  tags:
+    - Tense
+  pinyin: xiāng jiāo
+- hanzi: 橙子
+  translate: orange
+  tags:
+    - Tense
+  pinyin: chéng zi
+- hanzi: 櫻桃
+  translate: cherry
+  tags:
+    - Tense
+  pinyin: yīng táo
+- hanzi: 买
+  translate: buy
+  tags:
+    - Tense
+  pinyin: mǎi
+- hanzi: 卖
+  translate: sell
+  tags:
+    - Tense
+  pinyin: mài
+- hanzi: 早饭
+  translate: breakfast
+  tags:
+    - Tense
+  pinyin: zǎo fàn
+- hanzi: 午飯
+  translate: lunch
+  tags:
+    - Tense
+  pinyin: wǔ fàn
+- hanzi: 晚飯
+  translate: dinner
+  tags:
+    - Tense
+  pinyin: wǎn fàn
+- hanzi: 车
+  translate: car
+  tags:
+    - Tense
+  pinyin: chē
+- hanzi: 自行车
+  translate: bicycle
+  tags:
+    - Tense
+  pinyin: zì xíng chē
+- hanzi: 洗
+  translate: wash
+  tags:
+    - Tense
+  pinyin: xǐ
+- hanzi: 游泳
+  translate: swim
+  tags:
+    - Tense
+  pinyin: yóu yǒng
+- hanzi: 骑
+  translate: ride
+  tags:
+    - Tense
+  pinyin: qí
+- hanzi: 和
+  translate: and
+  tags:
+    - Tense
+  pinyin: hé
+- hanzi: 等
+  translate: and so on; and others; etc.
+  sentences:
+    - hanzi: 我 早上 买了 草莓 ， 櫻桃 等 水果
+      pinyin: wǒ zǎo shàng mǎi le cǎo méi ， yīng táo děng shuǐ guǒ
+  tags:
+    - Tense
+  pinyin: děng
+- hanzi: 刚才
+  translate: just now
+  sentences:
+    - hanzi: 我 刚才 游泳 了
+      pinyin: wǒ gāng cái yóu yǒng le
+  tags:
+    - Tense
+  pinyin: gāng cái
 - hanzi: 手
   translate: hand
   pinyin: shǒu

@@ -36,7 +36,7 @@ export default function FlashCard(props) {
         {listItems}
       </li>
     })
-    sentences = <div class="sentence-container">
+    sentences = <div className="sentence-container">
       <ul className="sentence-list">{sentenceItems}</ul>
     </div>
   }
