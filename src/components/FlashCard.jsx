@@ -25,7 +25,7 @@ export default function FlashCard(props) {
       const splitPinyin = sentence.pinyin.split(/\s+/)
       for (let word of sentence.hanzi.split(/\s+/)) {
         listItems.push(
-          <div className="hanzi-wrap">
+          <div className="hanzi-wrap" key={word}>
             <div className="hanzi">{word}</div>
             <div className="pinyin">{splitPinyin.slice(i, i + word.length).join(" ")}</div>
           </div>

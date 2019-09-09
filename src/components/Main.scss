@@ -9,3 +9,10 @@
   padding: 24px;
   min-height: 360px;
 }
+
+.sider-menu {
+  // make the radio buttons have a vertical layout
+  .ant-radio-wrapper {
+    display: block;
+  }
+}

@@ -53,7 +53,7 @@ export default function Main() {
 
   return <>
     <Layout style={{ minHeight: '100vh' }}>
-      <Sider theme="light">
+      <Sider theme="light" width="200px">
         <Menu theme="light" mode="inline" className="main-menu">
           {
             activeView === "list" ?
@@ -67,11 +67,11 @@ export default function Main() {
               </Menu.Item>
           }
         </Menu>
-        <Form layout="vertical">
+        <Form layout="vertical" className="sider-menu">
           <Form.Item label="Front side">
             <Radio.Group onChange={e => setFrontLang(e.target.value)} value={frontLang}>
-              <Radio value="mandarin" style={{ display: "block" }}>中文</Radio>
-              <Radio value="english" style={{ display: "block" }}>English</Radio>
+              <Radio value="mandarin">中文</Radio>
+              <Radio value="english">English</Radio>
             </Radio.Group>
           </Form.Item>
         </Form>
