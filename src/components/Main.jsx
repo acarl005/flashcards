@@ -1,7 +1,8 @@
 import { readFileSync } from "fs"
-import React, { useState } from "react"
-import { Layout, Menu, Form, Radio, Table, Icon } from "antd"
+import React, { useState, useRef } from "react"
+import { Layout, Menu, Form, Radio, Input, Table, Icon } from "antd"
 import yaml from "yaml"
+import debounce from "lodash.debounce"
 
 import FlashCard from "./FlashCard"
 import QuizReel from "./QuizReel"
@@ -24,11 +25,16 @@ export default function Main() {
   const [ shuffledCards, setShuffledCards ] = useState(data.slice())
   const [ frontLang, setFrontLang ] = useState("mandarin")
   const [ selectedTags, setSelectedTags ] = useState(new Set(allTags))
+  const [ searchTerm, setSearchTerm ] = useState("")
+  const searchRef = useRef(null)
+
   let activeComponent
   switch (activeView) {
     case "list":
       activeComponent = data
         .filter(obj => obj.tags && hasMatch(obj.tags, selectedTags))
+        .filter(obj => obj.pinyin.normalize("NFD").replace(/[\u0300-\u036f]/g, "").includes(searchTerm) ||
+                       obj.translate.normalize("NFD").replace(/[\u0300-\u036f]/g, "").includes(searchTerm))
         .map(obj => <FlashCard data={obj} key={obj.hanzi} frontLang={frontLang} />)
       break;
     case "quiz":
@@ -43,6 +49,7 @@ export default function Main() {
 
   function startQuiz() {
     setActiveView("quiz")
+    setSearchTerm("")
     setShuffledCards(shuffle(shuffledCards.slice()))
   }
 
@@ -74,6 +81,19 @@ export default function Main() {
               <Radio value="english">English</Radio>
             </Radio.Group>
           </Form.Item>
+          { activeView === "list" ?
+              <Form.Item>
+                <Input.Search
+                  ref={searchRef}
+                  placeholder="search cards"
+                  onChange={debounce(() => {
+                    setSearchTerm(searchRef.current.input.state.value)
+                  }, 200)}
+                  allowClear={true}
+                />
+              </Form.Item> :
+              null
+          }
         </Form>
         <Table
           rowSelection={{ onChange: onTagChange, selectedRowKeys: Array.from(selectedTags) }}
