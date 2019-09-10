@@ -1,6 +1,6 @@
 import { readFileSync } from "fs"
 import React, { useState, useRef } from "react"
-import { Layout, Menu, Form, Radio, Input, Table, Icon } from "antd"
+import { Layout, Menu, Drawer, Form, Radio, Input, Table, Icon, Button } from "antd"
 import yaml from "yaml"
 import debounce from "lodash.debounce"
 
@@ -11,6 +11,7 @@ import { shuffle, hasMatch } from "../utils"
 const { Header, Content, Footer, Sider } = Layout
 
 const data = yaml.parse(readFileSync("./card-data/data.yml", "utf8"))
+window.DATA = data
 let allTags = new Set
 for (let obj of data) {
   if (obj.tags) {
@@ -30,6 +31,7 @@ export default function Main() {
   const [ shuffledCards, setShuffledCards ] = useState(data.slice())
   const [ frontLang, setFrontLang ] = useState("mandarin")
   const [ selectedTags, setSelectedTags ] = useState(new Set(allTags))
+  const [ drawerOpen, setDrawerOpen ] = useState(false)
   const [ searchTerm, setSearchTerm ] = useState("")
   const searchRef = useRef(null)
 
@@ -63,52 +65,67 @@ export default function Main() {
     setSelectedTags(new Set(selectedRowKeys))
   }
 
+  const siderContents = <div className="sider-container">
+    <Menu theme="light" mode="inline" className="main-menu">
+      {
+        activeView === "list" ?
+          <Menu.Item key="1" onClick={startQuiz}>
+            <Icon type="question-circle" />
+            <span>Quiz</span>
+          </Menu.Item> :
+          <Menu.Item key="2" onClick={() => setActiveView("list")}>
+            <Icon type="switcher" />
+            <span>All</span>
+          </Menu.Item>
+      }
+    </Menu>
+    <Form layout="vertical" className="sider-menu">
+      <Form.Item label="Front side">
+        <Radio.Group onChange={e => setFrontLang(e.target.value)} value={frontLang}>
+          <Radio value="mandarin">中文</Radio>
+          <Radio value="english">English</Radio>
+        </Radio.Group>
+      </Form.Item>
+      { activeView === "list" ?
+          <Form.Item>
+            <Input.Search
+              ref={searchRef}
+              placeholder="search cards"
+              onChange={debounce(() => {
+                setSearchTerm(searchRef.current.input.state.value)
+              }, 200)}
+              allowClear={true}
+            />
+          </Form.Item> :
+          null
+      }
+    </Form>
+    <Table
+      rowSelection={{ onChange: onTagChange, selectedRowKeys: Array.from(selectedTags) }}
+      columns={[{ title: "Tags", dataIndex: "tag" }]}
+      dataSource={tableData}
+      pagination={false}
+      className="tag-table"
+    />
+  </div>
+
   return <>
     <Layout style={{ minHeight: '100vh' }}>
-      <Sider theme="light" width="200px">
-        <div className="sider-container">
-          <Menu theme="light" mode="inline" className="main-menu">
-            {
-              activeView === "list" ?
-                <Menu.Item key="1" onClick={startQuiz}>
-                  <Icon type="question-circle" />
-                  <span>Quiz</span>
-                </Menu.Item> :
-                <Menu.Item key="2" onClick={() => setActiveView("list")}>
-                  <Icon type="switcher" />
-                  <span>All</span>
-                </Menu.Item>
-            }
-          </Menu>
-          <Form layout="vertical" className="sider-menu">
-            <Form.Item label="Front side">
-              <Radio.Group onChange={e => setFrontLang(e.target.value)} value={frontLang}>
-                <Radio value="mandarin">中文</Radio>
-                <Radio value="english">English</Radio>
-              </Radio.Group>
-            </Form.Item>
-            { activeView === "list" ?
-                <Form.Item>
-                  <Input.Search
-                    ref={searchRef}
-                    placeholder="search cards"
-                    onChange={debounce(() => {
-                      setSearchTerm(searchRef.current.input.state.value)
-                    }, 200)}
-                    allowClear={true}
-                  />
-                </Form.Item> :
-                null
-            }
-          </Form>
-          <Table
-            rowSelection={{ onChange: onTagChange, selectedRowKeys: Array.from(selectedTags) }}
-            columns={[{ title: "Tags", dataIndex: "tag" }]}
-            dataSource={tableData}
-            pagination={false}
-          />
-        </div>
+      <Sider theme="light" className="flashcard-sider">
+        {siderContents}
       </Sider>
+      <Drawer
+        placement="left"
+        onClose={() => setDrawerOpen(!drawerOpen)}
+        visible={drawerOpen}
+        width="200px"
+        className="flashcard-drawer"
+      >
+        {siderContents}
+      </Drawer>
+      <Button onClick={() => setDrawerOpen(!drawerOpen)} className="drawer-button">
+        <Icon type="menu-unfold" />
+      </Button>
       <Layout className="content">
         <Content className="content-display">
           <div className="content-wrap">

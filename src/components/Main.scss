@@ -10,6 +10,43 @@
   min-height: 360px;
 }
 
+.ant-layout.content {
+  margin-left: 200px;
+}
+
+.flashcard-sider {
+  z-index: 100;
+}
+
+.flashcard-drawer {
+  .ant-drawer-body {
+    padding: 0;
+  }
+  .main-menu {
+    margin-bottom: 30px;
+  }
+}
+
+.drawer-button {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 0;
+  outline: none;
+  box-shadow: 10px 0 10px #ccc;
+  z-index: 99;
+}
+
+@media only screen and (max-width: 768px) {
+  .flashcard-sider {
+    display: none;
+  }
+
+  .ant-layout.content {
+    margin-left: 0;
+  }
+}
+
 .sider-menu {
   // make the radio buttons have a vertical layout
   .ant-radio-wrapper {
@@ -20,4 +57,29 @@
 .sider-container {
   height: 100%;
   overflow-y: scroll;
+  .ant-form {
+    padding: 0 16px;
+  }
+}
+
+.tag-table {
+  .ant-table-tbody > tr:hover:not(.ant-table-expanded-row) > td,
+  .ant-table-tbody > tr:not(.ant-table-expanded-row) > td {
+    background: white;
+  }
+
+  .ant-table-thead > tr > th {
+    background: white;
+  }
+
+  .ant-table-thead > tr > th,
+  .ant-table-tbody > tr > td {
+    padding: 16px 8px;
+    width: 25%;
+  }
+
+  .ant-table-thead > tr > th:not(:first-child),
+  .ant-table-tbody > tr > td:not(:first-child) {
+    width: 75%;
+  }
 }

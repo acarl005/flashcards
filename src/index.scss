@@ -22,26 +22,6 @@ body {
   }
 }
 
-.ant-layout.content {
-  margin-left: 200px;
-}
-
-.ant-table-tbody > tr:hover:not(.ant-table-expanded-row) > td,
-.ant-table-tbody > tr:not(.ant-table-expanded-row) > td {
-  background: white;
-}
-
-.ant-table-thead > tr > th {
-  background: white;
-}
-
-.ant-table-thead > tr > th,
-.ant-table-tbody > tr > td {
-  padding: 16px 8px;
-  width: 25%;
-}
-
-.ant-table-thead > tr > th:not(:first-child),
-.ant-table-tbody > tr > td:not(:first-child) {
-  width: 75%;
+.ant-menu-inline {
+  border-right: none;
 }
