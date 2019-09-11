@@ -235,11 +235,6 @@
   tags:
     - Colors
   pinyin: hēi
-- hanzi: 天
-  translate: sky
-  tags:
-    - Colors
-  pinyin: tiān
 - hanzi: 一
   translate: "1"
   tags:
@@ -882,6 +877,7 @@
   translate: day
   tags:
     - Numbers 2
+    - Colors
   pinyin: tiān
 - hanzi: 星期
   translate: week
