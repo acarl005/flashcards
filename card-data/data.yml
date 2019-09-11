@@ -1064,6 +1064,84 @@
   tags:
     - Question 2
   pinyin: jīng cháng
+- hanzi: 谁
+  translate: who
+  sentences:
+    - hanzi: 那 个 女人 是 谁
+      pinyin: nà gè nǚ rén shì shéi
+  tags:
+    - Question 2
+  pinyin: shéi
+- hanzi: 妈妈
+  translate: mom; mama
+  tags:
+    - Family
+  pinyin: mā mā
+- hanzi: 爸爸
+  translate: dad; papa
+  tags:
+    - Family
+  pinyin: bà bà
+- hanzi: 妻子
+  translate: wife
+  tags:
+    - Family
+  pinyin: qī zi
+- hanzi: 丈夫
+  translate: husband
+  tags:
+    - Family
+  pinyin: zhàng fū
+- hanzi: 家
+  translate: home
+  tags:
+    - Family
+  pinyin: jiā
+- hanzi: 女儿
+  translate: daughter
+  tags:
+    - Family
+  pinyin: nǚ ér
+- hanzi: 儿子
+  translate: son
+  tags:
+    - Family
+  pinyin: ér zi
+- hanzi: 奶奶
+  translate: grandma
+  tags:
+    - Family
+  pinyin: nǎi nǎi
+- hanzi: 爷爷
+  translate: grandpa
+  tags:
+    - Family
+  pinyin: yé yé
+- hanzi: 孩子
+  translate: kids
+  tags:
+    - Family
+  pinyin: hái zi
+- hanzi: 哥哥
+  translate: big brother
+  tags:
+    - Family
+  pinyin: gē gē
+- hanzi: 姐姐
+  translate: big sister
+  tags:
+    - Family
+  pinyin: jiě jiě
+- hanzi: 弟弟
+  translate: little brother
+  tags:
+    - Family
+  pinyin: dì dì
+- hanzi: 妹妹
+  translate: little sister
+  tags:
+    - Family
+  pinyin: mèi mèi
 - hanzi: 手
   translate: hand
   pinyin: shǒu
