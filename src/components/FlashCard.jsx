@@ -1,7 +1,8 @@
-import React from "react"
+import React, { useState } from "react"
 import { Card, Tag } from "antd"
 
 export default function FlashCard(props) {
+  const [ cardTouched, setCardTouched ] = useState(false)
   const frontSide = props.frontLang === "mandarin" ?
     <div className="hanzi-wrap title">
       <div className="hanzi">{props.data.hanzi}</div>
@@ -42,7 +43,11 @@ export default function FlashCard(props) {
   }
 
   return <>
-    <div className={`flip-card ${props.flipped ? "flipped" : ""}`}>
+    <div
+      className={`flip-card ${props.flipped || cardTouched ? "flipped" : ""}`}
+      onTouchStart={() => setCardTouched(true)}
+      onTouchEnd={() => setCardTouched(false)}
+    >
       <div className="flip-card-inner">
         <div className="flip-card-front">
           <Card className="flashcard">

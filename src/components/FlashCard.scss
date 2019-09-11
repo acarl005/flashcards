@@ -20,7 +20,18 @@
   }
 }
 
-.flip-card:hover .flip-card-inner,
+// mobile devices (a.k.a. touch devices) triger the :hover event when you touch an element and it leaves it
+// in the hover state after you end the touch. This is a problem, as I want the card to flip back over when
+// the user is done touching. this media query ensures the flipping on :hover only happens on devices with
+// a "real" hover capability. for touch devices, I'll have React handle this more manually using the
+// `onTouchStart` and `onTouchEnd` events
+@media (hover: hover) {
+  .flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+  }
+}
+
+// if we want to flip more "manually" by adding a class explicitly
 .flip-card.flipped .flip-card-inner {
   transform: rotateY(180deg);
 }
@@ -92,3 +103,14 @@
   font-size: 18px;
   margin: 10px 0;
 }
+
+@media only screen and (max-width: 768px) {
+  .content-wrap {
+    width: 100%;
+    padding: 0;
+  }
+  .flip-card {
+    width: 100%;
+  }
+}
+

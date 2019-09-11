@@ -40,8 +40,8 @@ export default function Main() {
     case "list":
       activeComponent = data
         .filter(obj => obj.tags && hasMatch(obj.tags, selectedTags))
-        .filter(obj => obj.pinyin.normalize("NFD").replace(/[\u0300-\u036f]/g, "").includes(searchTerm) ||
-                       obj.translate.normalize("NFD").replace(/[\u0300-\u036f]/g, "").includes(searchTerm))
+        .filter(obj => obj.pinyin.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").includes(searchTerm) ||
+                       obj.translate.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").includes(searchTerm))
         .map(obj => <FlashCard data={obj} key={obj.hanzi} frontLang={frontLang} />)
       break;
     case "quiz":
@@ -69,11 +69,11 @@ export default function Main() {
     <Menu theme="light" mode="inline" className="main-menu">
       {
         activeView === "list" ?
-          <Menu.Item key="1" onClick={startQuiz}>
+          <Menu.Item key="1" onClick={() => (startQuiz(), setDrawerOpen(false))}>
             <Icon type="question-circle" />
             <span>Quiz</span>
           </Menu.Item> :
-          <Menu.Item key="2" onClick={() => setActiveView("list")}>
+          <Menu.Item key="2" onClick={() => (setActiveView("list"), setDrawerOpen(false))}>
             <Icon type="switcher" />
             <span>All</span>
           </Menu.Item>
@@ -92,7 +92,7 @@ export default function Main() {
               ref={searchRef}
               placeholder="search cards"
               onChange={debounce(() => {
-                setSearchTerm(searchRef.current.input.state.value)
+                setSearchTerm(searchRef.current.input.state.value.toLowerCase())
               }, 200)}
               allowClear={true}
             />
