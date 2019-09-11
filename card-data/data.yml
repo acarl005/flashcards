@@ -952,6 +952,86 @@
   tags:
     - Numbers 2
   pinyin: cì
+- hanzi: 马
+  translate: horse
+  sentences:
+    - hanzi: 我 吃了 十 匹 马
+      pinyin: wǒ chī le shí pǐ mǎ
+  tags:
+    - Animals
+  pinyin: mǎ
+- hanzi: 牛
+  translate: cow
+  sentences:
+    - hanzi: 你 吃了 十 头 牛
+      pinyin: nǐ chī le shí tóu niú
+  tags:
+    - Animals
+  pinyin: niú
+- hanzi: 貓
+  translate: cat
+  sentences:
+    - hanzi: 他 吃了 十 只 貓
+      pinyin: tā chī le shí zhǐ māo
+  tags:
+    - Animals
+  pinyin: māo
+- hanzi: 狗
+  translate: dog
+  sentences:
+    - hanzi: 這 只 狗 很 胖
+      pinyin: zhè zhǐ gǒu hěn pàng
+  tags:
+    - Animals
+  pinyin: gǒu
+- hanzi: 大
+  translate: big; elder
+  tags:
+    - Animals
+  pinyin: dà
+- hanzi: 小
+  translate: small; younger
+  tags:
+    - Animals
+  pinyin: xiǎo
+- hanzi: 高
+  translate: tall
+  tags:
+    - Animals
+  pinyin: gāo
+- hanzi: 矮
+  translate: short (not tall)
+  tags:
+    - Animals
+  pinyin: ǎi
+- hanzi: 胖
+  translate: fat; chubby
+  tags:
+    - Animals
+  pinyin: pàng
+- hanzi: 瘦
+  translate: thin
+  tags:
+    - Animals
+  pinyin: shòu
+- hanzi: 很
+  translate: very (but not very very)
+  tags:
+    - Animals
+  pinyin: hěn
+- hanzi: 非常
+  translate: very very
+  tags:
+    - Animals
+  pinyin: fēi cháng
+- hanzi: 比
+  translate: than
+  sentences:
+    - hanzi: 我 的 阴茎 比 你的 阴茎 大
+      pinyin: wǒ de yīn jīng bǐ nǐ de yīn jīng dà
+  tags:
+    - Animals
+  pinyin: bǐ
 - hanzi: 手
   translate: hand
   pinyin: shǒu
