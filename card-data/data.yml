@@ -1032,6 +1032,38 @@
   tags:
     - Animals
   pinyin: bǐ
+- hanzi: 几
+  translate: how many
+  sentences:
+    - hanzi: 你 昨天 买了 几 个 西瓜 ？
+      pinyin: nǐ zuó tiān mǎi le jǐ gè xī guā ？
+  tags:
+    - Question 2
+  pinyin: jǐ
+- hanzi: 呢
+  translate: reciprocal question particle (how about?)
+  sentences:
+    - hanzi: 我 爱 我 的 媽媽 ， 你呢 ？
+      pinyin: wǒ ài wǒ de mā mā ， nǐ ne ？
+  tags:
+    - Question 2
+  pinyin: ne
+- hanzi: 现在
+  translate: now
+  sentences:
+    - hanzi: 现在 几 点 ？
+      pinyin: xiàn zài jǐ diǎn ？
+  tags:
+    - Question 2
+  pinyin: xiàn zài
+- hanzi: 经常
+  translate: often
+  sentences:
+    - hanzi: 我 经常 游泳
+      pinyin: wǒ jīng cháng yóu yǒng
+  tags:
+    - Question 2
+  pinyin: jīng cháng
 - hanzi: 手
   translate: hand
   pinyin: shǒu
