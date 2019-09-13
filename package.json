@@ -4,13 +4,15 @@
   "description": "Simple web app for Chinese (Mandarin) flash cards.",
   "main": "src/index.html",
   "scripts": {
-    "dev": "parcel src/index.html",
-    "build": "rm -rf dist && parcel build --public-url /flashcards src/index.html",
-    "publish": "npm run build && node --experimental-modules publish.mjs"
+    "dev": "parcel src/index.html src/service-worker.js",
+    "build": "rm -rf dist && parcel build --public-url /flashcards src/index.html src/service-worker.js",
+    "publish": "npm run build && node --experimental-modules publish.mjs",
+    "start": "node --experimental-modules server.mjs"
   },
   "author": "Andrew Carlson <acarl005@g.ucla.edu>",
   "license": "MIT",
   "devDependencies": {
+    "express": "^4.17.1",
     "gh-pages": "^2.1.1",
     "parcel": "^1.12.3",
     "sass": "^1.23.0-module.beta.1"

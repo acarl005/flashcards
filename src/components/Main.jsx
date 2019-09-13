@@ -11,7 +11,6 @@ import { shuffle, hasMatch } from "../utils"
 const { Header, Content, Footer, Sider } = Layout
 
 const data = yaml.parse(readFileSync("./card-data/data.yml", "utf8"))
-window.DATA = data
 let allTags = new Set
 for (let obj of data) {
   if (obj.tags) {
@@ -102,7 +101,7 @@ export default function Main() {
     </Form>
     <Table
       rowSelection={{ onChange: onTagChange, selectedRowKeys: Array.from(selectedTags) }}
-      columns={[{ title: "Tags", dataIndex: "tag" }]}
+      columns={[{ title: "All Tags", dataIndex: "tag" }]}
       dataSource={tableData}
       pagination={false}
       className="tag-table"
