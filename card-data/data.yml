@@ -1172,3 +1172,80 @@
   pinyin: bí zi
   tags:
     - Family
+- hanzi: 着
+  translate: persistent state particle (follows a verb to indicate it is an ongoing state)
+  tags:
+    - Clothing
+  pinyin: zhe
+- hanzi: 毛衣
+  translate: sweater
+  sentences:
+    - hanzi: 妈妈 穿着 一件 粉色 的 衬衫
+      pinyin: mā mā chuān zhe yī jiàn fěn sè de chèn shān
+  tags:
+    - Clothing
+  pinyin: máo yī
+- hanzi: 衬衫
+  translate: shirt
+  tags:
+    - Clothing
+  pinyin: chèn shān
+- hanzi: 外套
+  translate: coat
+  tags:
+    - Clothing
+  pinyin: wài tào
+- hanzi: 灰色
+  translate: gray
+  tags:
+    - Clothing
+  pinyin: huī sè
+- hanzi: 橙色
+  translate: orange (color)
+  tags:
+    - Clothing
+  pinyin: chéng sè
+- hanzi: 粉色
+  translate: pink
+  tags:
+    - Clothing
+  pinyin: fěn sè
+- hanzi: 穿
+  translate: wear (clothes)
+  tags:
+    - Clothing
+  pinyin: chuān
+- hanzi: 鞋子
+  translate: shoe
+  tags:
+    - Clothing
+  pinyin: xié zi
+- hanzi: 围巾
+  translate: scarf
+  sentences:
+    - hanzi: 姐姐 戴 着 一 条 白色 的 围巾
+      pinyin: jiě jiě dài zhe yī tiáo bái sè de wéi jīn
+  tags:
+    - Clothing
+  pinyin: wéi jīn
+- hanzi: 袜子
+  translate: socks
+  sentences:
+    - hanzi: 妹妹 穿着 一 双 粉色 的 袜子
+      pinyin: mèi mèi chuān zhe yī shuāng fěn sè de wà zi
+  tags:
+    - Clothing
+  pinyin: wà zi
+- hanzi: 帽子
+  translate: hat
+  sentences:
+    - hanzi: 哥哥 戴着 一 顶 黑色 的 帽子
+      pinyin: gē gē dài zhe yī dǐng hēi sè de mào zi
+  tags:
+    - Clothing
+  pinyin: mào zi
+- hanzi: 戴
+  translate: wear (hats or accessories)
+  tags:
+    - Clothing
+  pinyin: dài
