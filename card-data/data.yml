@@ -1249,3 +1249,49 @@
   tags:
     - Clothing
   pinyin: dài
+- hanzi: 裤子
+  translate: pants
+  tags:
+    - Clothing
+  pinyin: kù zi
+- hanzi: 裙子
+  translate: skirt; dress
+  tags:
+    - Clothing
+  pinyin: qún zi
+- hanzi: 钻石
+  translate: diamond
+  tags:
+    - Clothing
+  pinyin: zuān shí
+- hanzi: 戒指
+  translate: ring
+  tags:
+    - Clothing
+  pinyin: jiè zhǐ
+- hanzi: 项链
+  translate: necklace
+  tags:
+    - Clothing
+  pinyin: xiàng liàn
+- hanzi: 给
+  translate: give
+  tags:
+    - Clothing
+  pinyin: gěi
+- hanzi: 手表
+  translate: watch
+  sentences:
+    - hanzi: 妈妈 给了 爸爸 一 块 手表
+      pinyin: mā mā gěi le bà bà yī kuài shǒu biǎo
+  tags:
+    - Clothing
+  pinyin: shǒu biǎo
+- hanzi: 耳环
+  translate: earrings
+  sentences:
+    - hanzi: 爷爷 给了 奶奶 一 对 钻石 耳环
+      pinyin: yé yé gěi le nǎi nǎi yī duì zuān shí ěr huán
+  tags:
+    - Clothing
+  pinyin: ěr huán
