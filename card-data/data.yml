@@ -149,7 +149,7 @@
     - Basics 3
 - hanzi: 在
   pinyin: zài
-  translate: currently
+  translate: currently; at
   tags:
     - Basics 3
 - hanzi: 唱
@@ -755,7 +755,7 @@
     - Tense
   pinyin: xiāng jiāo
 - hanzi: 橙子
-  translate: orange
+  translate: orange (color)
   tags:
     - Tense
   pinyin: chéng zi
@@ -1033,7 +1033,7 @@
     - Animals
   pinyin: bǐ
 - hanzi: 几
-  translate: how many
+  translate: how many (small, countable quantities)
   sentences:
     - hanzi: 你 昨天 买了 几 个 西瓜 ？
       pinyin: nǐ zuó tiān mǎi le jǐ gè xī guā ？
@@ -1180,8 +1180,8 @@
 - hanzi: 毛衣
   translate: sweater
   sentences:
-    - hanzi: 妈妈 穿着 一件 粉色 的 衬衫
-      pinyin: mā mā chuān zhe yī jiàn fěn sè de chèn shān
+    - hanzi: 妈妈 穿着 一件 粉色 的 毛衣
+      pinyin: mā mā chuān zhe yī jiàn fěn sè de máo yī
   tags:
     - Clothing
   pinyin: máo yī
@@ -1263,7 +1263,7 @@
   translate: diamond
   tags:
     - Clothing
-  pinyin: zuān shí
+  pinyin: zuàn shí
 - hanzi: 戒指
   translate: ring
   tags:
@@ -1291,7 +1291,128 @@
   translate: earrings
   sentences:
     - hanzi: 爷爷 给了 奶奶 一 对 钻石 耳环
-      pinyin: yé yé gěi le nǎi nǎi yī duì zuān shí ěr huán
+      pinyin: yé yé gěi le nǎi nǎi yī duì zuàn shí ěr huán
   tags:
     - Clothing
   pinyin: ěr huán
+- hanzi: 请问
+  translate: excuse me; may I ask
+  tags:
+    - Shopping
+  pinyin: qǐng wèn
+- hanzi: 钱
+  translate: money
+  sentences:
+    - hanzi: 苹果 一 斤 五 块 钱
+      pinyin: píng guǒ yī jīn wǔ kuài qián
+  tags:
+    - Shopping
+  pinyin: qián
+- hanzi: 便宜
+  translate: cheap
+  tags:
+    - Shopping
+  pinyin: biàn yí
+- hanzi: 贵
+  translate: expensive
+  tags:
+    - Shopping
+  pinyin: guì
+- hanzi: 东西
+  translate: things
+  tags:
+    - Shopping
+  pinyin: dōng xī
+- hanzi: 牙刷
+  translate: toothbrush
+  tags:
+    - Shopping
+  pinyin: yá shuā
+- hanzi: 牙膏
+  translate: toothpaste
+  tags:
+    - Shopping
+  pinyin: yá gāo
+- hanzi: 商店
+  translate: store; shop
+  tags:
+    - Shopping
+  pinyin: shāng diàn
+- hanzi: 毛巾
+  translate: towel
+  tags:
+    - Shopping
+  pinyin: máo jīn
+- hanzi: 洗发水
+  translate: shampoo
+  tags:
+    - Shopping
+  pinyin: xǐ fā shuǐ
+- hanzi: 多少
+  translate: how many (large or uncountable quantities)
+  sentences:
+    - hanzi: 这 件 衬衫 多少 钱
+      pinyin: zhè jiàn chèn shān duō shǎo qián
+  tags:
+    - Shopping
+  pinyin: duō shǎo
+- hanzi: 太
+  translate: too
+  sentences:
+    - hanzi: 太 贵了
+      pinyin: tài guì le
+  tags:
+    - Shopping
+  pinyin: tài
+- hanzi: 为什么
+  translate: for what; why
+  sentences:
+    - hanzi: 你 为什么 买 十 件 衬衫 ？
+      pinyin: nǐ wèi shén me mǎi shí jiàn chèn shān ？
+  tags:
+    - Shopping
+  pinyin: wèi shén me
+- hanzi: 因为
+  translate: because
+  sentences:
+    - hanzi: 因为 这 件 衬衫 很 便宜 所以 我 买 十 件
+      pinyin: yīn wèi zhè jiàn chèn shān hěn biàn yí suǒ yǐ wǒ mǎi shí jiàn
+  tags:
+    - Shopping
+  pinyin: yīn wèi
+- hanzi: 所以
+  translate: so
+  sentences:
+    - hanzi: 因为 这 件 衬衫 很 便宜 所以 我 买 十 件
+      pinyin: yīn wèi zhè jiàn chèn shān hěn biàn yí suǒ yǐ wǒ mǎi shí jiàn
+  tags:
+    - Shopping
+  pinyin: suǒ yǐ
+- hanzi: 想
+  translate: wish; would like
+  tags:
+    - Shopping
+  pinyin: xiǎng
+- hanzi: 斤
+  translate: half kilogram
+  tags:
+    - Shopping
+  pinyin: jīn
+- hanzi: 哪里
+  translate: where
+  tags:
+    - Shopping
+  pinyin: nǎ lǐ
+- hanzi: 去
+  translate: go
+  tags:
+    - Shopping
+  pinyin: qù
+- hanzi: 干
+  translate: do
+  sentences:
+    - hanzi: 你 去 商店 干什么
+      pinyin: nǐ qù shāng diàn gàn shén me
+  tags:
+    - Shopping
+  pinyin: gàn
