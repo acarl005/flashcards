@@ -152,6 +152,7 @@
   translate: currently; at
   tags:
     - Basics 3
+    - Household
 - hanzi: 唱
   pinyin: chàng
   translate: sing
@@ -913,10 +914,15 @@
     - Numbers 2
   pinyin: miǎo
 - hanzi: 起床
-  translate: get up
+  translate: arise from bed
   tags:
     - Numbers 2
   pinyin: qǐ chuáng
+- hanzi: 起
+  translate: rise; start
+  tags:
+    - Numbers 2
+  pinyin: qǐ
 - hanzi: 上班
   translate: on/start work
   tags:
@@ -1416,3 +1422,86 @@
   tags:
     - Shopping
   pinyin: gàn
+- hanzi: 吧
+  translate: The suggestion particle. Add to end of a statement to make it a suggestion.
+  sentences:
+    - hanzi: 关 窗 吧
+      pinyin: guān chuāng ba
+  tags:
+    - Household
+  pinyin: ba
+- hanzi: 客厅
+  translate: living room
+  tags:
+    - Household
+  pinyin: kè tīng
+- hanzi: 卧室
+  translate: bedroom
+  tags:
+    - Household
+  pinyin: wò shì
+- hanzi: 里
+  translate: inside
+  tags:
+    - Household
+  pinyin: lǐ
+- hanzi: 饭厅
+  translate: dining room
+  tags:
+    - Household
+  pinyin: fàn tīng
+- hanzi: 洗手间
+  translate: washroom; bathroom
+  tags:
+    - Household
+  pinyin: xǐ shǒu jiān
+- hanzi: 厨房
+  translate: kitchen
+  tags:
+    - Household
+  pinyin: chú fáng
+- hanzi: 门
+  translate: door
+  tags:
+    - Household
+  pinyin: mén
+- hanzi: 窗
+  translate: window
+  tags:
+    - Household
+  pinyin: chuāng
+- hanzi: 灯
+  translate: lamp
+  tags:
+    - Household
+  pinyin: dēng
+- hanzi: 关
+  translate: close; turn off
+  tags:
+    - Household
+  pinyin: guān
+- hanzi: 开
+  translate: open; turn on
+  tags:
+    - Household
+  pinyin: kāi
+- hanzi: 钥匙
+  translate: key
+  tags:
+    - Household
+  pinyin: yào shi
+- hanzi: 沙发
+  translate: sofa
+  tags:
+    - Household
+  pinyin: shā fā
+- hanzi: 床
+  translate: bed
+  tags:
+    - Household
+  pinyin: chuáng
+- hanzi: 上
+  translate: on; upon; atop; above
+  tags:
+    - Household
+  pinyin: shàng
