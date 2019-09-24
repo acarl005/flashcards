@@ -1505,3 +1505,113 @@
   tags:
     - Household
   pinyin: shàng
+- hanzi: 电话
+  translate: phone (electric words)
+  tags:
+    - Household
+  pinyin: diàn huà
+- hanzi: 电视
+  translate: television (electric vision)
+  tags:
+    - Household
+  pinyin: diàn shì
+- hanzi: 电脑
+  translate: computer (electric brain)
+  tags:
+    - Household
+  pinyin: diàn nǎo
+- hanzi: 空调
+  translate: air conditioner
+  tags:
+    - Household
+  pinyin: kōng tiáo
+- hanzi: 打
+  translate: make (a call)
+  tags:
+    - Household
+  pinyin: dǎ
+- hanzi: 洗澡
+  translate: bathe
+  tags:
+    - Household
+  pinyin: xǐ zǎo
+- hanzi: 玩
+  translate: play
+  tags:
+    - Household
+  pinyin: wán
+- hanzi: 烤箱
+  translate: oven (grill box)
+  tags:
+    - Household
+  pinyin: kǎo xiāng
+- hanzi: 洗衣机
+  translate: washing machine
+  tags:
+    - Household
+  pinyin: xǐ yī jī
+- hanzi: 衣服
+  translate: clothes
+  tags:
+    - Household
+  pinyin: yī fú
+- hanzi: 餐具
+  translate: tableware (meal device)
+  tags:
+    - Household
+  pinyin: cān jù
+- hanzi: 工具
+  translate: tool (work device)
+  tags:
+    - Household
+  pinyin: gōng jù
+- hanzi: 玩具
+  translate: toy (play device)
+  tags:
+    - Household
+  pinyin: wán jù
+- hanzi: 修
+  translate: repair
+  tags:
+    - Household
+  pinyin: xiū
+- hanzi: 眼镜
+  translate: glasses (eye mirror)
+  tags:
+    - Household
+  pinyin: yǎn jìng
+- hanzi: 盖
+  translate: cover
+  tags:
+    - Household
+  pinyin: gài
+- hanzi: 被子
+  translate: quilt
+  tags:
+    - Household
+  pinyin: bèi zi
+- hanzi: 枕头
+  translate: pillow
+  tags:
+    - Household
+  pinyin: zhěn tóu
+- hanzi: 抱
+  translate: embrace; hold
+  tags:
+    - Household
+  pinyin: bào
+- hanzi: 做饭
+  translate: cook (do/make rice)
+  tags:
+    - Household
+  pinyin: zuò fàn
+- hanzi: 用
+  translate: use
+  tags:
+    - Household
+  pinyin: yòng
+- hanzi: 睡着
+  translate: sleep
+  tags:
+    - Household
+  pinyin: shuì zhe
