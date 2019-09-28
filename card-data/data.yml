@@ -1660,3 +1660,49 @@
   tags:
     - Country
   pinyin: shàng hǎi
+- hanzi: 伦敦
+  translate: London
+  tags:
+    - Country
+  pinyin: lún dūn
+- hanzi: 纽约
+  translate: New York
+  tags:
+    - Country
+  pinyin: niǔ yuē
+- hanzi: 大阪
+  translate: Osaka
+  tags:
+    - Country
+  pinyin: dà bǎn
+- hanzi: 东
+  translate: east
+  tags:
+    - Country
+  pinyin: dōng
+- hanzi: 南
+  translate: south
+  tags:
+    - Country
+  pinyin: nán
+- hanzi: 北
+  translate: north
+  sentences:
+    - hanzi: 北京 在 上海 的 西北 边
+      pinyin: běi jīng zài shàng hǎi de xī běi biān
+  tags:
+    - Country
+  pinyin: běi
+- hanzi: 西
+  translate: west
+  tags:
+    - Country
+  pinyin: xī
+- hanzi: 边
+  translate: side
+  tags:
+    - Country
+  sentences:
+    - hanzi: 美国 在 中国 的 西 边
+      pinyin: měi guó zài zhōng guó de xī biān
+  pinyin: biān
