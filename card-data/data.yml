@@ -1706,3 +1706,61 @@
     - hanzi: 美国 在 中国 的 西 边
       pinyin: měi guó zài zhōng guó de xī biān
   pinyin: biān
+- hanzi: 日文
+  translate: Japanese (language)
+  tags:
+    - Language
+  pinyin: rì wén
+- hanzi: 中文
+  translate: Chinese (language)
+  tags:
+    - Language
+  pinyin: zhōng wén
+- hanzi: 英文
+  translate: English (language)
+  tags:
+    - Language
+  pinyin: yīng wén
+- hanzi: 法文
+  translate: French (language)
+  tags:
+    - Language
+  pinyin: fǎ wén
+- hanzi: 语言
+  translate: language
+  tags:
+    - Language
+  pinyin: yǔ yán
+- hanzi: 说
+  translate: speak; say
+  tags:
+    - Language
+  pinyin: shuō
+- hanzi: 学习
+  translate: study
+  tags:
+    - Language
+  pinyin: xué xí
+- hanzi: 难
+  translate: difficult
+  tags:
+    - Language
+  pinyin: nán
+- hanzi: 简单
+  translate: easy
+  tags:
+    - Language
+  pinyin: jiǎn dān
+- hanzi: 会
+  translate: can; able to
+  tags:
+    - Language
+  pinyin: huì
+- hanzi: 多
+  translate: to what degree, e.g. how old? how long? how big?
+  sentences:
+    - hanzi: 你 学习 中文 多久了 ？
+      pinyin: nǐ xué xí zhōng wén duō jiǔ le ？
+  tags:
+    - Language
+  pinyin: duō
