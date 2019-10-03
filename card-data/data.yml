@@ -615,7 +615,7 @@
     - hanzi: 我 不 会 跳舞
       pinyin: wǒ bù huì tiào wǔ
   tags:
-    - Negation
+    - Negation 1
   pinyin: bù
 - hanzi: 沒
   translate: not; negation of 有(yǒu) and past tense
@@ -623,7 +623,7 @@
     - hanzi: 我 沒有 钱
       pinyin: wǒ méi yǒu qián
   tags:
-    - Negation
+    - Negation 1
   pinyin: méi
 - hanzi: 名字
   translate: given name
@@ -1611,7 +1611,7 @@
     - Household
   pinyin: yòng
 - hanzi: 睡着
-  translate: sleep
+  translate: asleep
   tags:
     - Household
   pinyin: shuì zháo
@@ -1764,3 +1764,39 @@
   tags:
     - Language
   pinyin: duō
+- hanzi: 觉得
+  translate: feel; seem;
+  sentences:
+    - hanzi: 我 觉得 中文 简单
+      pinyin: wǒ jué dé zhōng wén jiǎn dān
+  tags:
+    - Language
+  pinyin: jué dé
+- hanzi: 重
+  translate: heavy; weight
+  tags:
+    - Negation 2
+  pinyin: zhòng
+- hanzi: 跑步
+  translate: run
+  tags:
+    - Negation 2
+  pinyin: pǎo bù
+- hanzi: 睡觉
+  translate: sleep
+  tags:
+    - Negation 2
+  pinyin: shuì jiào
+- hanzi: 以前
+  translate: before
+  sentences:
+    - hanzi: 他 睡觉 以前 喝 没 喝 牛奶 ？
+      pinyin: tā shuì jué yǐ qián hē méi hē niú nǎi ？
+  tags:
+    - Negation 2
+  pinyin: yǐ qián
+- hanzi: 以后
+  translate: after
+  tags:
+    - Negation 2
+  pinyin: yǐ hòu
