@@ -15,7 +15,7 @@
     - Basics 1
 - hanzi: 我
   pinyin: wǒ
-  translate: I, me
+  translate: I; me
   tags:
     - Basics 1
 - hanzi: 你
@@ -568,7 +568,7 @@
     - Nature
   pinyin: tài yáng
 - hanzi: 地球
-  translate: Earth
+  translate: Earth (ground sphere)
   tags:
     - Nature
   pinyin: dì qiú
@@ -1765,7 +1765,7 @@
     - Language
   pinyin: duō
 - hanzi: 觉得
-  translate: feel; seem;
+  translate: feel; seem
   sentences:
     - hanzi: 我 觉得 中文 简单
       pinyin: wǒ jué dé zhōng wén jiǎn dān
@@ -1791,7 +1791,7 @@
   translate: before
   sentences:
     - hanzi: 他 睡觉 以前 喝 没 喝 牛奶 ？
-      pinyin: tā shuì jué yǐ qián hē méi hē niú nǎi ？
+      pinyin: tā shuì jiào yǐ qián hē méi hē niú nǎi ？
   tags:
     - Negation 2
   pinyin: yǐ qián
@@ -1800,3 +1800,95 @@
   tags:
     - Negation 2
   pinyin: yǐ hòu
+- hanzi: 飞机
+  translate: airplane (fly machine)
+  tags:
+    - Travel
+  pinyin: fēi jī
+- hanzi: 轮船
+  translate: ship
+  tags:
+    - Travel
+  pinyin: lún chuán
+- hanzi: 火车
+  translate: train
+  tags:
+    - Travel
+  pinyin: huǒ chē
+- hanzi: 交通
+  translate: transportation; traffic
+  tags:
+    - Travel
+  pinyin: jiāo tōng
+- hanzi: 从
+  translate: from
+  sentences:
+    - hanzi: 从 北京 到 上海 要 多久 ？
+      pinyin: cóng běi jīng dào shàng hǎi yào duō jiǔ ？
+  tags:
+    - Travel
+  pinyin: cóng
+- hanzi: 到
+  translate: to
+  sentences:
+    - hanzi: 从 北京 到 上海 要 多久 ？
+      pinyin: cóng běi jīng dào shàng hǎi yào duō jiǔ ？
+  tags:
+    - Travel
+  pinyin: dào
+- hanzi: 久
+  translate: long (time)
+  tags:
+    - Travel
+  pinyin: jiǔ
+- hanzi: 坐
+  translate: sit; travel by
+  sentences:
+    - hanzi: 从 上海 到 大阪 坐 轮船 要 两 天
+      pinyin: cóng shàng hǎi dào dà bǎn zuò lún chuán yào liǎng tiān
+  tags:
+    - Travel
+  pinyin: zuò
+- hanzi: 可以
+  translate: may; can
+  sentences:
+    - hanzi: 从 北京 到 上海 可以 坐 什么 交通 工具 ？
+      pinyin: cóng běi jīng dào shàng hǎi kě yǐ zuò shén me jiāo tōng gōng jù ？
+  tags:
+    - Travel
+  pinyin: kě yǐ
+- hanzi: 或者
+  translate: or
+  tags:
+    - Travel
+  pinyin: huò zhě
+- hanzi: 车站
+  translate: station
+  tags:
+    - Travel
+  pinyin: chē zhàn
+- hanzi: 码头
+  translate: pier; dock
+  tags:
+    - Travel
+  pinyin: mǎ tóu
+- hanzi: 机场
+  translate: airport (machine field)
+  tags:
+    - Travel
+  pinyin: jī chǎng
+- hanzi: 地铁
+  translate: subway (ground iron)
+  tags:
+    - Travel
+  pinyin: dì tiě
+- hanzi: 火车站
+  translate: train station
+  tags:
+    - Travel
+  pinyin: huǒ chē zhàn
+- hanzi: 出租车
+  translate: taxi (rented car)
+  tags:
+    - Travel
+  pinyin: chū zū chē
