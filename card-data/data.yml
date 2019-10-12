@@ -20,7 +20,7 @@
     - Basics 1
 - hanzi: 你
   pinyin: nǐ
-  translate: you
+  translate: you (informal)
   tags:
     - Basics 1
 - hanzi: 他
@@ -1302,7 +1302,7 @@
     - Clothing
   pinyin: ěr huán
 - hanzi: 请问
-  translate: excuse me; may I ask
+  translate: excuse me; may I ask (invite ask)
   tags:
     - Shopping
   pinyin: qǐng wèn
@@ -1858,12 +1858,12 @@
     - Travel
   pinyin: kě yǐ
 - hanzi: 或者
-  translate: or
+  translate: or (in a statement)
   tags:
     - Travel
   pinyin: huò zhě
 - hanzi: 车站
-  translate: station
+  translate: (bus) station
   tags:
     - Travel
   pinyin: chē zhàn
@@ -1892,3 +1892,95 @@
   tags:
     - Travel
   pinyin: chū zū chē
+- hanzi: 还是
+  translate: or (in a question)
+  tags:
+    - Travel
+  pinyin: hái shì
+- hanzi: 地铁站
+  translate: subway station
+  tags:
+    - Travel
+  pinyin: dì tiě zhàn
+- hanzi: 宾馆
+  translate: hotel
+  tags:
+    - Travel
+  pinyin: bīn guǎn
+- hanzi: 商务间
+  translate: business (hotel) room
+  tags:
+    - Travel
+  pinyin: shāng wù jiān
+- hanzi: 标准间
+  translate: standard (hotel) room
+  tags:
+    - Travel
+  pinyin: biāo zhǔn jiān
+- hanzi: 无烟
+  translate: smoke free; non-smoking
+  tags:
+    - Travel
+  sentences:
+    - hanzi: 我 想 预定 一 间 无烟 的 标准间 和 一 间 无烟 的 商务间
+      pinyin: wǒ xiǎng yù dìng yī jiān wú yān de biāo zhǔn jiān hé yī jiān wú yān de
+        shāng wù jiān
+  pinyin: wú yān
+- hanzi: 预定
+  translate: reserve; book
+  tags:
+    - Travel
+  pinyin: yù dìng
+- hanzi: 入住
+  translate: check in
+  tags:
+    - Travel
+  pinyin: rù zhù
+- hanzi: 退房
+  translate: check out
+  tags:
+    - Travel
+  pinyin: tuì fáng
+- hanzi: 您
+  translate: you (formal)
+  tags:
+    - Travel
+  pinyin: nín
+- hanzi: 时候
+  translate: time; when
+  tags:
+    - Travel
+  pinyin: shí hòu
+- hanzi: 朋友
+  translate: friend
+  tags:
+    - Travel
+  pinyin: péng yǒu
+- hanzi: 旅行
+  translate: travel
+  tags:
+    - Travel
+  pinyin: lǚ xíng
+- hanzi: 烤鸭
+  translate: roasted duck
+  tags:
+    - Travel
+  pinyin: kǎo yā
+- hanzi: 请
+  translate: request; invite; please
+  sentences:
+    - hanzi: 上 星期 朋友 请 我 去 北京 旅行
+      pinyin: shàng xīng qī péng yǒu qǐng wǒ qù běi jīng lǚ xíng
+  tags:
+    - Travel
+  pinyin: qǐng
+- hanzi: 长城
+  translate: the Great Wall (long wall)
+  tags:
+    - Travel
+  pinyin: cháng chéng
+- hanzi: 故宫
+  translate: the Forbidden City
+  tags:
+    - Travel
+  pinyin: gù gōng
