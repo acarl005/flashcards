@@ -2026,3 +2026,106 @@
   tags:
     - Festival
   pinyin: gōng xǐ
+- hanzi: 日常
+  translate: daily
+  tags:
+    - Meetup 1
+  pinyin: rì cháng
+- hanzi: 生活
+  translate: life
+  tags:
+    - Meetup 1
+  pinyin: shēng huó
+- hanzi: 用语
+  translate: term; expression
+  tags:
+    - Meetup 1
+  pinyin: yòng yǔ
+- hanzi: 兴趣
+  translate: interest
+  tags:
+    - Meetup 1
+  pinyin: xìng qù
+- hanzi: 爱好
+  translate: hobby
+  tags:
+    - Meetup 1
+  pinyin: ài hǎo
+- hanzi: 周末
+  translate: weekend
+  tags:
+    - Meetup 1
+  pinyin: zhōu mò
+- hanzi: 打算
+  translate: intend; plan to
+  tags:
+    - Meetup 1
+  pinyin: dǎ suàn
+- hanzi: 图书馆
+  translate: library
+  tags:
+    - Meetup 1
+  pinyin: tú shū guǎn
+- hanzi: 对
+  translate: affirmative; right; correct
+  tags:
+    - Meetup 1
+  pinyin: duì
+- hanzi: 官
+  translate: official
+  tags:
+    - Meetup 1
+  pinyin: guān
+- hanzi: 网上
+  translate: internet
+  tags:
+    - Meetup 1
+  pinyin: wǎng shàng
+- hanzi: 了不起
+  translate: amazing; great
+  tags:
+    - Meetup 1
+  pinyin: liǎo bù qǐ
+- hanzi: 货
+  translate: goods; package
+  tags:
+    - Meetup 1
+  pinyin: huò
+- hanzi: 短信
+  translate: text message; SMS
+  tags:
+    - Meetup 1
+  pinyin: duǎn xìn
+- hanzi: 发短信
+  translate: texting
+  sentences:
+    - hanzi: 他们 发短信 通知 我 拿 货 了
+      pinyin: tā men fā duǎn xìn tōng zhī wǒ ná huò le
+  tags:
+    - Meetup 1
+  pinyin: fā duǎn xìn
+- hanzi: 通知
+  translate: notify; notification
+  tags:
+    - Meetup 1
+  pinyin: tōng zhī
+- hanzi: 拿
+  translate: take; retrieve; get
+  tags:
+    - Meetup 1
+  pinyin: ná
+- hanzi: 平时
+  translate: usually
+  tags:
+    - Meetup 1
+  pinyin: píng shí
+- hanzi: 总
+  translate: always; total
+  tags:
+    - Meetup 1
+  pinyin: zǒng
+- hanzi: 电影
+  translate: movie
+  tags:
+    - Meetup 1
+  pinyin: diàn yǐng
