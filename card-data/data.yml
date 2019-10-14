@@ -1984,3 +1984,45 @@
   tags:
     - Travel
   pinyin: gù gōng
+- hanzi: 圣诞节
+  translate: Christmas
+  tags:
+    - Festival
+  pinyin: shèng dàn jié
+- hanzi: 新年
+  translate: new year
+  tags:
+    - Festival
+  pinyin: xīn nián
+- hanzi: 春节
+  translate: Spring Festival (Chinese New Year)
+  tags:
+    - Festival
+  pinyin: chūn jié
+- hanzi: 纪念日
+  translate: anniversary (commemoration day)
+  tags:
+    - Festival
+  pinyin: jì niàn rì
+- hanzi: 结婚
+  translate: marry; marriage
+  tags:
+    - Festival
+  pinyin: jié hūn
+- hanzi: 生日
+  translate: birthday
+  tags:
+    - Festival
+  pinyin: shēng rì
+- hanzi: 快乐
+  translate: happy
+  tags:
+    - Festival
+  pinyin: kuài lè
+- hanzi: 恭喜
+  translate: congratulation
+  sentence:
+    - hanzi: 恭喜 发财
+  tags:
+    - Festival
+  pinyin: gōng xǐ
