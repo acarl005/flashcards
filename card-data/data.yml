@@ -2021,11 +2021,78 @@
   pinyin: kuài lè
 - hanzi: 恭喜
   translate: congratulation
-  sentence:
+  sentences:
     - hanzi: 恭喜 发财
+      pinyin: gōng xǐ fā cái
   tags:
     - Festival
   pinyin: gōng xǐ
+- hanzi: 服务员
+  translate: waiter (service member)
+  tags:
+    - Dining
+  pinyin: fú wù yuán
+- hanzi: 菜单
+  translate: menu
+  tags:
+    - Dining
+  pinyin: cài dān
+- hanzi: 点菜
+  translate: ordering (food, drinks)
+  sentences:
+    - hanzi: 请问 ， 服务员 ， 我 想 点菜 两 份 龙虾
+      pinyin: qǐng wèn ， fú wù yuán ， wǒ xiǎng diǎn cài liǎng fèn lóng xiā
+  tags:
+    - Dining
+  pinyin: diǎn cài
+- hanzi: 龙虾
+  translate: lobster
+  tags:
+    - Dining
+  pinyin: lóng xiā
+- hanzi: 牛排
+  translate: steak
+  tags:
+    - Dining
+  pinyin: niú pái
+- hanzi: 香槟
+  translate: champagne
+  sentences:
+    - hanzi: 我 要 一 瓶 香槟
+      pinyin: wǒ yào yī píng xiāng bīn
+  tags:
+    - Dining
+  pinyin: xiāng bīn
+- hanzi: 饮料
+  translate: beverage
+  tags:
+    - Dining
+  pinyin: yǐn liào
+- hanzi: 沙拉
+  translate: salad
+  tags:
+    - Dining
+  pinyin: shā lā
+- hanzi: 汤
+  translate: soup
+  tags:
+    - Dining
+  pinyin: tāng
+- hanzi: 蔬菜
+  translate: vegetable
+  tags:
+    - Dining
+  pinyin: shū cài
+- hanzi: 甜点
+  translate: dessert
+  tags:
+    - Dining
+  pinyin: tián diǎn
+- hanzi: 冰淇淋
+  translate: ice cream
+  tags:
+    - Dining
+  pinyin: bīng qí lín
 - hanzi: 日常
   translate: daily
   tags:
