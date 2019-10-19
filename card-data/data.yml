@@ -2093,6 +2093,97 @@
   tags:
     - Dining
   pinyin: bīng qí lín
+- hanzi: 刀
+  translate: knife
+  sentences:
+    - hanzi: 我 需要 一 把 刀 切 牛排
+      pinyin: wǒ xū yào yī bǎ dāo qiè niú pái
+  tags:
+    - Dining
+  pinyin: dāo
+- hanzi: 叉子
+  translate: fork
+  tags:
+    - Dining
+  pinyin: chā zi
+- hanzi: 勺子
+  translate: spoon
+  tags:
+    - Dining
+  pinyin: sháo zi
+- hanzi: 谢谢
+  translate: thanks
+  tags:
+    - Dining
+  pinyin: xiè xiè
+- hanzi: 筷子
+  translate: chopsticks
+  sentences:
+    - hanzi: 我 需要 一 双 筷子 夹 饺子
+      pinyin: wǒ xū yào yī shuāng kuài zi jiā jiǎo zi
+  tags:
+    - Dining
+  pinyin: kuài zi
+- hanzi: 盘子
+  translate: plate
+  sentences:
+    - hanzi: 请 给 我 两 个 盘子 ， 谢谢
+      pinyin: qǐng gěi wǒ liǎng gè pán zi ， xiè xiè
+  tags:
+    - Dining
+  pinyin: pán zi
+- hanzi: 餐巾纸
+  translate: napkin (meal towel paper)
+  sentences:
+    - hanzi: 我 总 是 用 餐巾纸
+      pinyin: wǒ zǒng shì yòng cān jīn zhǐ
+  tags:
+    - Dining
+  pinyin: cān jīn zhǐ
+- hanzi: 一些
+  translate: some; a few
+  sentences:
+    - hanzi: 请 给 我 一些 餐巾纸
+      pinyin: qǐng gěi wǒ yī xiē cān jīn zhǐ
+  tags:
+    - Dining
+  pinyin: yī xiē
+- hanzi: 夹
+  translate: pick up; clip
+  tags:
+    - Dining
+  pinyin: jiā
+- hanzi: 切
+  translate: cut
+  tags:
+    - Dining
+  pinyin: qiè
+- hanzi: 教
+  translate: teach
+  sentences:
+    - hanzi: 我 教 孩子 用 筷子 吃 饺子
+      pinyin: wǒ jiào hái zi yòng kuài zi chī jiǎo zi
+  tags:
+    - Dining
+  pinyin: jiào
+- hanzi: 倒
+  translate: pour
+  tags:
+    - Dining
+  pinyin: dào
+- hanzi: 为
+  translate: for
+  sentences:
+    - hanzi: 我 为 爸爸 倒 了 一 杯 啤酒
+      pinyin: wǒ wèi bà bà dào le yī bēi pí jiǔ
+  tags:
+    - Dining
+  pinyin: wèi
+- hanzi: 做
+  translate: make; do
+  tags:
+    - Dining
+  pinyin: zuò
 - hanzi: 日常
   translate: daily
   tags:
