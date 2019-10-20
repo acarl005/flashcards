@@ -1,8 +1,8 @@
 import { readFileSync } from "fs"
 import React, { useState, useRef } from "react"
 import { Layout, Menu, Drawer, Form, Radio, Input, Table, Icon, Button } from "antd"
-import yaml from "yaml"
 import debounce from "lodash.debounce"
+import data from "../../card-data/data.yml"
 
 import FlashCard from "./FlashCard"
 import QuizReel from "./QuizReel"
@@ -10,7 +10,6 @@ import { shuffle, hasMatch } from "../utils"
 
 const { Header, Content, Footer, Sider } = Layout
 
-const data = yaml.parse(readFileSync("./card-data/data.yml", "utf8"))
 let allTags = new Set
 for (let obj of data) {
   if (obj.tags) {
