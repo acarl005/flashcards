@@ -16,7 +16,8 @@
     "gh-pages": "^2.1.1",
     "parcel": "^1.12.3",
     "parcel-plugin-bundle-visualiser": "^1.2.0",
-    "sass": "^1.23.0-module.beta.1"
+    "sass": "^1.23.0-module.beta.1",
+    "yaml": "^1.7.2"
   },
   "dependencies": {
     "antd": "^3.23.2",

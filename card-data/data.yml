@@ -1031,8 +1031,10 @@
     - Animals
   pinyin: fēi cháng
 - hanzi: 比
-  translate: than
+  translate: compared to; than
   sentences:
+    - hanzi: 我 比 我 弟弟 高
+      pinyin: wǒ bǐ wǒ dì dì gāo
     - hanzi: 我 的 阴茎 比 你的 阴茎 大
       pinyin: wǒ de yīn jīng bǐ nǐ de yīn jīng dà
   tags:
@@ -2184,6 +2186,106 @@
   tags:
     - Dining
   pinyin: zuò
+- hanzi: 酸
+  translate: sour; acid
+  tags:
+    - Food 2
+  pinyin: suān
+- hanzi: 辣
+  translate: spicy
+  sentences:
+    - hanzi: 太 辣了 ！
+      pinyin: tài là le ！
+  tags:
+    - Food 2
+  pinyin: là
+- hanzi: 苦
+  translate: bitter
+  tags:
+    - Food 2
+  pinyin: kǔ
+- hanzi: 甜
+  translate: sweet
+  tags:
+    - Food 2
+  pinyin: tián
+- hanzi: 味道
+  translate: taste
+  tags:
+    - Food 2
+  pinyin: wèi dào
+- hanzi: 怎么样
+  translate: how about it; what do you think of it?
+  sentences:
+    - hanzi: 苹果 味道 怎么样 ？
+      pinyin: píng guǒ wèi dào zěn me yàng ？
+  tags:
+    - Food 2
+  pinyin: zěn me yàng
+- hanzi: 极了
+  translate: extremely
+  sentences:
+    - hanzi: 这 个 苹果 味道 甜 极了 ！
+      pinyin: zhè gè píng guǒ wèi dào tián jí le ！
+  tags:
+    - Food 2
+  pinyin: jí le
+- hanzi: 宫保鸡丁
+  translate: Kung Pao chicken
+  tags:
+    - Food 2
+  pinyin: gōng bǎo jī dīng
+- hanzi: 酸辣粉
+  translate: hot and sour rice noodles
+  tags:
+    - Food 2
+  pinyin: suān là fěn
+- hanzi: 蜂蜜
+  translate: honey
+  tags:
+    - Food 2
+  pinyin: fēng mì
+- hanzi: 柠檬
+  translate: lemon
+  tags:
+    - Food 2
+  pinyin: níng méng
+- hanzi: 辣椒
+  translate: chili pepper
+  tags:
+    - Food 2
+  pinyin: là jiāo
+- hanzi: 像
+  translate: like; such as
+  sentences:
+    - hanzi: 这 个 苹果 像 柠檬 一样 酸
+      pinyin: zhè gè píng guǒ xiàng níng méng yī yàng suān
+  tags:
+    - Food 2
+  pinyin: xiàng
+- hanzi: 一样
+  translate: the same as; as
+  sentences:
+    - hanzi: 这 杯 咖啡 像 药 一样 苦
+      pinyin: zhè bēi kā fēi xiàng yào yī yàng kǔ
+  tags:
+    - Food 2
+  pinyin: yī yàng
+- hanzi: 药
+  translate: drug; medicine
+  tags:
+    - Food 2
+  pinyin: yào
+- hanzi: 被
+  translate: passive voice particle
+  sentences:
+    - hanzi: 啤酒 被 我 喝了
+      pinyin: pí jiǔ bèi wǒ hē le
+    - hanzi: 钱 被 花了
+      pinyin: qián bèi huā le
+  tags:
+    - Food 2
+  pinyin: bèi
 - hanzi: 日常
   translate: daily
   tags:
