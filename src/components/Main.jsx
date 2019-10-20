@@ -1,6 +1,6 @@
 import { readFileSync } from "fs"
 import React, { useState, useRef } from "react"
-import { Layout, Menu, Drawer, Form, Radio, Input, Table, Icon, Button, Pagination } from "antd"
+import { Layout, Menu, Drawer, Form, Radio, Input, Table, Icon, Button, Pagination, Empty } from "antd"
 import debounce from "lodash.debounce"
 import data from "../../card-data/data.yml"
 
@@ -47,12 +47,16 @@ export default function Main() {
       pageNum = Math.min(maxPage, pageNum)
       const startIndex = pageSize * (pageNum - 1)
       const thisPage = flashCards.slice(startIndex, startIndex + pageSize)
-      activeComponent = <div style={{ textAlign: "center" }}>
-        <div style={{ marginBottom: "30px" }}>
-          <Pagination current={pageNum} onChange={setPageNum} pageSize={pageSize} total={flashCards.length} />
+      if (flashCards.length === 0) {
+        activeComponent = <Empty />
+      } else {
+        activeComponent = <div style={{ textAlign: "center" }}>
+          <div style={{ marginBottom: "30px" }}>
+            <Pagination current={pageNum} onChange={setPageNum} pageSize={pageSize} total={flashCards.length} />
+          </div>
+          {thisPage}
         </div>
-        {thisPage}
-      </div>
+      }
       break;
     case "quiz":
       activeComponent = <QuizReel
@@ -75,6 +79,10 @@ export default function Main() {
     setSelectedTags(new Set(selectedRowKeys))
   }
 
+  function menuSubmit(e) {
+    e.preventDefault()
+    setDrawerOpen(false)
+  }
   const siderContents = <div className="sider-container">
     <Menu theme="light" mode="inline" className="main-menu">
       {
@@ -89,7 +97,7 @@ export default function Main() {
           </Menu.Item>
       }
     </Menu>
-    <Form layout="vertical" className="sider-menu">
+    <Form layout="vertical" className="sider-menu" onSubmit={menuSubmit}>
       <Form.Item label="Front side">
         <Radio.Group onChange={e => setFrontLang(e.target.value)} value={frontLang}>
           <Radio value="mandarin">中文</Radio>
