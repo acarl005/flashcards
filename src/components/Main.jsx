@@ -1,6 +1,6 @@
 import { readFileSync } from "fs"
 import React, { useState, useRef } from "react"
-import { Layout, Menu, Drawer, Form, Radio, Input, Table, Icon, Button } from "antd"
+import { Layout, Menu, Drawer, Form, Radio, Input, Table, Icon, Button, Pagination } from "antd"
 import debounce from "lodash.debounce"
 import data from "../../card-data/data.yml"
 
@@ -9,6 +9,7 @@ import QuizReel from "./QuizReel"
 import { shuffle, hasMatch } from "../utils"
 
 const { Header, Content, Footer, Sider } = Layout
+const pageSize = 25
 
 let allTags = new Set
 for (let obj of data) {
@@ -32,15 +33,26 @@ export default function Main() {
   const [ drawerOpen, setDrawerOpen ] = useState(false)
   const [ searchTerm, setSearchTerm ] = useState("")
   const searchRef = useRef(null)
+  let [ pageNum, setPageNum ] = useState(1)
 
   let activeComponent
   switch (activeView) {
     case "list":
-      activeComponent = data
+      const flashCards = data
         .filter(obj => obj.tags && hasMatch(obj.tags, selectedTags))
         .filter(obj => obj.pinyin.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").includes(searchTerm) ||
                        obj.translate.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").includes(searchTerm))
         .map(obj => <FlashCard data={obj} key={obj.hanzi} frontLang={frontLang} />)
+      const maxPage = Math.ceil(flashCards.length / pageSize)
+      pageNum = Math.min(maxPage, pageNum)
+      const startIndex = pageSize * (pageNum - 1)
+      const thisPage = flashCards.slice(startIndex, startIndex + pageSize)
+      activeComponent = <div style={{ textAlign: "center" }}>
+        <div style={{ marginBottom: "30px" }}>
+          <Pagination current={pageNum} onChange={setPageNum} pageSize={pageSize} total={flashCards.length} />
+        </div>
+        {thisPage}
+      </div>
       break;
     case "quiz":
       activeComponent = <QuizReel
