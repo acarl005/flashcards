@@ -2157,18 +2157,18 @@
     - Dining
   pinyin: jiā
 - hanzi: 切
-  translate: cut
+  translate: cut; slice
   tags:
     - Dining
-  pinyin: qiè
+  pinyin: qiē
 - hanzi: 教
   translate: teach
   sentences:
     - hanzi: 我 教 孩子 用 筷子 吃 饺子
-      pinyin: wǒ jiào hái zi yòng kuài zi chī jiǎo zi
+      pinyin: wǒ jiāo hái zi yòng kuài zi chī jiǎo zi
   tags:
     - Dining
-  pinyin: jiào
+  pinyin: jiāo
 - hanzi: 倒
   translate: pour
   tags:
@@ -2355,6 +2355,44 @@
   tags:
     - Feelings
   pinyin: de
+- hanzi: 存款
+  translate: deposit
+  tags:
+    - Bank
+  pinyin: cún kuǎn
+- hanzi: 取款
+  translate: withdraw
+  tags:
+    - Bank
+  pinyin: qǔ kuǎn
+- hanzi: 汇款
+  translate: transfer; remit
+  tags:
+    - Bank
+  pinyin: huì kuǎn
+- hanzi: 办理
+  translate: handle; manage; deal with; transact
+  tags:
+    - Bank
+  pinyin: bàn lǐ
+- hanzi: 业务
+  translate: business; transaction
+  tags:
+    - Bank
+  pinyin: yè wù
+- hanzi: 兑换
+  translate: exchange (cash change)
+  tags:
+    - Bank
+  pinyin: duì huàn
+- hanzi: 支票
+  translate: cheque
+  sentences:
+    - hanzi: 我 想 兑换 一 张 支票
+      pinyin: wǒ xiǎng duì huàn yī zhāng zhī piào
+  tags:
+    - Bank
+  pinyin: zhī piào
 - hanzi: 日常
   translate: daily
   tags:
