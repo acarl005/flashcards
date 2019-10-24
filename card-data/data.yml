@@ -1788,6 +1788,7 @@
   translate: sleep
   tags:
     - Negation 2
+    - Feelings
   pinyin: shuì jiào
 - hanzi: 以前
   translate: before
@@ -2286,6 +2287,74 @@
   tags:
     - Food 2
   pinyin: bèi
+- hanzi: 笑
+  translate: laugh; smile
+  tags:
+    - Feelings
+  pinyin: xiào
+- hanzi: 哭
+  translate: cry
+  tags:
+    - Feelings
+  pinyin: kū
+- hanzi: 高兴
+  translate: glad
+  tags:
+    - Feelings
+  pinyin: gāo xìng
+- hanzi: 伤心
+  translate: sad
+  tags:
+    - Feelings
+  pinyin: shāng xīn
+- hanzi: 一边
+  translate: at the same time; simultaneously
+  sentences:
+    - hanzi: 妹妹 高兴 地 一边 唱歌 一边 跳舞
+      pinyin: mèi mèi gāo xìng de yī biān chàng gē yī biān tiào wǔ
+  tags:
+    - Feelings
+  pinyin: yī biān
+- hanzi: 饿
+  translate: hungry
+  sentences:
+    - hanzi: 我 饿了
+      pinyin: wǒ è le
+  tags:
+    - Feelings
+  pinyin: è
+- hanzi: 渴
+  translate: thirsty
+  sentences:
+    - hanzi: 你 女 朋友 渴了
+      pinyin: nǐ nǚ péng yǒu kě le
+  tags:
+    - Feelings
+  pinyin: kě
+- hanzi: 累
+  translate: tired; weary
+  tags:
+    - Feelings
+  pinyin: lèi
+- hanzi: 困
+  translate: sleepy; tired
+  tags:
+    - Feelings
+  pinyin: kùn
+- hanzi: 得
+  translate: function particle (describes the action of a verb/adjective in detail)
+  sentences:
+    - hanzi: 我 渴 得 喝了 五 杯 水
+      pinyin: wǒ kě de hē le wǔ bēi shuǐ
+  tags:
+    - Feelings
+  pinyin: de
+- hanzi: 地
+  translate: adverb particle (follows an adjective to make it an adverb applying to the
+    following verb)
+  tags:
+    - Feelings
+  pinyin: de
 - hanzi: 日常
   translate: daily
   tags:
