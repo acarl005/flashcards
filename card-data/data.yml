@@ -2393,6 +2393,107 @@
   tags:
     - Bank
   pinyin: zhī piào
+- hanzi: 人民币
+  translate: RMB; "chinese yuan" (the people's currency)
+  tags:
+    - Bank
+  pinyin: rén mín bì
+- hanzi: 美元
+  translate: USD
+  tags:
+    - Bank
+  pinyin: měi yuán
+- hanzi: 日元
+  translate: JPY; "japanese yen"
+  tags:
+    - Bank
+  pinyin: rì yuán
+- hanzi: 欧元
+  translate: EUR; euro
+  tags:
+    - Bank
+  pinyin: ōu yuán
+- hanzi: 成
+  translate: become; turn into
+  sentences:
+    - hanzi: 我 想 把 人民币 兑换 成 美元
+      pinyin: wǒ xiǎng bǎ rén mín bì duì huàn chéng měi yuán
+  tags:
+    - Bank
+  pinyin: chéng
+- hanzi: 现金
+  translate: cash
+  sentences:
+    - hanzi: 我 想 把 支票 兑换 成 现金
+      pinyin: wǒ xiǎng bǎ zhī piào duì huàn chéng xiàn jīn
+  tags:
+    - Bank
+  pinyin: xiàn jīn
+- hanzi: 汇率
+  translate: exchange rate
+  sentences:
+    - hanzi: 人民币 兑换 日元 的 汇率 是 多少
+      pinyin: rén mín bì duì huàn rì yuán de huì lǜ shì duō shǎo
+  tags:
+    - Bank
+  pinyin: huì lǜ
+- hanzi: 出示
+  translate: show
+  sentences:
+    - hanzi: 请 出示 您 的 身份证
+      pinyin: qǐng chū shì nín de shēn fèn zhèng
+  tags:
+    - Bank
+  pinyin: chū shì
+- hanzi: 护照
+  translate: passport
+  tags:
+    - Bank
+  pinyin: hù zhào
+- hanzi: 身份证
+  translate: ID card
+  tags:
+    - Bank
+  pinyin: shēn fèn zhèng
+- hanzi: 密码
+  translate: password
+  tags:
+    - Bank
+  pinyin: mì mǎ
+- hanzi: 签字
+  translate: sign; signature
+  sentences:
+    - hanzi: 请 您 在 这里 签字
+      pinyin: qǐng nín zài zhè lǐ qiān zì
+  tags:
+    - Bank
+  pinyin: qiān zì
+- hanzi: 输入
+  translate: input; enter
+  tags:
+    - Bank
+  pinyin: shū rù
+- hanzi: 忘记
+  translate: forget
+  sentences:
+    - hanzi: 我 忘记了 密码
+      pinyin: wǒ wàng jì le mì mǎ
+  tags:
+    - Bank
+  pinyin: wàng jì
+- hanzi: 信用卡
+  translate: credit card
+  tags:
+    - Bank
+  pinyin: xìn yòng kǎ
+- hanzi: 申请
+  translate: application; apply
+  sentences:
+    - hanzi: 我 想 申请 一 张 信用卡
+      pinyin: wǒ xiǎng shēn qǐng yī zhāng xìn yòng kǎ
+  tags:
+    - Bank
+  pinyin: shēn qǐng
 - hanzi: 日常
   translate: daily
   tags:
