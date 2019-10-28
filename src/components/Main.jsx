@@ -81,6 +81,7 @@ export default function Main() {
 
   function menuSubmit(e) {
     e.preventDefault()
+    document.activeElement.blur()
     setDrawerOpen(false)
   }
   const siderContents = <div className="sider-container">
