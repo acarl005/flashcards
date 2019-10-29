@@ -2494,6 +2494,55 @@
   tags:
     - Bank
   pinyin: shēn qǐng
+- hanzi: 分之
+  translate: fraction word
+  sentences:
+    - hanzi: 二 分之 一 等于 百 分之 五十
+      pinyin: èr fēn zhī yī děng yú bǎi fēn zhī wǔ shí
+  tags:
+    - Bank
+  pinyin: fēn zhī
+- hanzi: 花
+  translate: spend; cost
+  sentences:
+    - hanzi: 这 辆 车 花了 我 百 分之 九十 的 存款
+      pinyin: zhè liàng chē huā le wǒ bǎi fēn zhī jiǔ shí de cún kuǎn
+  tags:
+    - Bank
+  pinyin: huā
+- hanzi: 减
+  translate: minus; subtract
+  tags:
+    - Bank
+  pinyin: jiǎn
+- hanzi: 加
+  translate: plus; add
+  tags:
+    - Bank
+  pinyin: jiā
+- hanzi: 等于
+  translate: equal
+  tags:
+    - Bank
+  pinyin: děng yú
+- hanzi: 乘以
+  translate: times; multiply
+  tags:
+    - Bank
+  pinyin: chéng yǐ
+- hanzi: 除以
+  translate: divided by; divide
+  tags:
+    - Bank
+  pinyin: chú yǐ
+- hanzi: 点
+  translate: (decimal) point
+  sentences:
+    - hanzi: 三 点 九 加 二 点 八 等于 六 点 七
+      pinyin: sān diǎn jiǔ jiā èr diǎn bā děng yú liù diǎn qī
+  tags:
+    - Bank
+  pinyin: diǎn
 - hanzi: 日常
   translate: daily
   tags:
