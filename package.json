@@ -5,6 +5,7 @@
   "main": "src/index.html",
   "scripts": {
     "dev": "parcel src/index.html src/service-worker.js",
+    "hydrate": "node ./card-data/hydrate.js",
     "build": "rm -rf dist && parcel build --public-url /flashcards src/index.html src/service-worker.js",
     "publish": "npm run build && node --experimental-modules publish.mjs",
     "start": "node --experimental-modules server.mjs"

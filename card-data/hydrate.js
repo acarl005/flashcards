@@ -5,7 +5,10 @@ const fs = require("fs")
 const request = require("request-promise")
 const yaml = require("yaml")
 
-const data = yaml.parse(fs.readFileSync(path.resolve(__dirname, "./data.yml"), "utf8"))
+const srcFile = path.resolve(__dirname, "./data.yml")
+const dstFile = path.resolve(__dirname, "./data-hydrate.yml")
+
+const data = yaml.parse(fs.readFileSync(srcFile, "utf8"))
 const url = 'https://glosbe.com/transliteration/api?from=Han&dest=Latin&format=json&text='
 
 async function toPinyin(hanzi) {
@@ -37,5 +40,5 @@ async function toPinyin(hanzi) {
       }
     }
   }
-  await fs.promises.writeFile("./data-hydrate.yml", yaml.stringify(data), "utf8")
+  return fs.promises.writeFile(dstFile, yaml.stringify(data), "utf8")
 })()
