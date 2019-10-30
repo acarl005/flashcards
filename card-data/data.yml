@@ -1035,8 +1035,6 @@
   sentences:
     - hanzi: 我 比 我 弟弟 高
       pinyin: wǒ bǐ wǒ dì dì gāo
-    - hanzi: 我 的 阴茎 比 你的 阴茎 大
-      pinyin: wǒ de yīn jīng bǐ nǐ de yīn jīng dà
   tags:
     - Animals
   pinyin: bǐ
@@ -1342,6 +1340,9 @@
     - Shopping
   pinyin: yá gāo
 - hanzi: 商店
+  sentences:
+    - hanzi: 姐姐 去 商店 买 衣服 了
+      pinyin: jiě jiě qù shāng diàn mǎi yī fú le
   translate: store; shop
   tags:
     - Shopping
@@ -1740,6 +1741,11 @@
   pinyin: shuō
 - hanzi: 学习
   translate: study
+  sentences:
+    - hanzi: 我 在 中国 的 时候 学习了 中文
+      pinyin: wǒ zài zhōng guó de shí hòu xué xí le zhōng wén
+    - hanzi: 我 学习 中文 两 个 月 了
+      pinyin: wǒ xué xí zhōng wén liǎng gè yuè le
   tags:
     - Language
   pinyin: xué xí
@@ -2543,6 +2549,99 @@
   tags:
     - Bank
   pinyin: diǎn
+- hanzi: 职业
+  translate: career; profession; occupation
+  sentences:
+    - hanzi: 你 的 职业 是 什么 ？
+      pinyin: nǐ de zhí yè shì shén me ？
+  tags:
+    - Occupation
+  pinyin: zhí yè
+- hanzi: 老师
+  translate: teacher
+  tags:
+    - Occupation
+  pinyin: lǎo shī
+- hanzi: 警察
+  translate: policeman
+  tags:
+    - Occupation
+  pinyin: jǐng chá
+- hanzi: 厨师
+  translate: chef
+  tags:
+    - Occupation
+  pinyin: chú shī
+- hanzi: 医生
+  translate: doctor
+  tags:
+    - Occupation
+  pinyin: yī shēng
+- hanzi: 律师
+  translate: lawyer
+  tags:
+    - Occupation
+  pinyin: lǜ shī
+- hanzi: 从事
+  translate: undertake; embark; commit to
+  sentences:
+    - hanzi: 你 想 从事 什么 职业 ？
+      pinyin: nǐ xiǎng cóng shì shén me zhí yè ？
+  tags:
+    - Occupation
+  pinyin: cóng shì
+- hanzi: 成为
+  translate: become
+  sentences:
+    - hanzi: 我 想 成为 医生
+      pinyin: wǒ xiǎng chéng wèi yī shēng
+  tags:
+    - Occupation
+  pinyin: chéng wèi
+- hanzi: 工程师
+  translate: engineer
+  tags:
+    - Occupation
+  pinyin: gōng chéng shī
+- hanzi: 警察局
+  translate: police office
+  tags:
+    - Occupation
+  pinyin: jǐng chá jú
+- hanzi: 学校
+  translate: school
+  sentences:
+    - hanzi: 爸爸 去 学校 上班 了
+      pinyin: bà bà qù xué xiào shàng bān le
+  tags:
+    - Occupation
+  pinyin: xué xiào
+- hanzi: 医院
+  translate: hospital
+  tags:
+    - Occupation
+  pinyin: yī yuàn
+- hanzi: 银行
+  translate: bank
+  tags:
+    - Occupation
+  pinyin: yín háng
+- hanzi: 每
+  translate: each; per
+  sentences:
+    - hanzi: 我 每天 开车 去 医院 的
+      pinyin: wǒ měi tiān kāi chē qù yī yuàn de
+  tags:
+    - Occupation
+  pinyin: měi
+- hanzi: 怎么
+  translate: how
+  sentences:
+    - hanzi: 你 女儿 昨天 怎么 去 学校 的
+      pinyin: nǐ nǚ ér zuó tiān zěn me qù xué xiào de
+  tags:
+    - Occupation
+  pinyin: zěn me
 - hanzi: 日常
   translate: daily
   tags:
