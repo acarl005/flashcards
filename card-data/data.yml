@@ -525,7 +525,7 @@
     - Nature
   pinyin: xuě
 - hanzi: 晴
-  translate: sunny; clear
+  translate: sunny; clear; bright
   sentences:
     - hanzi: 天 晴 了
       pinyin: tiān qíng le
@@ -1779,6 +1779,7 @@
       pinyin: wǒ jué dé zhōng wén jiǎn dān
   tags:
     - Language
+    - Health
   pinyin: jué dé
 - hanzi: 重
   translate: heavy; weight
@@ -2642,6 +2643,74 @@
   tags:
     - Occupation
   pinyin: zěn me
+
+
+- hanzi: 牙
+  translate: tooth
+  tags:
+    - Health
+- hanzi: 肚子
+  translate: belly
+  tags:
+    - Health
+- hanzi: 头
+  translate: head
+  tags:
+    - Health
+- hanzi: 疼
+  translate: pain; hurts
+  sentences:
+    - hanzi: 我 头 疼
+  tags:
+    - Health
+- hanzi: 脚
+  translate: foot
+  tags:
+    - Health
+- hanzi: 背
+  translate: back
+  tags:
+    - Health
+- hanzi: 就
+  translate: right away; at once
+  sentences:
+    - hanzi: 我 一 跑步 就 脚 疼
+  tags:
+    - Health
+- hanzi: 清
+  translate: transparent; clear
+  sentences:
+    - hanzi: 我 戴 眼镜 ， 因为 看 不 清
+  tags:
+    - Health
+- hanzi: 救护车
+  translate: ambulance
+  tags:
+    - Health
+- hanzi: 叫
+  translate: call
+  tags:
+    - Health
+- hanzi: 轮椅
+  translate: wheelchair
+  tags:
+    - Health
+- hanzi: 口罩
+  translate: (surgical) mask
+  tags:
+    - Health
+- hanzi: 感冒
+  translate: cold; catch a cold
+  sentences:
+    - hanzi: 我 戴 口罩 ， 因为 感冒 了
+  tags:
+    - Health
+- hanzi: 体温计
+  translate: thermometer
+  tags:
+    - Health
+
+
 - hanzi: 日常
   translate: daily
   tags:
