@@ -1779,7 +1779,7 @@
       pinyin: wǒ jué dé zhōng wén jiǎn dān
   tags:
     - Language
-    - Health
+    - Health 1
   pinyin: jué dé
 - hanzi: 重
   translate: heavy; weight
@@ -2643,74 +2643,114 @@
   tags:
     - Occupation
   pinyin: zěn me
-
-
 - hanzi: 牙
   translate: tooth
   tags:
-    - Health
+    - Health 1
+  pinyin: yá
 - hanzi: 肚子
   translate: belly
   tags:
-    - Health
+    - Health 1
+  pinyin: dù zi
 - hanzi: 头
   translate: head
   tags:
-    - Health
+    - Health 1
+  pinyin: tóu
 - hanzi: 疼
   translate: pain; hurts
   sentences:
     - hanzi: 我 头 疼
+      pinyin: wǒ tóu téng
   tags:
-    - Health
+    - Health 1
+  pinyin: téng
 - hanzi: 脚
   translate: foot
   tags:
-    - Health
+    - Health 1
+  pinyin: jiǎo
 - hanzi: 背
   translate: back
   tags:
-    - Health
+    - Health 1
+  pinyin: bèi
 - hanzi: 就
   translate: right away; at once
   sentences:
     - hanzi: 我 一 跑步 就 脚 疼
+      pinyin: wǒ yī pǎo bù jiù jiǎo téng
   tags:
-    - Health
+    - Health 1
+  pinyin: jiù
 - hanzi: 清
   translate: transparent; clear
   sentences:
     - hanzi: 我 戴 眼镜 ， 因为 看 不 清
+      pinyin: wǒ dài yǎn jìng ， yīn wèi kàn bù qīng
   tags:
-    - Health
+    - Health 1
+  pinyin: qīng
 - hanzi: 救护车
   translate: ambulance
   tags:
-    - Health
+    - Health 1
+  pinyin: jiù hù chē
 - hanzi: 叫
   translate: call
   tags:
-    - Health
+    - Health 1
+  pinyin: jiào
 - hanzi: 轮椅
   translate: wheelchair
   tags:
-    - Health
+    - Health 1
+  pinyin: lún yǐ
 - hanzi: 口罩
   translate: (surgical) mask
   tags:
-    - Health
+    - Health 1
+  pinyin: kǒu zhào
 - hanzi: 感冒
   translate: cold; catch a cold
   sentences:
     - hanzi: 我 戴 口罩 ， 因为 感冒 了
+      pinyin: wǒ dài kǒu zhào ， yīn wèi gǎn mào le
   tags:
-    - Health
+    - Health 1
+  pinyin: gǎn mào
 - hanzi: 体温计
   translate: thermometer
   tags:
-    - Health
-
-
+    - Health 1
+  pinyin: tǐ wēn jì
+- hanzi: 死
+  translate: dead; death; die
+  tags:
+    - Health 1
+  pinyin: sǐ
+- hanzi: 治
+  translate: cure
+  sentences:
+    - hanzi: 妹妹 的 病 治 好了
+      pinyin: mèi mèi de bìng zhì hǎo le
+  tags:
+    - Health 1
+  pinyin: zhì
+- hanzi: 病
+  translate: sick; sickness
+  tags:
+    - Health 1
+  pinyin: bìng
+- hanzi: 长
+  translate: grow; develop
+  sentences:
+    - hanzi: 这 个 孩子 长 高了
+      pinyin: zhè gè hái zi zhǎng gāo le
+  tags:
+    - Health 1
+  pinyin: zhǎng
 - hanzi: 日常
   translate: daily
   tags:
