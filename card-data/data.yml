@@ -1839,7 +1839,7 @@
     - Travel
   pinyin: cóng
 - hanzi: 到
-  translate: to
+  translate: arrive; reach
   sentences:
     - hanzi: 从 北京 到 上海 要 多久 ？
       pinyin: cóng běi jīng dào shàng hǎi yào duō jiǔ ？
@@ -2751,6 +2751,127 @@
   tags:
     - Health 1
   pinyin: zhǎng
+- hanzi: 小学
+  translate: primary school
+  sentences:
+    - hanzi: 我 六 岁 上 小学
+      pinyin: wǒ liù suì shàng xiǎo xué
+  tags:
+    - Education 1
+  pinyin: xiǎo xué
+- hanzi: 大学
+  translate: college
+  tags:
+    - Education 1
+  pinyin: dà xué
+- hanzi: 中学
+  translate: middle school
+  tags:
+    - Education 1
+  pinyin: zhōng xué
+- hanzi: 毕业
+  translate: graduate
+  sentences:
+    - hanzi: 我 十一 岁 小学 毕业
+      pinyin: wǒ shí yī suì xiǎo xué bì yè
+  tags:
+    - Education 1
+  pinyin: bì yè
+- hanzi: 学生
+  translate: student
+  tags:
+    - Education 1
+  pinyin: xué shēng
+- hanzi: 进
+  translate: enter; go into
+  sentences:
+    - hanzi: 小学 毕业 以后 ， 我 进了 北京 第 四 中学
+      pinyin: xiǎo xué bì yè yǐ hòu ， wǒ jìn le běi jīng dì sì zhōng xué
+  tags:
+    - Education 1
+  pinyin: jìn
+- hanzi: 数学
+  translate: math
+  sentences:
+    - hanzi: 我 很 喜欢 学习 数学
+      pinyin: wǒ hěn xǐ huān xué xí shù xué
+  tags:
+    - Education 1
+  pinyin: shù xué
+- hanzi: 博士
+  translate: Ph.D.
+  sentences:
+    - hanzi: 五 年 以后 ， 我 博士 毕业了
+      pinyin: wǔ nián yǐ hòu ， wǒ bó shì bì yè le
+  tags:
+    - Education 1
+  pinyin: bó shì
+- hanzi: 导师
+  translate: mentor
+  sentences:
+    - hanzi: 我 的 导师 是 数学 系 的 著名 教授
+      pinyin: wǒ de dǎo shī shì shù xué xì de zhe míng jiào shòu
+  tags:
+    - Education 1
+  pinyin: dǎo shī
+- hanzi: 教授
+  translate: professor
+  tags:
+    - Education 1
+  pinyin: jiào shòu
+- hanzi: 系
+  translate: department
+  tags:
+    - Education 1
+  pinyin: xì
+- hanzi: 著名
+  translate: famous
+  tags:
+    - Education 1
+  pinyin: zhù míng
+- hanzi: 食堂
+  translate: canteen
+  tags:
+    - Education 1
+  pinyin: shí táng
+- hanzi: 体育馆
+  translate: gym
+  tags:
+    - Education 1
+  pinyin: tǐ yù guǎn
+- hanzi: 图书馆
+  translate: library
+  tags:
+    - Education 1
+  pinyin: tú shū guǎn
+- hanzi: 走
+  translate: walk
+  tags:
+    - Education 1
+  pinyin: zǒu
+- hanzi: 这里
+  translate: here
+  tags:
+    - Education 1
+  pinyin: zhè lǐ
+- hanzi: 往
+  translate: to; towards
+  sentences:
+    - hanzi: 从 这里 往 南 走 ， 图书馆 在 食堂 左 边
+      pinyin: cóng zhè lǐ wǎng nán zǒu ， tú shū guǎn zài shí táng zuǒ biān
+  tags:
+    - Education 1
+  pinyin: wǎng
+- hanzi: 右
+  translate: right (not left)
+  tags:
+    - Education 1
+  pinyin: yòu
+- hanzi: 左
+  translate: left (not right)
+  tags:
+    - Education 1
+  pinyin: zuǒ
 - hanzi: 日常
   translate: daily
   tags:
@@ -2786,11 +2907,6 @@
   tags:
     - Meetup 1
   pinyin: dǎ suàn
-- hanzi: 图书馆
-  translate: library
-  tags:
-    - Meetup 1
-  pinyin: tú shū guǎn
 - hanzi: 对
   translate: affirmative; right; correct
   tags:
