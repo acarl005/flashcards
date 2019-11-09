@@ -1740,7 +1740,7 @@
     - Language
   pinyin: shuō
 - hanzi: 学习
-  translate: study
+  translate: study; learn
   sentences:
     - hanzi: 我 在 中国 的 时候 学习了 中文
       pinyin: wǒ zài zhōng guó de shí hòu xué xí le zhōng wén
@@ -2872,6 +2872,90 @@
   tags:
     - Education 1
   pinyin: zuǒ
+- hanzi: 宿舍
+  translate: dormitory
+  tags:
+    - Education 1
+  pinyin: sù shè
+- hanzi: 教学楼
+  translate: teaching building
+  tags:
+    - Education 1
+  pinyin: jiào xué lóu
+- hanzi: 停车场
+  translate: parking lot
+  tags:
+    - Education 1
+  pinyin: tíng chē chǎng
+- hanzi: 化学
+  translate: chemistry
+  tags:
+    - Education 1
+  pinyin: huà xué
+- hanzi: 文学
+  translate: literature
+  tags:
+    - Education 1
+  pinyin: wén xué
+- hanzi: 专业
+  translate: major; concentration
+  sentences:
+    - hanzi: 我 的 专业 是 化学
+      pinyin: wǒ de zhuān yè shì huà xué
+  tags:
+    - Education 1
+  pinyin: zhuān yè
+- hanzi: 哲学
+  translate: philosophy
+  tags:
+    - Education 1
+  pinyin: zhé xué
+- hanzi: 法律
+  translate: law
+  tags:
+    - Education 1
+  pinyin: fǎ lǜ
+- hanzi: 物理
+  translate: physics
+  tags:
+    - Education 1
+  pinyin: wù lǐ
+- hanzi: 除了
+  translate: besides; in addition to
+  sentences:
+    - hanzi: 除了 数学 ， 我 对 物理 也 有 兴趣
+      pinyin: chú le shù xué ， wǒ duì wù lǐ yě yǒu xìng qù
+  tags:
+    - Education 1
+  pinyin: chú le
+- hanzi: 兴趣
+  translate: interest
+  tags:
+    - Education 1
+  pinyin: xìng qù
+- hanzi: 最
+  translate: most (superlative modifier)
+  sentences:
+    - hanzi: 在 文学 ， 哲学 ， 法律 中 ， 我 最 喜欢 哲学
+      pinyin: zài wén xué ， zhé xué ， fǎ lǜ zhōng ， wǒ zuì xǐ huān zhé xué
+  tags:
+    - Education 1
+  pinyin: zuì
+- hanzi: 练习
+  translate: practice; train
+  tags:
+    - Education 1
+  pinyin: liàn xí
+- hanzi: 研究
+  translate: study; research
+  tags:
+    - Education 1
+  pinyin: yán jiū
+- hanzi: 尝试
+  translate: try; attempt
+  tags:
+    - Education 1
+  pinyin: cháng shì
 - hanzi: 日常
   translate: daily
   tags:
@@ -2887,11 +2971,6 @@
   tags:
     - Meetup 1
   pinyin: yòng yǔ
-- hanzi: 兴趣
-  translate: interest
-  tags:
-    - Meetup 1
-  pinyin: xìng qù
 - hanzi: 爱好
   translate: hobby
   tags:
