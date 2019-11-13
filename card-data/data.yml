@@ -2956,6 +2956,151 @@
   tags:
     - Education 1
   pinyin: cháng shì
+- hanzi: 钢琴
+  translate: piano
+  sentences:
+    - hanzi: 你 会 弹 钢琴 吗 ？
+      pinyin: nǐ huì tán gāng qín ma ？
+  tags:
+    - Music
+  pinyin: gāng qín
+- hanzi: 小提琴
+  sentences:
+    - hanzi: 你 会 拉 小提琴 吗 ？
+      pinyin: nǐ huì lā xiǎo tí qín ma ？
+  translate: violin
+  tags:
+    - Music
+  pinyin: xiǎo tí qín
+- hanzi: 吉他
+  translate: guitar
+  tags:
+    - Music
+  pinyin: jí tā
+- hanzi: 弹
+  translate: play (musical instrument)
+  tags:
+    - Music
+  pinyin: tán
+- hanzi: 拉
+  translate: play (stringed instrument)
+  tags:
+    - Music
+  pinyin: lā
+- hanzi: 大约
+  sentences:
+    - hanzi: 我 学习 小提琴 大约 十 年 了
+      pinyin: wǒ xué xí xiǎo tí qín dà yuē shí nián le
+  translate: about; approximately
+  tags:
+    - Music
+  pinyin: dà yuē
+- hanzi: 笛子
+  translate: flute
+  sentences:
+    - hanzi: 我 会 吹 笛子
+      pinyin: wǒ huì chuī dí zi
+  tags:
+    - Music
+  pinyin: dí zi
+- hanzi: 吹
+  translate: play (wind instrument)
+  tags:
+    - Music
+  pinyin: chuī
+- hanzi: 二胡
+  translate: erhu
+  tags:
+    - Music
+  pinyin: èr hú
+- hanzi: 只
+  translate: only; exclusively
+  sentences:
+    - hanzi: 我 只 学习 了 一 个 星期 笛子
+      pinyin: wǒ zhǐ xué xí le yī gè xīng qī dí zi
+  tags:
+    - Music
+  pinyin: zhǐ
+- hanzi: 从来
+  translate: always
+  sentences:
+    - hanzi: 我 从来 没 学习 过 笛子
+      pinyin: wǒ cóng lái méi xué xí guò dí zi
+  tags:
+    - Music
+  pinyin: cóng lái
+- hanzi: 歌剧
+  translate: opera
+  tags:
+    - Music
+  pinyin: gē jù
+- hanzi: 音乐会
+  translate: concert
+  tags:
+    - Music
+  pinyin: yīn yuè huì
+- hanzi: 话剧
+  translate: drama
+  tags:
+    - Music
+  pinyin: huà jù
+- hanzi: 讨厌
+  translate: hate
+  tags:
+    - Music
+  pinyin: tǎo yàn
+- hanzi: 画
+  translate: draw; paint
+  tags:
+    - Music
+  pinyin: huà
+- hanzi: 画儿
+  translate: a drawing; a painting
+  tags:
+    - Music
+  pinyin: huà ér
+- hanzi: 书法
+  translate: calligraphy
+  tags:
+    - Music
+  pinyin: shū fǎ
+- hanzi: 擅长
+  translate: good at; be expert in
+  sentences:
+    - hanzi: 你 擅长 什么 ？
+      pinyin: nǐ shàn cháng shén me ？
+  tags:
+    - Music
+  pinyin: shàn cháng
+- hanzi: 棒
+  sentences:
+    - hanzi: 他 画儿 画 得 非常 棒
+      pinyin: tā huà ér huà dé fēi cháng bàng
+  translate: excellent; skillful
+  tags:
+    - Music
+  pinyin: bàng
+- hanzi: 电影
+  translate: movie; film
+  tags:
+    - Music
+  pinyin: diàn yǐng
+- hanzi: 相比
+  translate: compared to
+  sentences:
+    - hanzi: 和 音乐会 相比 ， 我 更 喜欢 电影
+      pinyin: hé yīn lè huì xiāng bǐ ， wǒ gèng xǐ huān diàn yǐng
+  tags:
+    - Music
+  pinyin: xiāng bǐ
+- hanzi: 更
+  translate: more
+  sentences:
+    - hanzi: 和 音乐会 相比 ， 我 更 喜欢 电影
+      pinyin: hé yīn lè huì xiāng bǐ ， wǒ gèng xǐ huān diàn yǐng
+  tags:
+    - Music
+  pinyin: gèng
 - hanzi: 日常
   translate: daily
   tags:
@@ -3044,8 +3189,3 @@
   tags:
     - Meetup 1
   pinyin: zǒng
-- hanzi: 电影
-  translate: movie
-  tags:
-    - Meetup 1
-  pinyin: diàn yǐng
