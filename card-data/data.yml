@@ -3189,3 +3189,48 @@
   tags:
     - Meetup 1
   pinyin: zǒng
+- hanzi: 熊猫
+  translate: panda
+  tags:
+    - CLA
+  pinyin: xióng māo
+- hanzi: 木
+  translate: wood
+  tags:
+    - CLA
+  pinyin: mù
+- hanzi: 林
+  translate: forest
+  tags:
+    - CLA
+  pinyin: lín
+- hanzi: 火
+  translate: fire
+  tags:
+    - CLA
+  pinyin: huǒ
+- hanzi: 山
+  translate: mountain
+  tags:
+    - CLA
+  pinyin: shān
+- hanzi: 心
+  translate: heart
+  tags:
+    - CLA
+  pinyin: xīn
+- hanzi: 田
+  translate: field; farm
+  tags:
+    - CLA
+  pinyin: tián
+- hanzi: 普通话
+  translate: Mandarin (common dialect)
+  tags:
+    - CLA
+  pinyin: pǔ tōng huà
+- hanzi: 曼哈顿
+  translate: Manhattan
+  tags:
+    - CLA
+  pinyin: màn hā dùn
