@@ -1069,6 +1069,7 @@
       pinyin: wǒ jīng cháng yóu yǒng
   tags:
     - Question 2
+    - Sports
   pinyin: jīng cháng
 - hanzi: 谁
   translate: who
@@ -1635,11 +1636,17 @@
   pinyin: rì běn
 - hanzi: 过
   translate: aspect particle (follows a verb to indicate it happened in the past)
+  sentences:
+    - hanzi: 你 去 过 韩国 吗 ？
+      pinyin: nǐ qù guò hán guó ma ？
   tags:
     - Country
   pinyin: guò
 - hanzi: 曾经
   translate: once; ever
+  sentences:
+    - hanzi: 是的 ， 我 曾经 去 韩国
+      pinyin: shì de ， wǒ céng jīng qù hán guó
   tags:
     - Country
   pinyin: céng jīng
@@ -3101,6 +3108,116 @@
   tags:
     - Music
   pinyin: gèng
+- hanzi: 运动
+  translate: sports
+  tags:
+    - Sports
+  pinyin: yùn dòng
+- hanzi: 篮球
+  translate: basketball
+  sentences:
+    - hanzi: 我 喜欢 打 篮球
+      pinyin: wǒ xǐ huān dǎ lán qiú
+  tags:
+    - Sports
+  pinyin: lán qiú
+- hanzi: 足球
+  translate: football (soccer)
+  sentences:
+    - hanzi: 我 喜欢 踢 足球
+      pinyin: wǒ xǐ huān tī zú qiú
+  tags:
+    - Sports
+  pinyin: zú qiú
+- hanzi: 网球
+  translate: tennis (net ball)
+  tags:
+    - Sports
+  pinyin: wǎng qiú
+- hanzi: 打
+  translate: play; hit
+  tags:
+    - Sports
+  pinyin: dǎ
+- hanzi: 踢
+  translate: kick
+  tags:
+    - Sports
+  pinyin: tī
+- hanzi: 乒乓球
+  translate: ping pong
+  tags:
+    - Sports
+  pinyin: pīng pāng qiú
+- hanzi: 羽毛球
+  translate: badminton
+  tags:
+    - Sports
+  pinyin: yǔ máo qiú
+- hanzi: 高尔夫球
+  translate: golf
+  tags:
+    - Sports
+  pinyin: gāo ěr fū qiú
+- hanzi: 滑雪
+  translate: ski
+  tags:
+    - Sports
+  pinyin: huá xuě
+- hanzi: 寒假
+  translate: winter vacation
+  sentences:
+    - hanzi: 我 每年 寒假 都 去 滑雪
+      pinyin: wǒ měi nián hán jià dōu qù huá xuě
+  tags:
+    - Sports
+  pinyin: hán jià
+- hanzi: 都
+  translate: all
+  sentences:
+    - hanzi: 我 每年 寒假 都 去 滑雪
+      pinyin: wǒ měi nián hán jià dōu qù huá xuě
+  tags:
+    - Sports
+  pinyin: dōu
+- hanzi: 很少
+  translate: rarely
+  tags:
+    - Sports
+  pinyin: hěn shǎo
+- hanzi: 从不
+  translate: never
+  tags:
+    - Sports
+  pinyin: cóng bù
+- hanzi: 偶尔
+  translate: occasionally
+  tags:
+    - Sports
+  pinyin: ǒu ěr
+- hanzi: 暑假
+  translate: summer vacation
+  sentences:
+    - hanzi: 他 暑假 偶尔 去 远足
+      pinyin: tā shǔ jià ǒu ěr qù yuǎn zú
+  tags:
+    - Sports
+  pinyin: shǔ jià
+- hanzi: 冲浪
+  translate: surf
+  tags:
+    - Sports
+  pinyin: chōng làng
+- hanzi: 远足
+  translate: hike
+  tags:
+    - Sports
+  pinyin: yuǎn zú
+- hanzi: 潜水
+  translate: dive
+  tags:
+    - Sports
+  pinyin: qián shuǐ
 - hanzi: 日常
   translate: daily
   tags:
