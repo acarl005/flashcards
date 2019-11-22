@@ -3096,7 +3096,7 @@
   translate: compared to
   sentences:
     - hanzi: 和 音乐会 相比 ， 我 更 喜欢 电影
-      pinyin: hé yīn lè huì xiāng bǐ ， wǒ gèng xǐ huān diàn yǐng
+      pinyin: hé yīn yuè huì xiāng bǐ ， wǒ gèng xǐ huān diàn yǐng
   tags:
     - Music
   pinyin: xiāng bǐ
@@ -3104,7 +3104,7 @@
   translate: more
   sentences:
     - hanzi: 和 音乐会 相比 ， 我 更 喜欢 电影
-      pinyin: hé yīn lè huì xiāng bǐ ， wǒ gèng xǐ huān diàn yǐng
+      pinyin: hé yīn yuè huì xiāng bǐ ， wǒ gèng xǐ huān diàn yǐng
   tags:
     - Music
   pinyin: gèng
@@ -3218,6 +3218,70 @@
   tags:
     - Sports
   pinyin: qián shuǐ
+- hanzi: 同事
+  translate: colleague; coworker
+  tags:
+    - Social
+  pinyin: tóng shì
+- hanzi: 同学
+  translate: classmate
+  sentences:
+    - hanzi: 我 足球 没有 同学 踢 得 好
+      pinyin: wǒ zú qiú méi yǒu tóng xué tī dé hǎo
+  tags:
+    - Social
+  pinyin: tóng xué
+- hanzi: 老板
+  translate: boss
+  tags:
+    - Social
+  pinyin: lǎo bǎn
+- hanzi: 室友
+  translate: roommate
+  tags:
+    - Social
+  pinyin: shì yǒu
+- hanzi: 战友
+  translate: comrade
+  tags:
+    - Social
+  pinyin: zhàn yǒu
+- hanzi: 游乐园
+  translate: amusement park
+  tags:
+    - Social
+  pinyin: yóu lè yuán
+- hanzi: 动物园
+  translate: zoo
+  tags:
+    - Social
+  pinyin: dòng wù yuán
+- hanzi: 公园
+  translate: park
+  tags:
+    - Social
+  pinyin: gōng yuán
+- hanzi: 一起
+  translate: together
+  sentences:
+    - hanzi: 一起 去 公园 走 走 吧
+      pinyin: yī qǐ qù gōng yuán zǒu zǒu ba
+  tags:
+    - Social
+  pinyin: yī qǐ
+- hanzi: 对不起
+  translate: sorry
+  sentences:
+    - hanzi: 对不起 ， 我 今晚 有事
+      pinyin: duì bù qǐ ， wǒ jīn wǎn yǒu shì
+  tags:
+    - Social
+  pinyin: duì bù qǐ
+- hanzi: 有事
+  translate: busy
+  tags:
+    - Social
+  pinyin: yǒu shì
 - hanzi: 日常
   translate: daily
   tags:
@@ -3306,6 +3370,11 @@
   tags:
     - Meetup 1
   pinyin: zǒng
+- hanzi: 问题
+  translate: problem; question
+  tags:
+    - Meetup 1
+  pinyin: wèn tí
 - hanzi: 熊猫
   translate: panda
   tags:
