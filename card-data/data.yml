@@ -1511,6 +1511,9 @@
   pinyin: shàng
 - hanzi: 电话
   translate: phone (electric words)
+  sentences:
+    - hanzi: 我 想 打 电话 女朋友
+      pinyin: wǒ xiǎng dǎ diàn huà nǚ péng yǒu
   tags:
     - Household
   pinyin: diàn huà
@@ -1529,11 +1532,6 @@
   tags:
     - Household
   pinyin: kōng tiáo
-- hanzi: 打
-  translate: make (a call)
-  tags:
-    - Household
-  pinyin: dǎ
 - hanzi: 洗澡
   translate: bathe
   tags:
@@ -3282,6 +3280,144 @@
   tags:
     - Social
   pinyin: yǒu shì
+- hanzi: 酒吧
+  translate: bar (for drinks)
+  tags:
+    - Social
+  pinyin: jiǔ bā
+- hanzi: 夜店
+  translate: night club
+  tags:
+    - Social
+  pinyin: yè diàn
+- hanzi: 还
+  translate: still; yet
+  sentences:
+    - hanzi: 我 还 没 去过 酒吧
+      pinyin: wǒ hái méi qù guò jiǔ ba
+  tags:
+    - Social
+  pinyin: hái
+- hanzi: 能
+  translate: possibly; can
+  tags:
+    - Social
+  pinyin: néng
+- hanzi: 带
+  translate: bring; carry; take
+  tags:
+    - Social
+  pinyin: dài
+- hanzi: 才
+  translate: only; merely
+  sentences:
+    - hanzi: 我 不能 带 你 去 酒吧 ， 你 才 十 岁
+      pinyin: wǒ bù néng dài nǐ qù jiǔ ba ， nǐ cái shí suì
+  tags:
+    - Social
+  pinyin: cái
+- hanzi: 女士
+  translate: miss
+  tags:
+    - Social
+  pinyin: nǚ shì
+- hanzi: 先生
+  translate: sir
+  tags:
+    - Social
+  pinyin: xiān shēng
+- hanzi: 联系
+  sentences:
+    - hanzi: 明天 怎么 联系 ？
+      pinyin: míng tiān zěn me lián xì ？
+  translate: contact; touch
+  tags:
+    - Social
+  pinyin: lián xì
+- hanzi: 号码
+  translate: number
+  sentences:
+    - hanzi: 能 告诉 我 你 的 电话 号码 吗 ？
+      pinyin: néng gào sù wǒ nǐ de diàn huà hào mǎ ma ？
+  tags:
+    - Social
+  pinyin: hào mǎ
+- hanzi: 电子邮箱
+  translate: email address (electronic mailbox)
+  sentences:
+    - hanzi: 能 告诉 我 你 的 电子 邮箱 吗 ？
+      pinyin: néng gào sù wǒ nǐ de diàn zi yóu xiāng ma ？
+  tags:
+    - Social
+  pinyin: diàn zi yóu xiāng
+- hanzi: 告诉
+  translate: tell; inform
+  tags:
+    - Social
+  pinyin: gào sù
+- hanzi: 短信
+  translate: text message; SMS
+  sentences:
+    - hanzi: 你 可以 给 我 短信
+      pinyin: nǐ kě yǐ gěi wǒ duǎn xìn
+  tags:
+    - Social
+  pinyin: duǎn xìn
+- hanzi: 邮件
+  translate: mail
+  tags:
+    - Social
+  pinyin: yóu jiàn
+- hanzi: 接
+  translate: connect; receive
+  sentences:
+    - hanzi: 你 刚才 为什么 不 接 电话 ？
+      pinyin: nǐ gāng cái wèi shén me bù jiē diàn huà ？
+  tags:
+    - Social
+  pinyin: jiē
+- hanzi: 手机
+  translate: cell phone
+  sentences:
+    - hanzi: 我的 手机 没 电了
+      pinyin: wǒ de shǒu jī méi diàn le
+  tags:
+    - Social
+  pinyin: shǒu jī
+- hanzi: 骗
+  translate: cheat; fool; deceive
+  sentences:
+    - hanzi: 我 被 骗 了
+      pinyin: wǒ bèi piàn le
+  tags:
+    - Social
+  pinyin: piàn
+- hanzi: 甩
+  translate: throw; toss; dump
+  sentences:
+    - hanzi: 我 被 甩 了
+      pinyin: wǒ bèi shuǎi le
+  tags:
+    - Social
+  pinyin: shuǎi
+- hanzi: 坏
+  translate: spoil; ruin; break
+  sentences:
+    - hanzi: 她 的 玩具 被 打 坏了
+      pinyin: tā de wán jù bèi dǎ huài le
+    - hanzi: 我 的 自行车 被 骑 坏了
+      pinyin: wǒ de zì xíng chē bèi qí huài le
+  tags:
+    - Social
+  pinyin: huài
+- hanzi: 这么
+  translate: so; such
+  sentences:
+    - hanzi: 你 怎么 这么 伤心 ？
+      pinyin: nǐ zěn me zhè me shāng xīn ？
+  tags:
+    - Social
+  pinyin: zhè me
 - hanzi: 日常
   translate: daily
   tags:
@@ -3337,11 +3473,6 @@
   tags:
     - Meetup 1
   pinyin: huò
-- hanzi: 短信
-  translate: text message; SMS
-  tags:
-    - Meetup 1
-  pinyin: duǎn xìn
 - hanzi: 发短信
   translate: texting
   sentences:
@@ -3370,53 +3501,113 @@
   tags:
     - Meetup 1
   pinyin: zǒng
-- hanzi: 问题
-  translate: problem; question
-  tags:
-    - Meetup 1
-  pinyin: wèn tí
 - hanzi: 熊猫
   translate: panda
   tags:
-    - CLA
+    - CLA 1
   pinyin: xióng māo
 - hanzi: 木
   translate: wood
   tags:
-    - CLA
+    - CLA 1
   pinyin: mù
 - hanzi: 林
   translate: forest
   tags:
-    - CLA
+    - CLA 1
   pinyin: lín
 - hanzi: 火
   translate: fire
   tags:
-    - CLA
+    - CLA 1
   pinyin: huǒ
 - hanzi: 山
   translate: mountain
   tags:
-    - CLA
+    - CLA 1
   pinyin: shān
 - hanzi: 心
   translate: heart
   tags:
-    - CLA
+    - CLA 1
   pinyin: xīn
 - hanzi: 田
   translate: field; farm
   tags:
-    - CLA
+    - CLA 1
   pinyin: tián
 - hanzi: 普通话
   translate: Mandarin (common dialect)
   tags:
-    - CLA
+    - CLA 1
   pinyin: pǔ tōng huà
 - hanzi: 曼哈顿
   translate: Manhattan
   tags:
-    - CLA
+    - CLA 1
   pinyin: màn hā dùn
+- hanzi: 不客气
+  translate: you're welcome (no guest vibes)
+  tags:
+    - CLA 2
+  pinyin: bú kè qì
+- hanzi: 不好意思
+  translate: excuse me (no bad meaning)
+  tags:
+    - CLA 2
+  pinyin: bù hǎo yì sī
+- hanzi: 没关系
+  translate: no worries (no impact)
+  tags:
+    - CLA 2
+  pinyin: méi guān xì
+- hanzi: 没事
+  translate: no matter
+  tags:
+    - CLA 2
+  pinyin: méi shì
+- hanzi: 厕所
+  translate: toilet
+  tags:
+    - CLA 2
+  pinyin: cè suǒ
+- hanzi: 脸
+  translate: face
+  tags:
+    - CLA 2
+  pinyin: liǎn
+- hanzi: 手指
+  translate: finger
+  tags:
+    - CLA 2
+  pinyin: shǒu zhǐ
+- hanzi: 屁股
+  translate: butt
+  tags:
+    - CLA 2
+  pinyin: pì gǔ
+- hanzi: 知道
+  translate: know
+  tags:
+    - CLA 2
+  pinyin: zhī dào
+- hanzi: 问题
+  translate: question
+  tags:
+    - CLA 2
+  pinyin: wèn tí
+- hanzi: 姓
+  translate: surname
+  tags:
+    - CLA 2
+  pinyin: xìng
+- hanzi: 腿
+  translate: leg
+  tags:
+    - CLA 2
+  pinyin: tuǐ
+- hanzi: 胳膊
+  translate: arm
+  tags:
+    - CLA 2
+  pinyin: gē bó
