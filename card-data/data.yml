@@ -525,7 +525,7 @@
     - Nature
   pinyin: xuě
 - hanzi: 晴
-  translate: sunny; clear; bright
+  translate: sunny; bright
   sentences:
     - hanzi: 天 晴 了
       pinyin: tiān qíng le
@@ -1818,22 +1818,22 @@
 - hanzi: 飞机
   translate: airplane (fly machine)
   tags:
-    - Travel
+    - Travel 1
   pinyin: fēi jī
 - hanzi: 轮船
   translate: ship
   tags:
-    - Travel
+    - Travel 1
   pinyin: lún chuán
 - hanzi: 火车
   translate: train
   tags:
-    - Travel
+    - Travel 1
   pinyin: huǒ chē
 - hanzi: 交通
   translate: transportation; traffic
   tags:
-    - Travel
+    - Travel 1
   pinyin: jiāo tōng
 - hanzi: 从
   translate: from
@@ -1841,7 +1841,7 @@
     - hanzi: 从 北京 到 上海 要 多久 ？
       pinyin: cóng běi jīng dào shàng hǎi yào duō jiǔ ？
   tags:
-    - Travel
+    - Travel 1
   pinyin: cóng
 - hanzi: 到
   translate: arrive; reach
@@ -1849,12 +1849,12 @@
     - hanzi: 从 北京 到 上海 要 多久 ？
       pinyin: cóng běi jīng dào shàng hǎi yào duō jiǔ ？
   tags:
-    - Travel
+    - Travel 1
   pinyin: dào
 - hanzi: 久
   translate: long (time)
   tags:
-    - Travel
+    - Travel 1
   pinyin: jiǔ
 - hanzi: 坐
   translate: sit; travel by
@@ -1862,7 +1862,7 @@
     - hanzi: 从 上海 到 大阪 坐 轮船 要 两 天
       pinyin: cóng shàng hǎi dào dà bǎn zuò lún chuán yào liǎng tiān
   tags:
-    - Travel
+    - Travel 1
   pinyin: zuò
 - hanzi: 可以
   translate: may; can
@@ -1870,72 +1870,72 @@
     - hanzi: 从 北京 到 上海 可以 坐 什么 交通 工具 ？
       pinyin: cóng běi jīng dào shàng hǎi kě yǐ zuò shén me jiāo tōng gōng jù ？
   tags:
-    - Travel
+    - Travel 1
   pinyin: kě yǐ
 - hanzi: 或者
   translate: or (in a statement)
   tags:
-    - Travel
+    - Travel 1
   pinyin: huò zhě
 - hanzi: 车站
   translate: (bus) station
   tags:
-    - Travel
+    - Travel 1
   pinyin: chē zhàn
 - hanzi: 码头
   translate: pier; dock
   tags:
-    - Travel
+    - Travel 1
   pinyin: mǎ tóu
 - hanzi: 机场
   translate: airport (machine field)
   tags:
-    - Travel
+    - Travel 1
   pinyin: jī chǎng
 - hanzi: 地铁
   translate: subway (ground iron)
   tags:
-    - Travel
+    - Travel 1
   pinyin: dì tiě
 - hanzi: 火车站
   translate: train station
   tags:
-    - Travel
+    - Travel 1
   pinyin: huǒ chē zhàn
 - hanzi: 出租车
   translate: taxi (rented car)
   tags:
-    - Travel
+    - Travel 1
   pinyin: chū zū chē
 - hanzi: 还是
   translate: or (in a question)
   tags:
-    - Travel
+    - Travel 1
   pinyin: hái shì
 - hanzi: 地铁站
   translate: subway station
   tags:
-    - Travel
+    - Travel 1
   pinyin: dì tiě zhàn
 - hanzi: 宾馆
   translate: hotel
   tags:
-    - Travel
+    - Travel 1
   pinyin: bīn guǎn
 - hanzi: 商务间
   translate: business (hotel) room
   tags:
-    - Travel
+    - Travel 1
   pinyin: shāng wù jiān
 - hanzi: 标准间
   translate: standard (hotel) room
   tags:
-    - Travel
+    - Travel 1
   pinyin: biāo zhǔn jiān
 - hanzi: 无烟
   translate: smoke free; non-smoking
   tags:
-    - Travel
+    - Travel 1
   sentences:
     - hanzi: 我 想 预定 一 间 无烟 的 标准间 和 一 间 无烟 的 商务间
       pinyin: wǒ xiǎng yù dìng yī jiān wú yān de biāo zhǔn jiān hé yī jiān wú yān de
@@ -1944,42 +1944,42 @@
 - hanzi: 预定
   translate: reserve; book
   tags:
-    - Travel
+    - Travel 1
   pinyin: yù dìng
 - hanzi: 入住
   translate: check in
   tags:
-    - Travel
+    - Travel 1
   pinyin: rù zhù
 - hanzi: 退房
   translate: check out
   tags:
-    - Travel
+    - Travel 1
   pinyin: tuì fáng
 - hanzi: 您
   translate: you (formal)
   tags:
-    - Travel
+    - Travel 1
   pinyin: nín
 - hanzi: 时候
   translate: time; when
   tags:
-    - Travel
+    - Travel 1
   pinyin: shí hòu
 - hanzi: 朋友
   translate: friend
   tags:
-    - Travel
+    - Travel 1
   pinyin: péng yǒu
 - hanzi: 旅行
   translate: travel
   tags:
-    - Travel
+    - Travel 1
   pinyin: lǚ xíng
 - hanzi: 烤鸭
   translate: roasted duck
   tags:
-    - Travel
+    - Travel 1
   pinyin: kǎo yā
 - hanzi: 请
   translate: request; invite; please
@@ -1987,17 +1987,17 @@
     - hanzi: 上 星期 朋友 请 我 去 北京 旅行
       pinyin: shàng xīng qī péng yǒu qǐng wǒ qù běi jīng lǚ xíng
   tags:
-    - Travel
+    - Travel 1
   pinyin: qǐng
 - hanzi: 长城
   translate: the Great Wall (long wall)
   tags:
-    - Travel
+    - Travel 1
   pinyin: cháng chéng
 - hanzi: 故宫
   translate: the Forbidden City
   tags:
-    - Travel
+    - Travel 1
   pinyin: gù gōng
 - hanzi: 圣诞节
   translate: Christmas
@@ -3418,6 +3418,112 @@
   tags:
     - Social
   pinyin: zhè me
+
+- hanzi: 票
+  translate: ticket
+  tags:
+    - Travel 2
+- hanzi: 完
+  translate: finish; end; complete
+  sentences:
+    - hanzi: 因为 船票 卖 完 了 ， 我们 不得不 买 火车票
+  tags:
+    - Travel 2
+- hanzi: 不得不
+  translate: have to
+  tags:
+    - Travel 2
+- hanzi: 光
+  translate: used up; bare
+  tags:
+    - Travel 2
+- hanzi: 商务舱
+  translate: business class
+  tags:
+    - Travel 2
+- hanzi: 经济舱
+  translate: economy class
+  tags:
+    - Travel 2
+- hanzi: 降落
+  translate: land
+  tags:
+    - Travel 2
+- hanzi: 行李
+  translate: luggage
+  tags:
+    - Travel 2
+- hanzi: 起飞
+  translate: take flight
+  sentences:
+    - hanzi: 你 明明 说 飞机 八 点 起飞
+  tags:
+    - Travel 2
+- hanzi: 明
+  translate: clear; distinct
+  tags:
+    - Travel 2
+- hanzi: 超过
+  translate: exceed; surpass
+  tags:
+    - Travel 2
+- hanzi: 公斤
+  translate: kilogram
+  tags:
+    - Travel 2
+- hanzi: 
+  translate: 
+  tags:
+    - Travel 2
+- hanzi: 
+  translate: 
+  tags:
+    - Travel 2
+- hanzi: 
+  translate: 
+  tags:
+    - Travel 2
+- hanzi: 
+  translate: 
+  tags:
+    - Travel 2
+- hanzi: 
+  translate: 
+  tags:
+    - Travel 2
+- hanzi: 
+  translate: 
+  tags:
+    - Travel 2
+- hanzi: 
+  translate: 
+  tags:
+    - Travel 2
+- hanzi: 
+  translate: 
+  tags:
+    - Travel 2
+- hanzi: 
+  translate: 
+  tags:
+    - Travel 2
+- hanzi: 
+  translate: 
+  tags:
+    - Travel 2
+- hanzi: 
+  translate: 
+  tags:
+    - Travel 2
+- hanzi: 
+  translate: 
+  tags:
+    - Travel 2
+- hanzi: 
+  translate: 
+  tags:
+    - Travel 2
+
 - hanzi: 日常
   translate: daily
   tags:
