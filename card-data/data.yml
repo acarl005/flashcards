@@ -673,7 +673,7 @@
     - Time
   pinyin: zǎo shàng
 - hanzi: 晚上
-  translate: night
+  translate: at night
   tags:
     - Time
   pinyin: wǎn shàng
@@ -3435,7 +3435,7 @@
     - Travel 2
   pinyin: wán
 - hanzi: 不得不
-  translate: have to
+  translate: have to; must (using 不)
   tags:
     - Travel 2
   pinyin: bù dé bù
@@ -3524,7 +3524,7 @@
   translate: map
   tags:
     - Travel 2
-  pinyin: de tú
+  pinyin: dì tú
 - hanzi: 弄
   translate: play with; fool with; get into a specified condition
   sentences:
@@ -3537,7 +3537,7 @@
   translate: lose; throw aside
   sentences:
     - hanzi: 女儿 把 地图 弄 丢了
-      pinyin: nǚ ér bǎ de tú nòng diū le
+      pinyin: nǚ ér bǎ dì tú nòng diū le
   tags:
     - Travel 2
   pinyin: diū
@@ -3557,6 +3557,115 @@
   tags:
     - Travel 2
   pinyin: shāng
+- hanzi: 指南针
+  translate: compass
+  tags:
+    - Travel 2
+  pinyin: zhǐ nán zhēn
+- hanzi: 帐篷
+  translate: tent
+  tags:
+    - Travel 2
+  pinyin: zhàng péng
+- hanzi: 露天
+  translate: outdoor; open air
+  tags:
+    - Travel 2
+  pinyin: lù tiān
+- hanzi: 只好
+  translate: have to; must (not using 不)
+  sentences:
+    - hanzi: 帐篷 被 儿子 弄 坏了 ， 我们 这 次 旅行 只好 在 露天 睡了
+      pinyin: zhàng péng bèi ér zi nòng huài le ， wǒ men zhè cì lǚ xíng zhǐ hǎo zài lù
+        tiān shuì le
+  tags:
+    - Travel 2
+  pinyin: zhǐ hǎo
+- hanzi: 当
+  translate: work as; serve as; be as
+  sentences:
+    - hanzi: 指南针 被 我 弄 丢了 ， 我 只好 用 手表 当 指南针
+      pinyin: zhǐ nán zhēn bèi wǒ nòng diū le ， wǒ zhǐ hǎo yòng shǒu biǎo dāng zhǐ nán
+        zhēn
+  tags:
+    - Travel 2
+  pinyin: dāng
+- hanzi: 让
+  translate: let; offer
+  sentences:
+    - hanzi: 地图 被 女儿 弄 丢了 ， 我 只好 让 导游 带 我 走
+      pinyin: dì tú bèi nǚ ér nòng diū le ， wǒ zhǐ hǎo ràng dǎo yóu dài wǒ zǒu
+  tags:
+    - Travel 2
+  pinyin: ràng
+- hanzi: 导游
+  translate: tour guide
+  tags:
+    - Travel 2
+  pinyin: dǎo yóu
+- hanzi: 旅行社
+  translate: travel agency
+  tags:
+    - Travel 2
+  pinyin: lǚ xíng shè
+- hanzi: 行程
+  translate: itinerary (travel sequence)
+  tags:
+    - Travel 2
+  pinyin: xíng chéng
+- hanzi: 根据
+  translate: according to
+  sentences:
+    - hanzi: 根据 旅行社 的 安排 ， 我们 的 行程 是 四 天 五 夜
+      pinyin: gēn jù lǚ xíng shè de ān pái ， wǒ men de xíng chéng shì sì tiān wǔ yè
+  tags:
+    - Travel 2
+  pinyin: gēn jù
+- hanzi: 安排
+  translate: arrangement; plan
+  tags:
+    - Travel 2
+  pinyin: ān pái
+- hanzi: 夜
+  translate: night
+  tags:
+    - Travel 2
+  pinyin: yè
+- hanzi: 合同
+  translate: contract; deal
+  tags:
+    - Travel 2
+  pinyin: hé tóng
+- hanzi: 保险
+  translate: insurance (risk protection)
+  sentences:
+    - hanzi: 根据 旅行社 的 合同 ， 每 个 游客 都 有 二十 万 的 保险
+      pinyin: gēn jù lǚ xíng shè de hé tóng ， měi gè yóu kè dōu yǒu èr shí wàn de bǎo
+        xiǎn
+  tags:
+    - Travel 2
+  pinyin: bǎo xiǎn
+- hanzi: 游客
+  translate: tourist
+  tags:
+    - Travel 2
+  pinyin: yóu kè
+- hanzi: 景色
+  translate: scenery
+  sentences:
+    - hanzi: 根据 地图 我们 看 到了 最 棒 的 景色
+      pinyin: gēn jù dì tú wǒ men kàn dào le zuì bàng de jǐng sè
+  tags:
+    - Travel 2
+  pinyin: jǐng sè
+- hanzi: 找
+  translate: find; seek
+  sentences:
+    - hanzi: 根据 指南针 我 找 到了 东 边
+      pinyin: gēn jù zhǐ nán zhēn wǒ zhǎo dào le dōng biān
+  tags:
+    - Travel 2
+  pinyin: zhǎo
 - hanzi: 日常
   translate: daily
   tags:
