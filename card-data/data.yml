@@ -1,6 +1,6 @@
 - hanzi: 你好
   pinyin: nǐ hǎo
-  translate: You good? (Hello.)
+  translate: you're good (hello)
   tags:
     - Basics 1
 - hanzi: 再见
@@ -1181,14 +1181,14 @@
     - Family
 - hanzi: 着
   translate: persistent state particle (follows a verb to indicate it is an ongoing state)
+  sentences:
+    - hanzi: 妈妈 穿着 一件 粉色 的 毛衣
+      pinyin: mā mā chuān zhe yī jiàn fěn sè de máo yī
   tags:
     - Clothing
   pinyin: zhe
 - hanzi: 毛衣
   translate: sweater
-  sentences:
-    - hanzi: 妈妈 穿着 一件 粉色 的 毛衣
-      pinyin: mā mā chuān zhe yī jiàn fěn sè de máo yī
   tags:
     - Clothing
   pinyin: máo yī
@@ -2364,6 +2364,9 @@
 - hanzi: 地
   translate: adverb particle (follows an adjective to make it an adverb applying to the
     following verb)
+  sentences:
+    - hanzi: 妹妹 高兴 的 笑
+      pinyin: mèi mèi gāo xìng de xiào
   tags:
     - Feelings
   pinyin: de
@@ -3418,112 +3421,142 @@
   tags:
     - Social
   pinyin: zhè me
-
 - hanzi: 票
   translate: ticket
   tags:
     - Travel 2
+  pinyin: piào
 - hanzi: 完
   translate: finish; end; complete
   sentences:
     - hanzi: 因为 船票 卖 完 了 ， 我们 不得不 买 火车票
+      pinyin: yīn wèi chuán piào mài wán le ， wǒ men bù dé bù mǎi huǒ chē piào
   tags:
     - Travel 2
+  pinyin: wán
 - hanzi: 不得不
   translate: have to
   tags:
     - Travel 2
+  pinyin: bù dé bù
 - hanzi: 光
   translate: used up; bare
   tags:
     - Travel 2
+  pinyin: guāng
 - hanzi: 商务舱
   translate: business class
   tags:
     - Travel 2
+  pinyin: shāng wù cāng
 - hanzi: 经济舱
   translate: economy class
   tags:
     - Travel 2
+  pinyin: jīng jì cāng
 - hanzi: 降落
   translate: land
   tags:
     - Travel 2
+  pinyin: jiàng luò
 - hanzi: 行李
   translate: luggage
   tags:
     - Travel 2
+  pinyin: xíng lǐ
 - hanzi: 起飞
   translate: take flight
   sentences:
     - hanzi: 你 明明 说 飞机 八 点 起飞
+      pinyin: nǐ míng míng shuō fēi jī bā diǎn qǐ fēi
   tags:
     - Travel 2
+  pinyin: qǐ fēi
 - hanzi: 明
   translate: clear; distinct
   tags:
     - Travel 2
+  pinyin: míng
 - hanzi: 超过
   translate: exceed; surpass
   tags:
     - Travel 2
+  pinyin: chāo guò
 - hanzi: 公斤
   translate: kilogram
   tags:
     - Travel 2
-- hanzi: 
-  translate: 
+  pinyin: gōng jīn
+- hanzi: 来得及
+  translate: be on time for; have time for
+  sentences:
+    - hanzi: 我 明天 六 点 起床 来得及 吗 ？
+      pinyin: wǒ míng tiān liù diǎn qǐ chuáng lái dé jí ma ？
+    - hanzi: 来得及 ， 明天 飞机 九 点 起飞
+      pinyin: lái dé jí ， míng tiān fēi jī jiǔ diǎn qǐ fēi
   tags:
     - Travel 2
-- hanzi: 
-  translate: 
+  pinyin: lái dé jí
+- hanzi: 来不及
+  translate: be late for; not have time for
+  sentences:
+    - hanzi: 来不及 了 ， 宾馆 都 被 预定 光 了
+      pinyin: lái bù jí le ， bīn guǎn dōu bèi yù dìng guāng le
   tags:
     - Travel 2
-- hanzi: 
-  translate: 
+  pinyin: lái bù jí
+- hanzi: 马上
+  translate: immediately
   tags:
     - Travel 2
-- hanzi: 
-  translate: 
+  pinyin: mǎ shàng
+- hanzi: 睡袋
+  translate: sleeping bag
   tags:
     - Travel 2
-- hanzi: 
-  translate: 
+  pinyin: shuì dài
+- hanzi: 手电筒
+  translate: flashlight
   tags:
     - Travel 2
-- hanzi: 
-  translate: 
+  pinyin: shǒu diàn tǒng
+- hanzi: 地图
+  translate: map
   tags:
     - Travel 2
-- hanzi: 
-  translate: 
+  pinyin: de tú
+- hanzi: 弄
+  translate: play with; fool with; get into a specified condition
+  sentences:
+    - hanzi: 儿子 把 手电筒 弄 坏了
+      pinyin: ér zi bǎ shǒu diàn tǒng nòng huài le
   tags:
     - Travel 2
-- hanzi: 
-  translate: 
+  pinyin: nòng
+- hanzi: 丢
+  translate: lose; throw aside
+  sentences:
+    - hanzi: 女儿 把 地图 弄 丢了
+      pinyin: nǚ ér bǎ de tú nòng diū le
   tags:
     - Travel 2
-- hanzi: 
-  translate: 
+  pinyin: diū
+- hanzi: 湿
+  translate: wet
+  sentences:
+    - hanzi: 雨 把 睡袋 弄 湿了
+      pinyin: yǔ bǎ shuì dài nòng shī le
   tags:
     - Travel 2
-- hanzi: 
-  translate: 
+  pinyin: shī
+- hanzi: 伤
+  translate: hurt
+  sentences:
+    - hanzi: 刀 把 手 弄 伤了
+      pinyin: dāo bǎ shǒu nòng shāng le
   tags:
     - Travel 2
-- hanzi: 
-  translate: 
-  tags:
-    - Travel 2
-- hanzi: 
-  translate: 
-  tags:
-    - Travel 2
-- hanzi: 
-  translate: 
-  tags:
-    - Travel 2
-
+  pinyin: shāng
 - hanzi: 日常
   translate: daily
   tags:
