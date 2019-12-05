@@ -206,36 +206,36 @@
   translate: listen
   tags:
     - Basics 3
-- hanzi: 紅
+- hanzi: 紅色
   translate: red
   tags:
     - Colors
-  pinyin: hóng
-- hanzi: 绿
+  pinyin: hóng sè
+- hanzi: 绿色
   translate: green
   tags:
     - Colors
-  pinyin: lǜ
-- hanzi: 黃
+  pinyin: lǜ sè
+- hanzi: 黃色
   translate: yellow
   tags:
     - Colors
-  pinyin: huáng
-- hanzi: 蓝
+  pinyin: huáng sè
+- hanzi: 蓝色
   translate: blue
   tags:
     - Colors
-  pinyin: lán
-- hanzi: 白
+  pinyin: lán sè
+- hanzi: 白色
   translate: white
   tags:
     - Colors
-  pinyin: bái
-- hanzi: 黑
+  pinyin: bái sè
+- hanzi: 黑色
   translate: black
   tags:
     - Colors
-  pinyin: hēi
+  pinyin: hēi sè
 - hanzi: 一
   translate: "1"
   tags:
@@ -3423,6 +3423,9 @@
   pinyin: zhè me
 - hanzi: 票
   translate: ticket
+  sentences:
+    - hanzi: 如果 你 不 去 ， 这 张 票 就 白 买了
+      pinyin: rú guǒ nǐ bù qù ， zhè zhāng piào jiù bái mǎi le
   tags:
     - Travel 2
   pinyin: piào
@@ -3666,6 +3669,91 @@
   tags:
     - Travel 2
   pinyin: zhǎo
+- hanzi: 日出
+  translate: sunrise
+  tags:
+    - Travel 2
+  pinyin: rì chū
+- hanzi: 暴雨
+  translate: rainstorm
+  tags:
+    - Travel 2
+  pinyin: bào yǔ
+- hanzi: 彩虹
+  translate: rainbow
+  sentences:
+    - hanzi: 据说 暴雨 以后 ， 他们 看 到了 条 两 彩虹
+      pinyin: jù shuō bào yǔ yǐ hòu ， tā men kàn dào le tiáo liǎng cǎi hóng
+  tags:
+    - Travel 2
+  pinyin: cǎi hóng
+- hanzi: 美
+  translate: beautiful
+  tags:
+    - Travel 2
+  pinyin: měi
+- hanzi: 据说
+  translate: it's said
+  sentences:
+    - hanzi: 据说 日出 是 这里 最 美 的 景色
+      pinyin: jù shuō rì chū shì zhè lǐ zuì měi de jǐng sè
+  tags:
+    - Travel 2
+  pinyin: jù shuō
+- hanzi: 航班
+  translate: flight
+  tags:
+    - Travel 2
+  pinyin: háng bān
+- hanzi: 照片
+  translate: photo
+  tags:
+    - Travel 2
+  pinyin: zhào piàn
+- hanzi: 相机
+  translate: camera
+  tags:
+    - Travel 2
+  pinyin: xiāng jī
+- hanzi: 如果
+  translate: if
+  sentences:
+    - hanzi: 如果 明天 下 雨 ， 我们 就 不 能 看 日出 了
+      pinyin: rú guǒ míng tiān xià yǔ ， wǒ men jiù bù néng kàn rì chū le
+  tags:
+    - Travel 2
+  pinyin: rú guǒ
+- hanzi: 取消
+  translate: cancel
+  tags:
+    - Travel 2
+  pinyin: qǔ xiāo
+- hanzi: 白
+  translate: in vain; for nothing
+  sentences:
+    - hanzi: 如果 航班 被 取消 ， 我 就 白 等了 三 个 小时
+      pinyin: rú guǒ háng bān bèi qǔ xiāo ， wǒ jiù bái děng le sān gè xiǎo shí
+    - hanzi: 如果 你 一 口 水 也 不 喝 ， 这 瓶 水 白 买了
+      pinyin: rú guǒ nǐ yī kǒu shuǐ yě bù hē ， zhè píng shuǐ bái mǎi le
+  tags:
+    - Travel 2
+  pinyin: bái
+- hanzi: 拍
+  translate: beat; slap; take photo
+  sentences:
+    - hanzi: 如果 你 一 张 照片 也 不 拍 ， 我 的 想机 白 带了
+      pinyin: rú guǒ nǐ yī zhāng zhào piàn yě bù pāi ， wǒ de xiǎng jī bái dài le
+  tags:
+    - Travel 2
+  pinyin: pāi
+- hanzi: 可惜
+  translate: unfortunately
+  sentences:
+    - hanzi: 那里 景色 真 美 ， 可惜 你 没 去
+      pinyin: nà lǐ jǐng sè zhēn měi ， kě xī nǐ méi qù
+  tags:
+    - Travel 2
+  pinyin: kě xī
 - hanzi: 日常
   translate: daily
   tags:
