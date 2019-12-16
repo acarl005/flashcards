@@ -385,7 +385,7 @@
     - Food 1
   pinyin: niú nǎi
 - hanzi: 菜
-  translate: vegetable
+  translate: vegetable; dish
   tags:
     - Food 1
   pinyin: cài
@@ -400,7 +400,7 @@
     - Food 1
   pinyin: ròu
 - hanzi: 饭
-  translate: rice; meal
+  translate: (cooked) rice; meal
   tags:
     - Food 1
   pinyin: fàn
@@ -451,7 +451,7 @@
   pinyin: de
   tags:
     - Shapes
-- hanzi: 圓形
+- hanzi: 圆形
   translate: circle; round
   tags:
     - Shapes
@@ -1948,11 +1948,17 @@
   pinyin: yù dìng
 - hanzi: 入住
   translate: check in
+  sentences:
+    - hanzi: 请问 ， 您 什么 时候 入住
+      pinyin: qǐng wèn ， nín shén me shí hòu rù zhù
   tags:
     - Travel 1
   pinyin: rù zhù
 - hanzi: 退房
   translate: check out
+  sentences:
+    - hanzi: 请问 ， 您 什么 时候 退房
+      pinyin: qǐng wèn ， nín shén me shí hòu tuì fáng
   tags:
     - Travel 1
   pinyin: tuì fáng
@@ -2048,7 +2054,7 @@
     - Dining
   pinyin: fú wù yuán
 - hanzi: 菜单
-  translate: menu
+  translate: menu (dish list)
   tags:
     - Dining
   pinyin: cài dān
@@ -3741,8 +3747,8 @@
 - hanzi: 拍
   translate: beat; slap; take photo
   sentences:
-    - hanzi: 如果 你 一 张 照片 也 不 拍 ， 我 的 想机 白 带了
-      pinyin: rú guǒ nǐ yī zhāng zhào piàn yě bù pāi ， wǒ de xiǎng jī bái dài le
+    - hanzi: 如果 你 一 张 照片 也 不 拍 ， 我 的 相机 白 带了
+      pinyin: rú guǒ nǐ yī zhāng zhào piàn yě bù pāi ， wǒ de xiāng jī bái dài le
   tags:
     - Travel 2
   pinyin: pāi
@@ -3863,7 +3869,7 @@
     - CLA 1
   pinyin: shān
 - hanzi: 心
-  translate: heart
+  translate: heart; center
   tags:
     - CLA 1
   pinyin: xīn
@@ -3947,3 +3953,145 @@
   tags:
     - CLA 2
   pinyin: gē bó
+- hanzi: 火锅
+  translate: hot pot
+  tags:
+    - CLA 3
+  pinyin: huǒ guō
+- hanzi: 数字
+  translate: numeral; numeric; digit
+  tags:
+    - CLA 3
+  pinyin: shù zì
+- hanzi: 然后
+  translate: then; afterward
+  tags:
+    - CLA 3
+  pinyin: rán hòu
+- hanzi: 饭店
+  translate: null
+  tags:
+    - CLA 3
+  pinyin: fàn diàn
+- hanzi: 洛杉矶
+  translate: Los Angeles
+  tags:
+    - CLA 3
+  pinyin: luò shān jī
+- hanzi: 工作
+  translate: work
+  tags:
+    - CLA 3
+  pinyin: gōng zuò
+- hanzi: 但是
+  translate: but; however
+  tags:
+    - CLA 3
+  pinyin: dàn shì
+- hanzi: 出生
+  translate: born
+  tags:
+    - CLA 3
+  pinyin: chū shēng
+- hanzi: 生活
+  translate: life; live
+  tags:
+    - CLA 3
+  pinyin: shēng huó
+- hanzi: 先
+  translate: first; before; in advance
+  sentences:
+    - hanzi: 他 比 我 先 到
+      pinyin: tā bǐ wǒ xiān dào
+  tags:
+    - CLA 4
+  pinyin: xiān
+- hanzi: 食物
+  translate: food
+  tags:
+    - CLA 4
+  pinyin: shí wù
+- hanzi: 碗
+  translate: bowl
+  tags:
+    - CLA 4
+  pinyin: wǎn
+- hanzi: 米
+  translate: (raw) rice
+  tags:
+    - CLA 4
+  pinyin: mǐ
+- hanzi: 猪
+  translate: pig
+  tags:
+    - CLA 4
+  pinyin: zhū
+- hanzi: 鸡
+  translate: chicken
+  tags:
+    - CLA 4
+  pinyin: jī
+- hanzi: 羊
+  translate: sheep; lamb
+  tags:
+    - CLA 4
+  pinyin: yáng
+- hanzi: 安
+  translate: peace; calm; security
+  tags:
+    - CLA 4
+  pinyin: ān
+- hanzi: 广场
+  translate: plaza; square
+  sentences:
+    - hanzi: 我们 要 去 天安门 广场 旅行
+      pinyin: wǒ men yào qù tiān ān mén guǎng chǎng lǚ xíng
+  tags:
+    - CLA 4
+  pinyin: guǎng chǎng
+- hanzi: 慢
+  translate: slow
+  sentences:
+    - hanzi: 请 说 慢
+      pinyin: qǐng shuō màn
+  tags:
+    - CLA 4
+  pinyin: màn
+- hanzi: 海
+  translate: sea; ocean
+  tags:
+    - CLA 4
+  pinyin: hǎi
+- hanzi: 超市
+  translate: supermarket
+  tags:
+    - CLA 4
+  pinyin: chāo shì
+- hanzi: 影
+  translate: shadow
+  tags:
+    - CLA 4
+  pinyin: yǐng
+- hanzi: 搞笑
+  translate: funny
+  tags:
+    - CLA 4
+  pinyin: gǎo xiào
+- hanzi: 点心
+  translate: dim sum
+  tags:
+    - CLA 4
+  pinyin: diǎn xīn
+- hanzi: 音乐
+  translate: music
+  tags:
+    - CLA 4
+  pinyin: yīn lè
+- hanzi: 爬
+  translate: climb
+  sentences:
+    - hanzi: 明天 早上 我 要 爬 山
+      pinyin: míng tiān zǎo shàng wǒ yào pá shān
+  tags:
+    - CLA 4
+  pinyin: pá
