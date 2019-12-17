@@ -1,25 +1,25 @@
 import { readFileSync } from "fs"
 import React, { useState, useRef } from "react"
 import { Layout, Menu, Drawer, Form, Radio, Input, Table, Icon, Button, Pagination, Empty } from "antd"
-import debounce from "lodash.debounce"
-import data from "../../card-data/data.yml"
+import { debounce } from "lodash"
+import rawData from "../../card-data/data.yml"
 
 import FlashCard from "./FlashCard"
 import QuizReel from "./QuizReel"
-import { shuffle, hasMatch } from "../utils"
+import { shuffle, hasMatch, useLocalStorage, addWeakTags } from "../utils"
 
 const { Header, Content, Footer, Sider } = Layout
 const pageSize = 25
 
-let allTags = new Set
-for (let obj of data) {
+let allTags = new Set(["Weak"])
+for (let obj of rawData) {
   if (obj.tags) {
     obj.tags.forEach(allTags.add.bind(allTags))
   }
 }
 allTags = Array.from(allTags).sort()
 
-const numWithoutTags = data.reduce((count, obj) => count + !obj.tags, 0)
+const numWithoutTags = rawData.reduce((count, obj) => count + !obj.tags, 0)
 if (numWithoutTags > 0) {
   console.warn(`hiding ${numWithoutTags} card(s) without tags`)
 }
@@ -27,6 +27,8 @@ if (numWithoutTags > 0) {
 
 export default function Main() {
   const [ activeView, setActiveView ] = useState("list")
+  const [ weakCards, setWeakCards ] = useLocalStorage("weakCards", {})
+  const data = addWeakTags(rawData, weakCards)
   const [ shuffledCards, setShuffledCards ] = useState(data.slice())
   const [ frontLang, setFrontLang ] = useState("mandarin")
   const [ selectedTags, setSelectedTags ] = useState(new Set(allTags))
@@ -35,6 +37,20 @@ export default function Main() {
   const searchRef = useRef(null)
   let [ pageNum, setPageNum ] = useState(1)
 
+
+  function toggleWeakTag(obj) {
+    let newWeakCards = { ...weakCards }
+    if (obj.hanzi in newWeakCards) {
+      delete newWeakCards[obj.hanzi]
+      obj.tags = obj.tags.filter(tag => tag !== "Weak")
+    } else {
+      newWeakCards[obj.hanzi] = true
+      obj.tags.push("Weak")
+    }
+    setWeakCards(newWeakCards)
+  }
+
+
   let activeComponent
   switch (activeView) {
     case "list":
@@ -42,7 +58,7 @@ export default function Main() {
         .filter(obj => obj.tags && hasMatch(obj.tags, selectedTags))
         .filter(obj => obj.pinyin.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").includes(searchTerm) ||
                        obj.translate.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").includes(searchTerm))
-        .map(obj => <FlashCard data={obj} key={obj.hanzi} frontLang={frontLang} />)
+        .map(obj => <FlashCard data={obj} key={obj.hanzi} frontLang={frontLang} toggleWeakTag={() => toggleWeakTag(obj)} />)
       const maxPage = Math.ceil(flashCards.length / pageSize)
       pageNum = Math.min(maxPage, pageNum)
       const startIndex = pageSize * (pageNum - 1)

@@ -46,6 +46,8 @@
   width: 100%;
   height: 100%;
   backface-visibility: hidden;
+  /* fixes this big in Chrome desktop: https://stackoverflow.com/questions/7455502/webkit-backface-visibility-not-working */
+  -webkit-transform: translate3d(0,0,0);
 }
 
 .flip-card-back {

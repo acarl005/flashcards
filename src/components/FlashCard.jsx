@@ -42,6 +42,12 @@ export default function FlashCard(props) {
     </div>
   }
 
+  const weakCheckbox = (
+    <div style={{ position: "absolute", bottom: 2, right: 6 }}>
+      <input type="checkbox" checked={props.data.tags.includes("Weak")} onChange={props.toggleWeakTag} />
+    </div>
+  )
+
   return <>
     <div
       className={`flip-card ${props.flipped || cardTouched ? "flipped" : ""}`}
@@ -56,6 +62,7 @@ export default function FlashCard(props) {
                 {frontSide}
               </div>
             </div>
+            {weakCheckbox}
           </Card>
         </div>
         <div className="flip-card-back">
@@ -75,6 +82,7 @@ export default function FlashCard(props) {
               {sentences}
             </div>
             {tagList}
+            {weakCheckbox}
           </Card>
         </div>
       </div>
