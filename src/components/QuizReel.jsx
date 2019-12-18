@@ -32,7 +32,12 @@ export default function QuizReel(props) {
 
   return <>
     { cards.length ?
-        <FlashCard data={cards[activeCard]} flipped={cardFlipped} frontLang={props.frontLang} /> :
+        <FlashCard
+          data={cards[activeCard]}
+          flipped={cardFlipped}
+          frontLang={props.frontLang}
+          toggleWeakTag={() => props.toggleWeakTag(cards[activeCard])}
+        /> :
         <Empty />
     }
     <div>

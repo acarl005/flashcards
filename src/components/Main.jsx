@@ -78,6 +78,7 @@ export default function Main() {
       activeComponent = <QuizReel
         cards={shuffledCards.filter(obj => obj.tags && hasMatch(obj.tags, selectedTags))}
         frontLang={frontLang}
+        toggleWeakTag={toggleWeakTag}
       />
       break;
     default:
