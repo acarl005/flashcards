@@ -149,7 +149,7 @@
     - Basics 3
 - hanzi: 在
   pinyin: zài
-  translate: currently; at
+  translate: currently; at; on
   tags:
     - Basics 3
     - Household
@@ -824,7 +824,7 @@
     - Tense
   pinyin: hé
 - hanzi: 等
-  translate: and so on; and others; etc.
+  translate: and so on; and others; etc.; wait
   sentences:
     - hanzi: 我 早上 买了 草莓 ， 櫻桃 等 水果
       pinyin: wǒ zǎo shàng mǎi le cǎo méi ， yīng táo děng shuǐ guǒ
@@ -943,7 +943,7 @@
     - Numbers 2
   pinyin: dì
 - hanzi: 点
-  translate: o'clock; dot
+  translate: o'clock; dot; spot
   sentences:
     - hanzi: 十点
       pinyin: shí diǎn
@@ -1623,7 +1623,7 @@
     - Country
   pinyin: ào dà lì yà
 - hanzi: 英国
-  translate: The United Kingdom
+  translate: England
   tags:
     - Country
   pinyin: yīng guó
@@ -1655,6 +1655,8 @@
   pinyin: guó jiā
 - hanzi: 哪些
   translate: which
+  sentences:
+    - hanzi: 你 去 过 哪些 国家 ？
   tags:
     - Country
   pinyin: nǎ xiē
@@ -3760,6 +3762,132 @@
   tags:
     - Travel 2
   pinyin: kě xī
+
+- hanzi: 景点
+  translate: attraction
+  sentences:
+    - hanzi: 北京 有 什么 著名 的 景点
+  tags:
+    - Nature 2
+- hanzi: 例如
+  translate: for example
+  sentences:
+    - hanzi: 北京 的 著名 景点 非常 多 ， 例如 故宫 ， 长城 ， 颐和园 等
+  tags:
+    - Nature 2
+- hanzi: 位于
+  translate: located at
+  sentences:
+    - hanzi: 故宫 位于 北京 市 中心
+  tags:
+    - Nature 2
+- hanzi: 颐和园
+  translate: The Summer Palace
+  tags:
+    - Nature 2
+- hanzi: 市
+  translate: city
+  tags:
+    - Nature 2
+- hanzi: 出生
+  translate: born
+  sentences:
+    - hanzi: 我 出生 于 上海 市
+  tags:
+    - Nature 2
+  pinyin: chū shēng
+- hanzi: 不可
+  translate: cannot
+  sentences:
+    - hanzi: 如果 你 想 看 丽江 的 日出 ， 非 四 点 起床 不可
+  tags:
+    - Nature 2
+- hanzi: 非
+  translate: not; negative; oppose
+  tags:
+    - Nature 2
+- hanzi: 丽江
+  translate: Lijiang
+  tags:
+    - Nature 2
+- hanzi: 长颈鹿
+  translate: giraffe
+  tags:
+    - Nature 2
+- hanzi: 熊猫
+  translate: panda
+  tags:
+    - Nature 2
+  pinyin: xióng māo
+- hanzi: 狮子
+  translate: lion
+  tags:
+    - Nature 2
+- hanzi: 羊
+  translate: sheep; lamb
+  tags:
+    - Nature 2
+  pinyin: yáng
+- hanzi: 但是
+  translate: but; however
+  sentences:
+    - hanzi: 没 去过 ， 但是 我 这 个 暑假 非 去 丽江 不可
+  tags:
+    - Nature 2
+  pinyin: dàn shì
+- hanzi: 
+  translate: 
+  tags:
+    - Nature 2
+- hanzi: 
+  translate: 
+  tags:
+    - Nature 2
+- hanzi: 
+  translate: 
+  tags:
+    - Nature 2
+- hanzi: 
+  translate: 
+  tags:
+    - Nature 2
+- hanzi: 
+  translate: 
+  tags:
+    - Nature 2
+- hanzi: 
+  translate: 
+  tags:
+    - Nature 2
+- hanzi: 
+  translate: 
+  tags:
+    - Nature 2
+- hanzi: 
+  translate: 
+  tags:
+    - Nature 2
+- hanzi: 
+  translate: 
+  tags:
+    - Nature 2
+- hanzi: 
+  translate: 
+  tags:
+    - Nature 2
+- hanzi: 
+  translate: 
+  tags:
+    - Nature 2
+- hanzi: 
+  translate: 
+  tags:
+    - Nature 2
+- hanzi: 
+  translate: 
+  tags:
+    - Nature 2
+
 - hanzi: 日常
   translate: daily
   tags:
@@ -3843,11 +3971,6 @@
   tags:
     - Meetup 1
   pinyin: zǒng
-- hanzi: 熊猫
-  translate: panda
-  tags:
-    - CLA 1
-  pinyin: xióng māo
 - hanzi: 木
   translate: wood
   tags:
@@ -3983,16 +4106,6 @@
   tags:
     - CLA 3
   pinyin: gōng zuò
-- hanzi: 但是
-  translate: but; however
-  tags:
-    - CLA 3
-  pinyin: dàn shì
-- hanzi: 出生
-  translate: born
-  tags:
-    - CLA 3
-  pinyin: chū shēng
 - hanzi: 生活
   translate: life; live
   tags:
@@ -4031,11 +4144,6 @@
   tags:
     - CLA 4
   pinyin: jī
-- hanzi: 羊
-  translate: sheep; lamb
-  tags:
-    - CLA 4
-  pinyin: yáng
 - hanzi: 安
   translate: peace; calm; security
   tags:
@@ -4095,3 +4203,9 @@
   tags:
     - CLA 4
   pinyin: pá
+- hanzi: 懂
+  translate: understand
+  sentences:
+    - hanzi: 听 不 懂
+  tags:
+    - CLA 4
