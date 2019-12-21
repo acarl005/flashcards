@@ -1618,7 +1618,7 @@
     - Household
   pinyin: shuì zháo
 - hanzi: 澳大利亚
-  translate: Australia
+  translate: Australia (country)
   tags:
     - Country
   pinyin: ào dà lì yà
@@ -1657,6 +1657,7 @@
   translate: which
   sentences:
     - hanzi: 你 去 过 哪些 国家 ？
+      pinyin: nǐ qù guò nǎ xiē guó jiā ？
   tags:
     - Country
   pinyin: nǎ xiē
@@ -3762,37 +3763,45 @@
   tags:
     - Travel 2
   pinyin: kě xī
-
 - hanzi: 景点
   translate: attraction
   sentences:
     - hanzi: 北京 有 什么 著名 的 景点
+      pinyin: běi jīng yǒu shén me zhù míng de jǐng diǎn
   tags:
     - Nature 2
+  pinyin: jǐng diǎn
 - hanzi: 例如
   translate: for example
   sentences:
     - hanzi: 北京 的 著名 景点 非常 多 ， 例如 故宫 ， 长城 ， 颐和园 等
+      pinyin: běi jīng de zhù míng jǐng diǎn fēi cháng duō ， lì rú gù gōng ， cháng chéng ， yí hé yuán děng
   tags:
     - Nature 2
+  pinyin: lì rú
 - hanzi: 位于
   translate: located at
   sentences:
     - hanzi: 故宫 位于 北京 市 中心
+      pinyin: gù gōng wèi yú běi jīng shì zhōng xīn
   tags:
     - Nature 2
+  pinyin: wèi yú
 - hanzi: 颐和园
   translate: The Summer Palace
   tags:
     - Nature 2
+  pinyin: yí hé yuán
 - hanzi: 市
   translate: city
   tags:
     - Nature 2
+  pinyin: shì
 - hanzi: 出生
   translate: born
   sentences:
     - hanzi: 我 出生 于 上海 市
+      pinyin: wǒ chū shēng yú shàng hǎi shì
   tags:
     - Nature 2
   pinyin: chū shēng
@@ -3800,20 +3809,25 @@
   translate: cannot
   sentences:
     - hanzi: 如果 你 想 看 丽江 的 日出 ， 非 四 点 起床 不可
+      pinyin: rú guǒ nǐ xiǎng kàn lì jiāng de rì chū ， fēi sì diǎn qǐ chuáng bù kě
   tags:
     - Nature 2
+  pinyin: bù kě
 - hanzi: 非
   translate: not; negative; oppose
   tags:
     - Nature 2
+  pinyin: fēi
 - hanzi: 丽江
   translate: Lijiang
   tags:
     - Nature 2
+  pinyin: lì jiāng
 - hanzi: 长颈鹿
   translate: giraffe
   tags:
     - Nature 2
+  pinyin: cháng jǐng lù
 - hanzi: 熊猫
   translate: panda
   tags:
@@ -3823,6 +3837,7 @@
   translate: lion
   tags:
     - Nature 2
+  pinyin: shī zi
 - hanzi: 羊
   translate: sheep; lamb
   tags:
@@ -3832,72 +3847,134 @@
   translate: but; however
   sentences:
     - hanzi: 没 去过 ， 但是 我 这 个 暑假 非 去 丽江 不可
+      pinyin: méi qù guò ， dàn shì wǒ zhè gè shǔ jià fēi qù lì jiāng bù kě
   tags:
     - Nature 2
   pinyin: dàn shì
-- hanzi: 
-  translate: 
+- hanzi: 企鹅
+  translate: penguin
   tags:
     - Nature 2
-- hanzi: 
-  translate: 
+  pinyin: qǐ é
+- hanzi: 树懒
+  translate: sloth (tree lazy)
   tags:
     - Nature 2
-- hanzi: 
-  translate: 
+  pinyin: shù lǎn
+- hanzi: 北极熊
+  translate: polar bear
   tags:
     - Nature 2
-- hanzi: 
-  translate: 
+  pinyin: běi jí xióng
+- hanzi: 鱼
+  translate: fish
   tags:
     - Nature 2
-- hanzi: 
-  translate: 
+  pinyin: yú
+- hanzi: 欧洲
+  translate: Europe
   tags:
     - Nature 2
-- hanzi: 
-  translate: 
+  pinyin: ōu zhōu
+- hanzi: 澳洲
+  translate: Australia (continent)
   tags:
     - Nature 2
-- hanzi: 
-  translate: 
+  pinyin: ào zhōu
+- hanzi: 非洲
+  translate: Africa
   tags:
     - Nature 2
-- hanzi: 
-  translate: 
+  pinyin: fēi zhōu
+- hanzi: 亚洲
+  translate: Asia
   tags:
     - Nature 2
-- hanzi: 
-  translate: 
+  pinyin: yà zhōu
+- hanzi: 生活
+  translate: life; live
+  sentences:
+    - hanzi: 熊猫 生活 在 亚洲
+      pinyin: xióng māo shēng huó zài yà zhōu
   tags:
     - Nature 2
-- hanzi: 
-  translate: 
+  pinyin: shēng huó
+- hanzi: 狼
+  translate: wolf
   tags:
     - Nature 2
-- hanzi: 
-  translate: 
+  pinyin: láng
+- hanzi: 袋鼠
+  translate: kangaroo
   tags:
     - Nature 2
-- hanzi: 
-  translate: 
+  pinyin: dài shǔ
+- hanzi: 南极洲
+  translate: Antarctica
   tags:
     - Nature 2
-- hanzi: 
-  translate: 
+  pinyin: nán jí zhōu
+- hanzi: 南美洲
+  translate: South America
   tags:
     - Nature 2
-
+  pinyin: nán měi zhōu
+- hanzi: 北美洲
+  translate: North America
+  tags:
+    - Nature 2
+  pinyin: běi měi zhōu
+- hanzi: 太平洋
+  translate: Pacific Ocean
+  sentences:
+    - hanzi: 太平洋 是 地球 上 最大 的 海洋
+      pinyin: tài píng yáng shì dì qiú shàng zuì dà de hǎi yáng
+  tags:
+    - Nature 2
+  pinyin: tài píng yáng
+- hanzi: 大西洋
+  translate: Atlantic Ocean
+  sentences:
+    - hanzi: 大西洋 是 地球 上 第 二 大 洋
+      pinyin: dà xī yáng shì dì qiú shàng dì èr dà yáng
+  tags:
+    - Nature 2
+  pinyin: dà xī yáng
+- hanzi: 北冰洋
+  translate: Arctic Ocean
+  sentences:
+    - hanzi: 北冰洋 是 地球 上 最小 的 海洋
+      pinyin: běi bīng yáng shì dì qiú shàng zuì xiǎo de hǎi yáng
+  tags:
+    - Nature 2
+  pinyin: běi bīng yáng
+- hanzi: 印度洋
+  translate: Indian Ocean
+  sentences:
+    - hanzi: 印度洋 是 地球 上 第 三 大 洋
+      pinyin: yìn dù yáng shì dì qiú shàng dì sān dà yáng
+  tags:
+    - Nature 2
+  pinyin: yìn dù yáng
+- hanzi: 海洋
+  translate: ocean
+  tags:
+    - Nature 2
+  pinyin: hǎi yáng
+- hanzi: 之间
+  translate: between; surrounded by
+  sentences:
+    - hanzi: 大西洋 位于 欧洲 ， 非洲 ， 南极洲 ， 南美洲 和 北美洲 之间
+      pinyin: dà xī yáng wèi yú ōu zhōu ， fēi zhōu ， nán jí zhōu ， nán měi zhōu hé běi
+        měi zhōu zhī jiān
+  tags:
+    - Nature 2
+  pinyin: zhī jiān
 - hanzi: 日常
   translate: daily
   tags:
     - Meetup 1
   pinyin: rì cháng
-- hanzi: 生活
-  translate: life
-  tags:
-    - Meetup 1
-  pinyin: shēng huó
 - hanzi: 用语
   translate: term; expression
   tags:
@@ -4106,11 +4183,6 @@
   tags:
     - CLA 3
   pinyin: gōng zuò
-- hanzi: 生活
-  translate: life; live
-  tags:
-    - CLA 3
-  pinyin: shēng huó
 - hanzi: 先
   translate: first; before; in advance
   sentences:
@@ -4165,11 +4237,11 @@
   tags:
     - CLA 4
   pinyin: màn
-- hanzi: 海
-  translate: sea; ocean
+- hanzi: 海边
+  translate: seaside; beach
   tags:
     - CLA 4
-  pinyin: hǎi
+  pinyin: hǎi biān
 - hanzi: 超市
   translate: supermarket
   tags:
@@ -4207,5 +4279,7 @@
   translate: understand
   sentences:
     - hanzi: 听 不 懂
+      pinyin: tīng bù dǒng
   tags:
     - CLA 4
+  pinyin: dǒng
