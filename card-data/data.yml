@@ -1784,7 +1784,7 @@
     - Language
   pinyin: duō
 - hanzi: 觉得
-  translate: feel; seem
+  translate: feel; think
   sentences:
     - hanzi: 我 觉得 中文 简单
       pinyin: wǒ jué dé zhōng wén jiǎn dān
@@ -1974,7 +1974,7 @@
     - Travel 1
   pinyin: nín
 - hanzi: 时候
-  translate: time; when
+  translate: time; when; moment
   tags:
     - Travel 1
   pinyin: shí hòu
@@ -3778,7 +3778,8 @@
   translate: for example
   sentences:
     - hanzi: 北京 的 著名 景点 非常 多 ， 例如 故宫 ， 长城 ， 颐和园 等
-      pinyin: běi jīng de zhù míng jǐng diǎn fēi cháng duō ， lì rú gù gōng ， cháng chéng ， yí hé yuán děng
+      pinyin: běi jīng de zhù míng jǐng diǎn fēi cháng duō ， lì rú gù gōng ， cháng
+        chéng ， yí hé yuán děng
   tags:
     - Nature 2
   pinyin: lì rú
@@ -4068,6 +4069,141 @@
   tags:
     - Health 2
   pinyin: shēng bìng
+- hanzi: 讲座
+  translate: lecture
+  sentences:
+    - hanzi: 今晚 有 哲学 讲座
+      pinyin: jīn wǎn yǒu zhé xué jiǎng zuò
+  tags:
+    - Education 2
+  pinyin: jiǎng zuò
+- hanzi: 论文
+  translate: paper; thesis; dissertation
+  sentences:
+    - hanzi: 我 博士 没 毕业 ， 因为 我 的 论文 还 没有 通过
+      pinyin: wǒ bó shì méi bì yè ， yīn wèi wǒ de lùn wén hái méi yǒu tōng guò
+  tags:
+    - Education 2
+  pinyin: lùn wén
+- hanzi: 课
+  translate: lesson; class
+  tags:
+    - Education 2
+  pinyin: kè
+- hanzi: 必修
+  translate: compulsory; obligatory
+  sentences:
+    - hanzi: 我 不是不 想 去 ， 但是 今晚 我 有 必修 课
+      pinyin: wǒ bú shì bù xiǎng qù ， dàn shì jīn wǎn wǒ yǒu bì xiū kè
+  tags:
+    - Education 2
+  pinyin: bì xiū
+- hanzi: 通过
+  translate: pass
+  tags:
+    - Education 2
+  pinyin: tōng guò
+- hanzi: 时间
+  translate: (duration of) time
+  sentences:
+    - hanzi: 你 明天 有 时间 吗 ？
+      pinyin: nǐ míng tiān yǒu shí jiān ma ？
+  tags:
+    - Education 2
+  pinyin: shí jiān
+- hanzi: 办公室
+  translate: office
+  sentences:
+    - hanzi: 导师 让 我 明天 去 办公室 写 论文
+      pinyin: dǎo shī ràng wǒ míng tiān qù bàn gōng shì xiě lùn wén
+  tags:
+    - Education 2
+  pinyin: bàn gōng shì
+- hanzi: 摄影
+  translate: photography
+  tags:
+    - Education 2
+  pinyin: shè yǐng
+- hanzi: 攀岩
+  translate: rock climbing
+  tags:
+    - Education 2
+  pinyin: pān yán
+- hanzi: 轮滑
+  translate: roller skating
+  tags:
+    - Education 2
+  pinyin: lún huá
+- hanzi: 俱乐部
+  translate: club
+  sentences:
+    - hanzi: 我 参加了 摄影 和 攀岩 俱乐部
+      pinyin: wǒ cān jiā le shè yǐng hé pān yán jù lè bù
+  tags:
+    - Education 2
+  pinyin: jù lè bù
+- hanzi: 爱好
+  translate: hobby
+  sentences:
+    - hanzi: 你 有 什么 爱好 ？
+      pinyin: nǐ yǒu shén me ài hào ？
+  tags:
+    - Education 2
+  pinyin: ài hào
+- hanzi: 参加
+  translate: join
+  sentences:
+    - hanzi: 你 像 参加 轮滑 俱乐部 吗 ？
+      pinyin: nǐ xiàng cān jiā lún huá jù lè bù ma ？
+  tags:
+    - Education 2
+  pinyin: cān jiā
+- hanzi: 对
+  translate: affirmative; correct; toward
+  sentences:
+    - hanzi: 我 对 摄影 很 感 兴趣
+      pinyin: wǒ duì shè yǐng hěn gǎn xìng qù
+  tags:
+    - Education 2
+  pinyin: duì
+- hanzi: 感
+  translate: feel; affect
+  sentences:
+    - hanzi: 我 对 摄影 很 感 兴趣
+      pinyin: wǒ duì shè yǐng hěn gǎn xìng qù
+  tags:
+    - Education 2
+  pinyin: gǎn
+- hanzi: 雕塑
+  translate: sculpture
+  tags:
+    - Education 2
+  pinyin: diāo sù
+- hanzi: 油画
+  translate: oil painting
+  tags:
+    - Education 2
+  pinyin: yóu huà
+- hanzi: 京剧
+  translate: Beijing Opera
+  tags:
+    - Education 2
+  pinyin: jīng jù
+- hanzi: 罗丹
+  translate: Rodin (Auguste Rodin, the French sculptor)
+  tags:
+    - Education 2
+  pinyin: luō dān
+- hanzi: 脸谱
+  translate: face makeup
+  tags:
+    - Education 2
+  pinyin: liǎn pǔ
+- hanzi: 蒙娜丽莎
+  translate: Mona Lisa
+  tags:
+    - Education 2
+  pinyin: méng nà lì shā
 - hanzi: 日常
   translate: daily
   tags:
@@ -4078,11 +4214,6 @@
   tags:
     - Meetup 1
   pinyin: yòng yǔ
-- hanzi: 爱好
-  translate: hobby
-  tags:
-    - Meetup 1
-  pinyin: ài hǎo
 - hanzi: 周末
   translate: weekend
   tags:
@@ -4093,11 +4224,6 @@
   tags:
     - Meetup 1
   pinyin: dǎ suàn
-- hanzi: 对
-  translate: affirmative; right; correct
-  tags:
-    - Meetup 1
-  pinyin: duì
 - hanzi: 官
   translate: official
   tags:
