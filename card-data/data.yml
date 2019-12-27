@@ -4204,6 +4204,161 @@
   tags:
     - Education 2
   pinyin: méng nà lì shā
+- hanzi: 房子
+  translate: house
+  sentences:
+    - hanzi: 我 想 租 一 套 房子
+      pinyin: wǒ xiǎng zū yī tào fáng zi
+  tags:
+    - Housing
+  pinyin: fáng zi
+- hanzi: 别墅
+  translate: villa
+  tags:
+    - Housing
+  pinyin: bié shù
+- hanzi: 租
+  translate: rent; lease
+  tags:
+    - Housing
+  pinyin: zū
+- hanzi: 租金
+  translate: rent payment
+  sentences:
+    - hanzi: 这 套 别墅 月 租金 多少 钱 ？
+      pinyin: zhè tào bié shù yuè zū jīn duō shǎo qián ？
+  tags:
+    - Housing
+  pinyin: zū jīn
+- hanzi: 由
+  translate: by; through
+  sentences:
+    - hanzi: 水电费 由 谁 支付 ？
+      pinyin: shuǐ diàn fèi yóu shéi zhī fù ？
+  tags:
+    - Housing
+  pinyin: yóu
+- hanzi: 水电费
+  translate: utilities bill (water + electric)
+  tags:
+    - Housing
+  pinyin: shuǐ diàn fèi
+- hanzi: 支付
+  translate: pay
+  sentences:
+    - hanzi: 水电费 由 承租人 支付
+      pinyin: shuǐ diàn fèi yóu chéng zū rén zhī fù
+  tags:
+    - Housing
+  pinyin: zhī fù
+- hanzi: 承租人
+  translate: tenant; lessee
+  tags:
+    - Housing
+  pinyin: chéng zū rén
+- hanzi: 取暖费
+  translate: heating bill
+  sentences:
+    - hanzi: 取暖费 由 谁 支付 ？
+      pinyin: qǔ nuǎn fèi yóu shéi zhī fù ？
+  tags:
+    - Housing
+  pinyin: qǔ nuǎn fèi
+- hanzi: 房东
+  translate: landlord
+  sentences:
+    - hanzi: 我 什么 时候 能 和 房东 签 合同 ？
+      pinyin: wǒ shén me shí hòu néng hé fáng dōng qiān hé tóng ？
+  tags:
+    - Housing
+  pinyin: fáng dōng
+- hanzi: 要求
+  translate: require; request; demand
+  sentences:
+    - hanzi: 房东 要求 承租人 支付 五 千 块 押金
+      pinyin: fáng dōng yāo qiú chéng zū rén zhī fù wǔ qiān kuài yā jīn
+  tags:
+    - Housing
+  pinyin: yāo qiú
+- hanzi: 押金
+  translate: deposit
+  tags:
+    - Housing
+  pinyin: yā jīn
+- hanzi: 中介
+  translate: agent; intermediary
+  sentences:
+    - hanzi: 中介 费 由 房东 和 承租人 一起 支付
+      pinyin: zhōng jiè fèi yóu fáng dōng hé chéng zū rén yī qǐ zhī fù
+    - hanzi: 中介 费 由 谁 支付
+      pinyin: zhōng jiè fèi yóu shéi zhī fù
+  tags:
+    - Housing
+  pinyin: zhōng jiè
+- hanzi: 计算
+  translate: calculate, count, compute
+  tags:
+    - Housing
+  pinyin: jì suàn
+- hanzi: 开始
+  translate: start; begin
+  sentences:
+    - hanzi: 租金 从 合同 签订 的 时间 开始 计算
+      pinyin: zū jīn cóng hé tóng qiān dìng de shí jiān kāi shǐ jì suàn
+  tags:
+    - Housing
+  pinyin: kāi shǐ
+- hanzi: 结束
+  translate: end; conclusion
+  sentences:
+    - hanzi: 押金 在 合同 结束 的 时候 退回
+      pinyin: yā jīn zài hé tóng jié shù de shí hòu tuì huí
+  tags:
+    - Housing
+  pinyin: jié shù
+- hanzi: 违约
+  translate: break a contract/promise
+  sentences:
+    - hanzi: 如果 房东 违约 ， 必须 赔偿 承租人 一 个 月 的 租金
+      pinyin: rú guǒ fáng dōng wéi yuē ， bì xū péi cháng chéng zū rén yī gè yuè de zū
+        jīn
+  tags:
+    - Housing
+  pinyin: wéi yuē
+- hanzi: 赔偿
+  translate: compensate; compensation
+  tags:
+    - Housing
+  pinyin: péi cháng
+- hanzi: 签订
+  translate: sign; agree to sign
+  tags:
+    - Housing
+  pinyin: qiān dìng
+- hanzi: 检查
+  translate: inspect; examine
+  sentences:
+    - hanzi: 在 退房 的 时候 房东 检查 房子 的 情况
+      pinyin: zài tuì fáng de shí hòu fáng dōng jiǎn chá fáng zi de qíng kuàng
+  tags:
+    - Housing
+  pinyin: jiǎn chá
+- hanzi: 情况
+  translate: situation; condition; circumstance
+  sentences:
+    - hanzi: 在 退房 的 时候 房东 检查 房子 的 情况
+      pinyin: zài tuì fáng de shí hòu fáng dōng jiǎn chá fáng zi de qíng kuàng
+  tags:
+    - Housing
+  pinyin: qíng kuàng
+- hanzi: 退回
+  translate: return; send back
+  sentences:
+    - hanzi: 押金 在 合同 结束 的 时候 退回
+      pinyin: yā jīn zài hé tóng jié shù de shí hòu tuì huí
+  tags:
+    - Housing
+  pinyin: tuì huí
 - hanzi: 日常
   translate: daily
   tags:
