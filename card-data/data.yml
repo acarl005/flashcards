@@ -4359,6 +4359,118 @@
   tags:
     - Housing
   pinyin: tuì huí
+- hanzi: 广告
+  translate: advertisement; commercial
+  sentences:
+    - hanzi: 我 在 电视 上 看 到了 贵 公司 的 招聘 广告
+      pinyin: wǒ zài diàn shì shàng kàn dào le guì gōng sī de zhāo pìn guǎng gào
+  tags:
+    - Business
+  pinyin: guǎng gào
+- hanzi: 招聘
+  translate: recruit
+  sentences:
+    - hanzi: 请问 ， 贵 公司 在 招聘 吗 ？
+      pinyin: qǐng wèn ， guì gōng sī zài zhāo pìn ma ？
+  tags:
+    - Business
+  pinyin: zhāo pìn
+- hanzi: 公司
+  translate: company
+  tags:
+    - Business
+  pinyin: gōng sī
+- hanzi: 应聘
+  translate: apply (for job)
+  sentences:
+    - hanzi: 我 想 应聘 秘书
+      pinyin: wǒ xiǎng yīng pìn mì shū
+  tags:
+    - Business
+  pinyin: yīng pìn
+- hanzi: 秘书
+  translate: secretary
+  tags:
+    - Business
+  pinyin: mì shū
+- hanzi: 名片
+  translate: business card
+  tags:
+    - Business
+  pinyin: míng piàn
+- hanzi: 会议室
+  translate: meeting room
+  tags:
+    - Business
+  pinyin: huì yì shì
+- hanzi: 客户
+  translate: customer
+  tags:
+    - Business
+  pinyin: kè hù
+- hanzi: 关照
+  translate: care
+  sentences:
+    - hanzi: 请 多 关照
+      pinyin: qǐng duō guān zhào
+  tags:
+    - Business
+  pinyin: guān zhào
+- hanzi: 幸会
+  translate: fortunate to meet
+  tags:
+    - Business
+  pinyin: xìng huì
+- hanzi: 出差
+  translate: business trip
+  sentences:
+    - hanzi: 我 下 个 星期 去 日本 出差
+      pinyin: wǒ xià gè xīng qī qù rì běn chū chāi
+  tags:
+    - Business
+  pinyin: chū chāi
+- hanzi: 谈判
+  translate: negotiate; negotiation
+  sentences:
+    - hanzi: 林 经理 和 客户 在 谈判
+      pinyin: lín jīng lǐ hé kè hù zài tán pàn
+  tags:
+    - Business
+  pinyin: tán pàn
+- hanzi: 日程表
+  translate: schedule
+  sentences:
+    - hanzi: 请 张 秘书 为 我 安排 谈判 的 日程表
+      pinyin: qǐng zhāng mì shū wèi wǒ ān pái tán pàn de rì chéng biǎo
+  tags:
+    - Business
+  pinyin: rì chéng biǎo
+- hanzi: 合作
+  translate: collaborate; collaboration
+  sentences:
+    - hanzi: 祝 我们 合作 成功
+      pinyin: zhù wǒ men hé zuò chéng gōng
+  tags:
+    - Business
+  pinyin: hé zuò
+- hanzi: 成功
+  translate: success; succeed
+  tags:
+    - Business
+  pinyin: chéng gōng
+- hanzi: 祝
+  translate: wish; pray
+  sentences:
+    - hanzi: 祝 我们 合作 成功
+      pinyin: zhù wǒ men hé zuò chéng gōng
+  tags:
+    - Business
+  pinyin: zhù
+- hanzi: 干杯
+  translate: cheers; bottoms up
+  tags:
+    - Business
+  pinyin: gān bēi
 - hanzi: 日常
   translate: daily
   tags:
