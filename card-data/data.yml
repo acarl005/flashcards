@@ -4471,6 +4471,77 @@
   tags:
     - Business
   pinyin: gān bēi
+- hanzi: 农业
+  translate: agriculture
+  tags:
+    - Industry
+  pinyin: nóng yè
+- hanzi: 水稻
+  translate: rice (plant)
+  tags:
+    - Industry
+  pinyin: shuǐ dào
+- hanzi: 世界
+  translate: world
+  sentences:
+    - hanzi: 中国 的 水稻 产量 世界 第 一
+      pinyin: zhōng guó de shuǐ dào chǎn liàng shì jiè dì yī
+    - hanzi: 日本 是 世界 第 二 渔业 大 国
+      pinyin: rì běn shì shì jiè dì èr yú yè dà guó
+  tags:
+    - Industry
+  pinyin: shì jiè
+- hanzi: 产量
+  translate: output; production
+  tags:
+    - Industry
+  pinyin: chǎn liàng
+- hanzi: 渔业
+  translate: fishery
+  tags:
+    - Industry
+  pinyin: yú yè
+- hanzi: 工业
+  translate: industry
+  sentences:
+    - hanzi: 纽约 工业 非常 发达
+      pinyin: niǔ yuē gōng yè fēi cháng fā dá
+  tags:
+    - Industry
+  pinyin: gōng yè
+- hanzi: 发达
+  translate: developed; mature; advanced
+  sentences:
+    - hanzi: 中国 东 南 渔业 发达
+      pinyin: zhōng guó dōng nán yú yè fā dá
+  tags:
+    - Industry
+  pinyin: fā dá
+- hanzi: 荷兰
+  translate: Holland
+  tags:
+    - Industry
+  pinyin: hé lán
+- hanzi: 食品
+  translate: food (samples)
+  tags:
+    - Industry
+  pinyin: shí pǐn
+- hanzi: 畜牧业
+  translate: animal husbandry
+  sentences:
+    - hanzi: 畜牧业 为 人们 提供 牛奶 ， 鸡蛋 ， 肉 等 食品
+      pinyin: xù mù yè wèi rén men tí gōng niú nǎi ， jī dàn ， ròu děng shí pǐn
+    - hanzi: 中国 西 北 畜牧业 发达
+      pinyin: zhōng guó xī běi xù mù yè fā dá
+  tags:
+    - Industry
+  pinyin: xù mù yè
+- hanzi: 人们
+  translate: provide; offer
+  tags:
+    - Industry
+  pinyin: rén men
 - hanzi: 日常
   translate: daily
   tags:
@@ -4683,7 +4754,7 @@
     - CLA 4
   pinyin: xiān
 - hanzi: 食物
-  translate: food
+  translate: food (things)
   tags:
     - CLA 4
   pinyin: shí wù
