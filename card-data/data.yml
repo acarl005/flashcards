@@ -4542,6 +4542,120 @@
   tags:
     - Industry
   pinyin: tí gōng
+- hanzi: 宽
+  translate: width; wide
+  tags:
+    - Math
+  pinyin: kuān
+- hanzi: 米
+  translate: meter; (raw) rice
+  sentences:
+    - hanzi: 客厅 长 四 米 ， 宽 三 米
+      pinyin: kè tīng zhǎng sì mǐ ， kuān sān mǐ
+  tags:
+    - Math
+  pinyin: mǐ
+- hanzi: 面积
+  translate: area
+  sentences:
+    - hanzi: 客厅 面积 是 多少 ？
+      pinyin: kè tīng miàn jī shì duō shǎo ？
+  tags:
+    - Math
+  pinyin: miàn jī
+- hanzi: 平方
+  translate: square
+  sentences:
+    - hanzi: 客厅 的 面积 是 十 二 平方 米
+      pinyin: kè tīng de miàn jī shì shí èr píng fāng mǐ
+  tags:
+    - Math
+  pinyin: píng fāng
+- hanzi: 箱子
+  translate: box
+  tags:
+    - Math
+  pinyin: xiāng zi
+- hanzi: 体积
+  translate: volume
+  sentences:
+    - hanzi: 这 个 箱子 长 三 米 ， 宽 两 米 ， 高 一 米 。 体积 是 多少 ？
+      pinyin: zhè gè xiāng zi zhǎng sān mǐ ， kuān liǎng mǐ ， gāo yī mǐ 。 tǐ jī shì duō
+        shǎo ？
+  tags:
+    - Math
+  pinyin: tǐ jī
+- hanzi: 半径
+  translate: radius
+  sentences:
+    - hanzi: 地球 的 半径 是 六 千 三 白七 十 八 公里
+      pinyin: dì qiú de bàn jìng shì liù qiān sān bái qī shí bā gōng lǐ
+  tags:
+    - Math
+  pinyin: bàn jìng
+- hanzi: 圆周率
+  translate: π
+  sentences:
+    - hanzi: 圆形 的 面积 等于 半径 的 平方 乘以 圆周率
+      pinyin: yuán xíng de miàn jī děng yú bàn jìng de píng fāng chéng yǐ yuán zhōu lǜ
+  tags:
+    - Math
+  pinyin: yuán zhōu lǜ
+- hanzi: 公里
+  translate: kilometer
+  tags:
+    - Math
+  pinyin: gōng lǐ
+- hanzi: 小于
+  translate: less than
+  sentences:
+    - hanzi: 八 小于 九
+      pinyin: bā xiǎo yú jiǔ
+  tags:
+    - Math
+  pinyin: xiǎo yú
+- hanzi: 大于
+  translate: greater than
+  sentences:
+    - hanzi: 十 大于 六
+      pinyin: shí dà yú liù
+  tags:
+    - Math
+  pinyin: dà yú
+- hanzi: 平行
+  translate: parallel
+  sentences:
+    - hanzi: 房子 的 天花板 和 地面 平行
+      pinyin: fáng zi de tiān huā bǎn hé dì miàn píng xíng
+  tags:
+    - Math
+  pinyin: píng xíng
+- hanzi: 垂直
+  translate: perpendicular; vertical
+  sentences:
+    - hanzi: 墙 和 地面 垂直
+      pinyin: qiáng hé dì miàn chuí zhí
+  tags:
+    - Math
+  pinyin: chuí zhí
+- hanzi: 平均
+  translate: average
+  sentences:
+    - hanzi: 他们 平均 二 十 一 岁
+      pinyin: tā men píng jūn èr shí yī suì
+  tags:
+    - Math
+  pinyin: píng jūn
+- hanzi: 墙
+  translate: wall
+  tags:
+    - Math
+  pinyin: qiáng
+- hanzi: 地面
+  translate: floor; ground
+  tags:
+    - Math
+  pinyin: dì miàn
 - hanzi: 日常
   translate: daily
   tags:
@@ -4763,11 +4877,6 @@
   tags:
     - CLA 4
   pinyin: wǎn
-- hanzi: 米
-  translate: (raw) rice
-  tags:
-    - CLA 4
-  pinyin: mǐ
 - hanzi: 猪
   translate: pig
   tags:
