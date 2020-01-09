@@ -14,16 +14,16 @@
   "license": "MIT",
   "devDependencies": {
     "express": "^4.17.1",
-    "gh-pages": "^2.1.1",
-    "parcel": "^1.12.3",
+    "gh-pages": "^2.2.0",
+    "parcel": "^1.12.4",
     "parcel-plugin-bundle-visualiser": "^1.2.0",
-    "sass": "^1.23.0-module.beta.1",
+    "sass": "^1.24.3",
     "yaml": "^1.7.2"
   },
   "dependencies": {
-    "antd": "^3.23.2",
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0",
-    "request-promise": "^4.2.4"
+    "antd": "^3.26.6",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "request-promise": "^4.2.5"
   }
 }
