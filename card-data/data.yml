@@ -4656,6 +4656,131 @@
   tags:
     - Math
   pinyin: dì miàn
+- hanzi: 贷款
+  translate: loan
+  tags:
+    - Finance
+  pinyin: dài kuǎn
+- hanzi: 利息
+  translate: interest (payment)
+  tags:
+    - Finance
+  pinyin: lì xī
+- hanzi: 向
+  translate: towards; from/to; preposition to indicate the object of an action
+  sentences:
+    - hanzi: 我 向 银行 申请了 两 百 万 美元 的 贷款
+      pinyin: wǒ xiàng yín xíng shēn qǐng le liǎng bǎi wàn měi yuán de dài kuǎn
+  tags:
+    - Finance
+  pinyin: xiàng
+- hanzi: 收取
+  translate: charge; collect
+  sentences:
+    - hanzi: 银行 向 我 收取 百分之 七 的 利息
+      pinyin: yín xíng xiàng wǒ shōu qǔ bǎi fēn zhī qī de lì xī
+  tags:
+    - Finance
+  pinyin: shōu qǔ
+- hanzi: 分期
+  translate: in installments; in stages; step-by-step
+  sentences:
+    - hanzi: 两 百 万 的 贷款 我 打算 分期 偿还
+      pinyin: liǎng bǎi wàn de dài kuǎn wǒ dǎ suàn fēn qī cháng huán
+  tags:
+    - Finance
+  pinyin: fēn qī
+- hanzi: 打算
+  translate: intend; plan to
+  tags:
+    - Finance
+  pinyin: dǎ suàn
+- hanzi: 抵押
+  translate: mortgage
+  sentences:
+    - hanzi: 我 把 房子 和 车 抵押 给 银行
+      pinyin: wǒ bǎ fáng zi hé chē dǐ yā gěi yín xíng
+  tags:
+    - Finance
+  pinyin: dǐ yā
+- hanzi: 偿还
+  translate: repay; pay back
+  tags:
+    - Finance
+  pinyin: cháng huán
+- hanzi: 破产
+  translate: bankruptcy
+  sentences:
+    - hanzi: 果 公司 破产 ， 我 的 房子 和 车 将 被 银行 拍卖
+      pinyin: guǒ gōng sī pò chǎn ， wǒ de fáng zi hé chē jiāng bèi yín xíng pāi mài
+  tags:
+    - Finance
+  pinyin: pò chǎn
+- hanzi: 拍卖
+  translate: auction
+  tags:
+    - Finance
+  pinyin: pāi mài
+- hanzi: 将
+  translate: will; in the near future
+  tags:
+    - Finance
+  pinyin: jiāng
+- hanzi: 高利贷
+  translate: usury; giving a loan w/ unjustly high interest rate
+  sentences:
+    - hanzi: 我 宁愿 申请 破产 也 不 借 高利贷
+      pinyin: wǒ nìng yuàn shēn qǐng pò chǎn yě bù jiè gāo lì dài
+  tags:
+    - Finance
+  pinyin: gāo lì dài
+- hanzi: 股票
+  translate: stock
+  tags:
+    - Finance
+  pinyin: gǔ piào
+- hanzi: 黄金
+  translate: gold
+  tags:
+    - Finance
+  pinyin: huáng jīn
+- hanzi: 宁愿
+  translate: prefer; rather
+  sentences:
+    - hanzi: 我 宁愿 买 房子 也 不 买 股票
+      pinyin: wǒ nìng yuàn mǎi fáng zi yě bù mǎi gǔ piào
+  tags:
+    - Finance
+  pinyin: nìng yuàn
+- hanzi: 投资
+  translate: invest; investment
+  sentences:
+    - hanzi: 我 宁愿 投资 股票 也 不 投资 黄金
+      pinyin: wǒ nìng yuàn tóu zī gǔ piào yě bù tóu zī huáng jīn
+  tags:
+    - Finance
+  pinyin: tóu zī
+- hanzi: 借
+  translate: borrow; lend
+  sentences:
+    - hanzi: 你 怎么 宁愿 向 高利贷 借 钱 也 不 向 我 借 钱 ？
+      pinyin: nǐ zěn me nìng yuàn xiàng gāo lì dài jiè qián yě bù xiàng wǒ jiè qián ？
+  tags:
+    - Finance
+  pinyin: jiè
+- hanzi: 与其
+  translate: rather than; instead of
+  sentences:
+    - hanzi: 与其 投资 黄金 不如 投资 股票
+      pinyin: yǔ qí tóu zī huáng jīn bù rú tóu zī gǔ piào
+  tags:
+    - Finance
+  pinyin: yǔ qí
+- hanzi: 不如
+  translate: not as good as
+  tags:
+    - Finance
+  pinyin: bù rú
 - hanzi: 日常
   translate: daily
   tags:
@@ -4671,11 +4796,6 @@
   tags:
     - Meetup 1
   pinyin: zhōu mò
-- hanzi: 打算
-  translate: intend; plan to
-  tags:
-    - Meetup 1
-  pinyin: dǎ suàn
 - hanzi: 官
   translate: official
   tags:
