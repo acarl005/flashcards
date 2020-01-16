@@ -4781,6 +4781,156 @@
   tags:
     - Finance
   pinyin: bù rú
+- hanzi: 台湾
+  translate: Taiwan
+  tags:
+    - Geography
+  pinyin: tái wān
+- hanzi: 岛
+  translate: island
+  tags:
+    - Geography
+  pinyin: dǎo
+- hanzi: 富士山
+  translate: Fujisan
+  tags:
+    - Geography
+  pinyin: fù shì shān
+- hanzi: 火山
+  translate: volcano
+  sentences:
+    - hanzi: 富士山 是 一 座 火山
+      pinyin: fù shì shān shì yī zuò huǒ shān
+  tags:
+    - Geography
+  pinyin: huǒ shān
+- hanzi: 部
+  translate: part; section
+  sentences:
+    - hanzi: 台湾 岛 位于 中国 的 东南 部
+      pinyin: tái wān dǎo wèi yú zhōng guó de dōng nán bù
+  tags:
+    - Geography
+  pinyin: bù
+- hanzi: 温泉
+  translate: hot spring
+  tags:
+    - Geography
+  pinyin: wēn quán
+- hanzi: 温度
+  translate: temperature
+  sentences:
+    - hanzi: 这 个 温泉 的 温度 是 四 十 度
+      pinyin: zhè gè wēn quán de wēn dù shì sì shí dù
+  tags:
+    - Geography
+  pinyin: wēn dù
+- hanzi: 海啸
+  translate: tsunami
+  tags:
+    - Geography
+  pinyin: hǎi xiào
+- hanzi: 地震
+  translate: earthquake
+  tags:
+    - Geography
+  pinyin: dì zhèn
+- hanzi: 沙漠
+  translate: desert
+  sentences:
+    - hanzi: 中国 沙漠 面积 大约 是 七 十 一 点 二 九 万 平方 公里
+      pinyin: zhōng guó shā mò miàn jī dà yuē shì qī shí yī diǎn èr jiǔ wàn píng fāng
+        gōng lǐ
+  tags:
+    - Geography
+  pinyin: shā mò
+- hanzi: 瀑布
+  translate: waterfall
+  sentences:
+    - hanzi: 下 雨 以后 这里 出现 一 道 瀑布
+      pinyin: xià yǔ yǐ hòu zhè lǐ chū xiàn yī dào pù bù
+  tags:
+    - Geography
+  pinyin: pù bù
+- hanzi: 引起
+  translate: cause; give rise
+  sentences:
+    - hanzi: 海洋 地震 引起了 海啸
+      pinyin: hǎi yáng dì zhèn yǐn qǐ le hǎi xiào
+  tags:
+    - Geography
+  pinyin: yǐn qǐ
+- hanzi: 出现
+  translate: appear; show up
+  tags:
+    - Geography
+  pinyin: chū xiàn
+- hanzi: 赤道
+  translate: equator
+  sentences:
+    - hanzi: 赤道 上 的 国家 只 有 夏天
+      pinyin: chì dào shàng de guó jiā zhǐ yǒu xià tiān
+  tags:
+    - Geography
+  pinyin: chì dào
+- hanzi: 时区
+  translate: time zone
+  tags:
+    - Geography
+  pinyin: shí qū
+- hanzi: 全球
+  translate: whole world; globally
+  sentences:
+    - hanzi: 全球 有 二 十 四 个 时区
+      pinyin: quán qiú yǒu èr shí sì gè shí qū
+  tags:
+    - Geography
+  pinyin: quán qiú
+- hanzi: 时差
+  translate: time difference; jet lag
+  sentences:
+    - hanzi: 北京 和 纽约 有 十 二 个 小时 时差
+      pinyin: běi jīng hé niǔ yuē yǒu shí èr gè xiǎo shí shí chā
+  tags:
+    - Geography
+  pinyin: shí chā
+- hanzi: 东经
+  translate: east longitude
+  sentences:
+    - hanzi: 北京 位于 东经 一 百 一 是 六 度 北纬 三 十 九 度
+      pinyin: běi jīng wèi yú dōng jīng yī bǎi yī shì liù dù běi wěi sān shí jiǔ dù
+  tags:
+    - Geography
+  pinyin: dōng jīng
+- hanzi: 西经
+  translate: west longitude
+  sentences:
+    - hanzi: 里约 位于 西经 四 十 三 度 南纬 二 十 二 度
+      pinyin: lǐ yuē wèi yú xī jīng sì shí sān dù nán wěi èr shí èr dù
+  tags:
+    - Geography
+  pinyin: xī jīng
+- hanzi: 南纬
+  translate: south latitude
+  sentences:
+    - hanzi: 里约 位于 西经 四 十 三 度 南纬 二 十 二 度
+      pinyin: lǐ yuē wèi yú xī jīng sì shí sān dù nán wěi èr shí èr dù
+  tags:
+    - Geography
+  pinyin: nán wěi
+- hanzi: 北纬
+  translate: north latitude
+  sentences:
+    - hanzi: 北京 位于 东经 一 百 一 是 六 度 北纬 三 十 九 度
+      pinyin: běi jīng wèi yú dōng jīng yī bǎi yī shì liù dù běi wěi sān shí jiǔ dù
+  tags:
+    - Geography
+  pinyin: běi wěi
+- hanzi: Rio De Janeiro
+  translate: 里约
+  tags:
+    - Geography
+  pinyin: Rio De Janeiro
 - hanzi: 日常
   translate: daily
   tags:
