@@ -4926,11 +4926,179 @@
   tags:
     - Geography
   pinyin: běi wěi
-- hanzi: Rio De Janeiro
-  translate: 里约
+- hanzi: 里约
+  translate: Rio De Janeiro
   tags:
     - Geography
-  pinyin: Rio De Janeiro
+  pinyin: lǐ yuē
+- hanzi: 胃
+  translate: stomach
+  tags:
+    - Health 3
+  pinyin: wèi
+- hanzi: 肺
+  translate: lung
+  tags:
+    - Health 3
+  pinyin: fèi
+- hanzi: 肝
+  translate: liver
+  tags:
+    - Health 3
+  pinyin: gān
+- hanzi: 得
+  translate: get; obtain; catch
+  sentences:
+    - hanzi: 她 得了 流感 ， 难怪 发烧了
+      pinyin: tā dé le liú gǎn ， nán guài fā shāo le
+  tags:
+    - Health 3
+  pinyin: dé
+- hanzi: 炎
+  translate: inflammation
+  sentences:
+    - hanzi: 他 得了 肺 炎 ， 不得不 去 医院
+      pinyin: tā dé le fèi yán ， bù dé bù qù yī yuàn
+  tags:
+    - Health 3
+  pinyin: yán
+- hanzi: 难怪
+  translate: no wonder; understandable; reasonable
+  sentences:
+    - hanzi: 他 得了 胃 炎 ， 难怪 这 几 天 他 不 吃 东西
+      pinyin: tā dé le wèi yán ， nán guài zhè jǐ tiān tā bù chī dōng xī
+  tags:
+    - Health 3
+  pinyin: nán guài
+- hanzi: 越来越
+  translate: more and more
+  sentences:
+    - hanzi: 她 得了 肝 炎 ， 难怪 越来越 瘦了
+      pinyin: tā dé le gān yán ， nán guài yuè lái yuè shòu le
+  tags:
+    - Health 3
+  pinyin: yuè lái yuè
+- hanzi: 不停
+  translate: non-stop; constantly
+  sentences:
+    - hanzi: 他 得了 肺 炎 ， 难怪 他 在 不停 地 咳嗽
+      pinyin: tā dé le fèi yán ， nán guài tā zài bù tíng de hāi sòu
+  tags:
+    - Health 3
+  pinyin: bù tíng
+- hanzi: 流感
+  translate: flu
+  sentences:
+    - hanzi: 他 得了 流感 ， 不得不 戴 口罩
+      pinyin: tā dé le liú gǎn ， bù dé bù dài kǒu zhào
+  tags:
+    - Health 3
+  pinyin: liú gǎn
+- hanzi: 骨折
+  translate: fracture
+  tags:
+    - Health 3
+  pinyin: gǔ zhé
+- hanzi: 看望
+  translate: visit
+  sentences:
+    - hanzi: 他 骨折了 。 你 快 去 医院 看望 看望 他 吧
+      pinyin: tā gǔ zhé le 。 nǐ kuài qù yī yuàn kàn wàng kàn wàng tā ba
+  tags:
+    - Health 3
+  pinyin: kàn wàng
+- hanzi: 安慰
+  translate: comfort; console
+  sentences:
+    - hanzi: 你 快 去 安慰 安慰 她 吧
+      pinyin: nǐ kuài qù ān wèi ān wèi tā ba
+  tags:
+    - Health 3
+  pinyin: ān wèi
+- hanzi: 过敏
+  translate: allergic; allergy
+  sentences:
+    - hanzi: 我 对 鸡蛋 过敏
+      pinyin: wǒ duì jī dàn guò mǐn
+  tags:
+    - Health 3
+  pinyin: guò mǐn
+- hanzi: 副作用
+  translate: side effect
+  sentences:
+    - hanzi: 这 个 药 的 副作用 是 什么 ？
+      pinyin: zhè gè yào de fù zuò yòng shì shén me ？
+  tags:
+    - Health 3
+  pinyin: fù zuò yòng
+- hanzi: 可能
+  translate: perhaps; may; probable
+  sentences:
+    - hanzi: 这 个 药 可能 引起 过敏
+      pinyin: zhè gè yào kě néng yǐn qǐ guò mǐn
+  tags:
+    - Health 3
+  pinyin: kě néng
+- hanzi: 护士
+  translate: nurse
+  tags:
+    - Health 3
+  pinyin: hù shì
+- hanzi: 病人
+  translate: patient; sick person
+  tags:
+    - Health 3
+  pinyin: bìng rén
+- hanzi: 镇静剂
+  translate: sedative
+  sentences:
+    - hanzi: 护士 注射 镇静剂 以后 病人 睡着了
+      pinyin: hù shì zhù shè zhèn jìng jì yǐ hòu bìng rén shuì zhe le
+  tags:
+    - Health 3
+  pinyin: zhèn jìng jì
+- hanzi: 注射
+  translate: inject; injection
+  sentences:
+    - hanzi: 护士 注射 镇静剂 以后 病人 睡着了
+      pinyin: hù shì zhù shè zhèn jìng jì yǐ hòu bìng rén shuì zhe le
+  tags:
+    - Health 3
+  pinyin: zhù shè
+- hanzi: 手术
+  translate: surgery; operation
+  sentences:
+    - hanzi: 医生 建议 他 马上 手术
+      pinyin: yī shēng jiàn yì tā mǎ shàng shǒu shù
+  tags:
+    - Health 3
+  pinyin: shǒu shù
+- hanzi: 治疗
+  translate: treatment; therapy
+  tags:
+    - Health 3
+  pinyin: zhì liáo
+- hanzi: 住院
+  translate: be hospitalized
+  sentences:
+    - hanzi: 一生 建议 他 马上 住院
+      pinyin: yī shēng jiàn yì tā mǎ shàng zhù yuàn
+  tags:
+    - Health 3
+  pinyin: zhù yuàn
+- hanzi: 建议
+  translate: suggest; advise
+  tags:
+    - Health 3
+  pinyin: jiàn yì
+- hanzi: 经过
+  translate: after going through; as a result of
+  sentences:
+    - hanzi: 经过 治疗 他 的 肺 炎 好了
+      pinyin: jīng guò zhì liáo tā de fèi yán hǎo le
+  tags:
+    - Health 3
+  pinyin: jīng guò
 - hanzi: 日常
   translate: daily
   tags:
