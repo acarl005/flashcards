@@ -4,7 +4,7 @@
   tags:
     - Basics 1
 - hanzi: 再见
-  translate: see again (goodbye)
+  translate: meet again (goodbye)
   tags:
     - Basics 1
   pinyin: zài jiàn
@@ -1871,7 +1871,7 @@
     - Travel 1
   pinyin: zuò
 - hanzi: 可以
-  translate: may; can
+  translate: may; can; have permission to
   sentences:
     - hanzi: 从 北京 到 上海 可以 坐 什么 交通 工具 ？
       pinyin: cóng běi jīng dào shàng hǎi kě yǐ zuò shén me jiāo tōng gōng jù ？
@@ -3896,7 +3896,7 @@
     - Nature 2
   pinyin: yà zhōu
 - hanzi: 生活
-  translate: life; live
+  translate: life
   sentences:
     - hanzi: 熊猫 生活 在 亚洲
       pinyin: xióng māo shēng huó zài yà zhōu
@@ -5099,6 +5099,100 @@
   tags:
     - Health 3
   pinyin: jīng guò
+- hanzi: 香港
+  translate: Hong Kong
+  tags:
+    - Fluent City 1
+  pinyin: xiāng gǎng
+- hanzi: 越南
+  translate: Vietnam
+  tags:
+    - Fluent City 1
+  pinyin: yuè nán
+- hanzi: 意大利
+  translate: Italy
+  tags:
+    - Fluent City 1
+  pinyin: yì dà lì
+- hanzi: 墨西哥
+  translate: Mexico
+  tags:
+    - Fluent City 1
+  pinyin: mò xī gē
+- hanzi: 西班牙
+  translate: Spain
+  tags:
+    - Fluent City 1
+  pinyin: xī bān yá
+- hanzi: 虾
+  translate: shrimp
+  tags:
+    - Fluent City 1
+  pinyin: xiā
+- hanzi: 火鸡
+  translate: turkey
+  tags:
+    - Fluent City 1
+  pinyin: huǒ jī
+- hanzi: 臭
+  translate: smelly; stinking
+  sentences:
+    - hanzi: 台湾 有 最 好 臭豆腐
+      pinyin: tái wān yǒu zuì hǎo chòu dòu fǔ
+  tags:
+    - Fluent City 1
+  pinyin: chòu
+- hanzi: 土豆
+  translate: potato
+  tags:
+    - Fluent City 1
+  pinyin: tǔ dòu
+- hanzi: 红豆
+  translate: red bean
+  tags:
+    - Fluent City 1
+  pinyin: hóng dòu
+- hanzi: 咖喱
+  translate: curry
+  tags:
+    - Fluent City 1
+  pinyin: gā lí
+- hanzi: 蟹
+  translate: crab
+  tags:
+    - Fluent City 1
+  pinyin: xiè
+- hanzi: 笼
+  translate: basket; cage; envelope
+  tags:
+    - Fluent City 1
+  pinyin: lóng
+- hanzi: 样
+  translate: appearance; pattern; shape
+  sentences:
+    - hanzi: 怎么样
+      pinyin: zěn me yàng
+  tags:
+    - Fluent City 1
+  pinyin: yàng
+- hanzi: 见
+  translate: see; meet; interview
+  tags:
+    - Fluent City 1
+  pinyin: jiàn
+- hanzi: 住
+  translate: to live
+  sentences:
+    - hanzi: 我 住 在 纽约
+      pinyin: wǒ zhù zài niǔ yuē
+  tags:
+    - Fluent City 1
+  pinyin: zhù
+- hanzi: 放松
+  translate: relax
+  tags:
+    - Fluent City 1
+  pinyin: fàng sōng
 - hanzi: 日常
   translate: daily
   tags:
