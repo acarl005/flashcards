@@ -129,8 +129,7 @@
   tags:
     - Basics 2
 - hanzi: 个
-  translate: Measure word for most nouns. Usually follows a number or demonstrative
-    adjective.
+  translate: mw for most nouns. Usually follows a number or demonstrative adjective.
   sentences:
     - hanzi: 你 有 一个 信
       pinyin: nǐ yǒu yī gè xìn
@@ -951,7 +950,7 @@
     - Numbers 2
   pinyin: diǎn
 - hanzi: 次
-  translate: measure word for verbs
+  translate: mw for verbs
   sentences:
     - hanzi: 我 昨天 第 一 次 唱歌
       pinyin: wǒ zuó tiān dì yī cì chàng gē
@@ -1771,7 +1770,7 @@
     - Language
   pinyin: jiǎn dān
 - hanzi: 会
-  translate: can; able to
+  translate: can; know how to; possess the skill
   tags:
     - Language
   pinyin: huì
@@ -3314,7 +3313,7 @@
     - Social
   pinyin: hái
 - hanzi: 能
-  translate: possibly; can
+  translate: can; able to; possibly
   tags:
     - Social
   pinyin: néng
@@ -5193,6 +5192,56 @@
   tags:
     - Fluent City 1
   pinyin: fàng sōng
+- hanzi: 喂
+  translate: hey
+  tags:
+    - Fluent City 2
+  pinyin: wèi
+- hanzi: 位
+  translate: seat; mw for people
+  sentences:
+    - hanzi: 您 是 哪位 ？
+      pinyin: nín shì nǎ wèi ？
+  tags:
+    - Fluent City 2
+  pinyin: wèi
+- hanzi: 空儿
+  translate: free time; spare time
+  sentences:
+    - hanzi: 你 什么 时候 有 空儿
+      pinyin: nǐ shén me shí hòu yǒu kòng er
+  tags:
+    - Fluent City 2
+  pinyin: kòng er
+- hanzi: 有时候
+  translate: sometimes
+  sentences:
+    - hanzi: 有时候 我 和 日本人 说话
+      pinyin: yǒu shí hòu wǒ hé rì běn rén shuō huà
+  tags:
+    - Fluent City 2
+  pinyin: yǒu shí hòu
+- hanzi: 竹子
+  translate: bamboo
+  tags:
+    - Fluent City 2
+  pinyin: zhú zi
+- hanzi: 行
+  translate: permissible; allowed; okay
+  sentences:
+    - hanzi: 四点 我 到 您的 办公室 去 ， 行吗 ？
+      pinyin: sì diǎn wǒ dào nín de bàn gōng shì qù ， xíng ma ？
+  tags:
+    - Fluent City 2
+  pinyin: xíng
+- hanzi: 要是
+  translate: if; in the case that
+  sentences:
+    - hanzi: 要是 下 雨 ， 我 不 要 运动
+      pinyin: yào shi xià yǔ ， wǒ bù yào yùn dòng
+  tags:
+    - Fluent City 2
+  pinyin: yào shi
 - hanzi: 日常
   translate: daily
   tags:
