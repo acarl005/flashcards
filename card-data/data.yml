@@ -1765,7 +1765,7 @@
     - Language
   pinyin: nán
 - hanzi: 简单
-  translate: easy
+  translate: easy; simple
   tags:
     - Language
   pinyin: jiǎn dān
@@ -5242,6 +5242,36 @@
   tags:
     - Fluent City 2
   pinyin: yào shi
+- hanzi: 城市
+  translate: city
+  tags:
+    - Fluent City 3
+  pinyin: chéng shì
+- hanzi: 过来
+  translate: come over
+  tags:
+    - Fluent City 3
+  pinyin: guò lái
+- hanzi: 复习
+  translate: review
+  tags:
+    - Fluent City 3
+  pinyin: fù xí
+- hanzi: 预习
+  translate: preview; prep
+  tags:
+    - Fluent City 3
+  pinyin: yù xí
+- hanzi: 容易
+  translate: easy; readily
+  tags:
+    - Fluent City 3
+  pinyin: róng yì
+- hanzi: 帅哥
+  translate: handsome man
+  tags:
+    - Fluent City 3
+  pinyin: shuài gē
 - hanzi: 日常
   translate: daily
   tags:
