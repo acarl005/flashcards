@@ -179,7 +179,7 @@
     - Basics 3
 - hanzi: 书
   pinyin: shū
-  translate: book
+  translate: book (for reading)
   sentences:
     - hanzi: 我 看了 三 本 书
       pinyin: wǒ kàn le sān běn shū
@@ -755,7 +755,7 @@
     - Tense
   pinyin: xiāng jiāo
 - hanzi: 橙子
-  translate: orange (color)
+  translate: orange (fruit)
   tags:
     - Tense
   pinyin: chéng zi
@@ -1318,7 +1318,7 @@
   translate: cheap
   sentences:
     - hanzi: 因为 这么 便宜 ， 我 买 十 件 衬衫
-      pinyin: yīn wèi zhè me biàn yí ， wǒ mǎi shí jiàn chèn shān
+      pinyin: yīn wèi zhè me pián yí ， wǒ mǎi shí jiàn chèn shān
   tags:
     - Shopping
   pinyin: pián yí
@@ -1586,6 +1586,9 @@
   pinyin: yǎn jìng
 - hanzi: 盖
   translate: cover
+  sentences:
+    - hanzi: 女儿 盖着 被子 睡着了
+      pinyin: nǚ ér gài zhe bèi zi shuì zháo le
   tags:
     - Household
   pinyin: gài
@@ -1645,8 +1648,8 @@
 - hanzi: 曾经
   translate: once; ever
   sentences:
-    - hanzi: 是的 ， 我 曾经 去 韩国
-      pinyin: shì de ， wǒ céng jīng qù hán guó
+    - hanzi: 是的 ， 我 曾经 去过 韩国
+      pinyin: shì de ， wǒ céng jīng qù guò hán guó
   tags:
     - Country
   pinyin: céng jīng
@@ -1766,6 +1769,9 @@
   pinyin: nán
 - hanzi: 简单
   translate: easy; simple
+  sentences:
+    - hanzi: 我 觉得 英文 简单
+      pinyin: wǒ jué dé yīng wén jiǎn dān
   tags:
     - Language
   pinyin: jiǎn dān
@@ -1879,6 +1885,9 @@
   pinyin: kě yǐ
 - hanzi: 或者
   translate: or (in a statement)
+  sentences:
+    - hanzi: 从 北京 到 上海 可以 坐 飞机 或者 火车
+      pinyin: cóng běi jīng dào shàng hǎi kě yǐ zuò fēi jī huò zhě huǒ chē
   tags:
     - Travel 1
   pinyin: huò zhě
@@ -1947,7 +1956,7 @@
         shāng wù jiān
   pinyin: wú yān
 - hanzi: 预定
-  translate: book
+  translate: ordain; book
   tags:
     - Travel 1
   pinyin: yù dìng
@@ -1973,7 +1982,7 @@
     - Travel 1
   pinyin: nín
 - hanzi: 时候
-  translate: time; when; moment
+  translate: time; during; moment
   tags:
     - Travel 1
   pinyin: shí hòu
@@ -2398,6 +2407,9 @@
   pinyin: huì kuǎn
 - hanzi: 办理
   translate: handle; manage; deal with; transact
+  sentences:
+    - hanzi: 您 要 办理 什么 业务 ？
+      pinyin: nín yào bàn lǐ shén me yè wù ？
   tags:
     - Bank
   pinyin: bàn lǐ
@@ -2855,6 +2867,9 @@
   pinyin: shí táng
 - hanzi: 体育馆
   translate: gym
+  sentences:
+    - hanzi: 我 每天 都 去 体育馆 运动
+      pinyin: wǒ měi tiān dōu qù tǐ yù guǎn yùn dòng
   tags:
     - Education 1
   pinyin: tǐ yù guǎn
@@ -2962,6 +2977,9 @@
   pinyin: zuì
 - hanzi: 练习
   translate: practice; train
+  sentences:
+    - hanzi: 我 练习 中文 练习 得 经常
+      pinyin: wǒ liàn xí zhōng wén liàn xí dé jīng cháng
   tags:
     - Education 1
   pinyin: liàn xí
@@ -3204,6 +3222,9 @@
   pinyin: cóng bù
 - hanzi: 偶尔
   translate: occasionally
+  sentences:
+    - hanzi: 张老师 偶尔 去 滑雪
+      pinyin: zhāng lǎo shī ǒu ěr qù huá xuě
   tags:
     - Sports
   pinyin: ǒu ěr
@@ -3276,8 +3297,8 @@
 - hanzi: 一起
   translate: together
   sentences:
-    - hanzi: 一起 去 公园 走 走 吧
-      pinyin: yī qǐ qù gōng yuán zǒu zǒu ba
+    - hanzi: 我 和 你 一起 去 公园 走 走 吧
+      pinyin: wǒ hé nǐ yī qǐ qù gōng yuán zǒu zǒu ba
   tags:
     - Social
   pinyin: yī qǐ
@@ -3331,7 +3352,7 @@
     - Social
   pinyin: cái
 - hanzi: 女士
-  translate: miss
+  translate: lady; miss
   tags:
     - Social
   pinyin: nǚ shì
@@ -3521,6 +3542,9 @@
   pinyin: lái bù jí
 - hanzi: 马上
   translate: immediately
+  sentences:
+    - hanzi: 火车 马上 要 开
+      pinyin: huǒ chē mǎ shàng yào kāi
   tags:
     - Travel 2
   pinyin: mǎ shàng
@@ -3583,6 +3607,9 @@
   pinyin: zhàng péng
 - hanzi: 露天
   translate: outdoor; open air
+  sentences:
+    - hanzi: 帐篷 被 儿子 弄 坏了 ， 我们 这 次 旅行 只好 在 露天 睡了
+      pinyin: zhàng péng bèi ér zi nòng huài le ， wǒ men zhè cì lǚ xíng zhǐ hǎo zài lù tiān shuì le
   tags:
     - Travel 2
   pinyin: lù tiān
@@ -3909,6 +3936,9 @@
   pinyin: láng
 - hanzi: 袋鼠
   translate: kangaroo
+  sentences:
+    - hanzi: 澳大利亚 有 很多 袋鼠
+      pinyin: ào dà lì yà yǒu hěn duō dài shǔ
   tags:
     - Nature 2
   pinyin: dài shǔ
@@ -4103,7 +4133,7 @@
     - Education 2
   pinyin: tōng guò
 - hanzi: 时间
-  translate: (duration of) time
+  translate: time; period
   sentences:
     - hanzi: 你 明天 有 时间 吗 ？
       pinyin: nǐ míng tiān yǒu shí jiān ma ？
@@ -4289,8 +4319,6 @@
   sentences:
     - hanzi: 中介 费 由 房东 和 承租人 一起 支付
       pinyin: zhōng jiè fèi yóu fáng dōng hé chéng zū rén yī qǐ zhī fù
-    - hanzi: 中介 费 由 谁 支付
-      pinyin: zhōng jiè fèi yóu shéi zhī fù
   tags:
     - Housing
   pinyin: zhōng jiè
@@ -4331,6 +4359,9 @@
   pinyin: péi cháng
 - hanzi: 签订
   translate: sign; agree to sign
+  sentences:
+    - hanzi: 租金 从 合同 签订 的 时间 开始 计算
+      pinyin: zū jīn cóng hé tóng qiān dìng de shí jiān kāi shǐ jì suàn
   tags:
     - Housing
   pinyin: qiān dìng
@@ -4408,7 +4439,7 @@
     - Business
   pinyin: kè hù
 - hanzi: 关照
-  translate: care
+  translate: take care
   sentences:
     - hanzi: 请 多 关照
       pinyin: qǐng duō guān zhào
@@ -4669,7 +4700,7 @@
   translate: towards; from/to; preposition to indicate the object of an action
   sentences:
     - hanzi: 我 向 银行 申请了 两 百 万 美元 的 贷款
-      pinyin: wǒ xiàng yín xíng shēn qǐng le liǎng bǎi wàn měi yuán de dài kuǎn
+      pinyin: wǒ xiàng yín háng shēn qǐng le liǎng bǎi wàn měi yuán de dài kuǎn
   tags:
     - Finance
   pinyin: xiàng
@@ -4677,7 +4708,7 @@
   translate: charge; collect
   sentences:
     - hanzi: 银行 向 我 收取 百分之 七 的 利息
-      pinyin: yín xíng xiàng wǒ shōu qǔ bǎi fēn zhī qī de lì xī
+      pinyin: yín háng xiàng wǒ shōu qǔ bǎi fēn zhī qī de lì xī
   tags:
     - Finance
   pinyin: shōu qǔ
@@ -4698,7 +4729,7 @@
   translate: mortgage
   sentences:
     - hanzi: 我 把 房子 和 车 抵押 给 银行
-      pinyin: wǒ bǎ fáng zi hé chē dǐ yā gěi yín xíng
+      pinyin: wǒ bǎ fáng zi hé chē dǐ yā gěi yín háng
   tags:
     - Finance
   pinyin: dǐ yā
@@ -4710,8 +4741,8 @@
 - hanzi: 破产
   translate: bankruptcy
   sentences:
-    - hanzi: 果 公司 破产 ， 我 的 房子 和 车 将 被 银行 拍卖
-      pinyin: guǒ gōng sī pò chǎn ， wǒ de fáng zi hé chē jiāng bèi yín xíng pāi mài
+    - hanzi: 如果 公司 破产 ， 我 的 房子 和 车 将 被 银行 拍卖
+      pinyin: rú guǒ gōng sī pò chǎn ， wǒ de fáng zi hé chē jiāng bèi yín háng pāi mài
   tags:
     - Finance
   pinyin: pò chǎn
@@ -5304,6 +5335,9 @@
   pinyin: liǎo bù qǐ
 - hanzi: 货
   translate: goods; package
+  sentences:
+    - hanzi: 现在 到货了 ， 他们 发短信 通知 我 过来 拿
+      pinyin: xiàn zài dào huò le ， tā men fā duǎn xìn tōng zhī wǒ guò lái ná
   tags:
     - Meetup 1
   pinyin: huò
