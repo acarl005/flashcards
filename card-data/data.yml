@@ -5258,6 +5258,72 @@
   tags:
     - Family 2
   pinyin: dù guò
+- hanzi: 留
+  translate: stay
+  sentences:
+    - hanzi: 因为 我 生病了 ， 所以 留 在 家里
+      pinyin: yīn wèi wǒ shēng bìng le ， suǒ yǐ liú zài jiā lǐ
+  tags:
+    - Preply 1
+  pinyin: liú
+- hanzi: 不同
+  translate: different
+  sentences:
+    - hanzi: 我 和 我 的 女朋友 在 不同 的 公司 工作
+      pinyin: wǒ hé wǒ de nǚ péng yǒu zài bù tóng de gōng sī gōng zuò
+  tags:
+    - Preply 1
+  pinyin: bù tóng
+- hanzi: 软件
+  translate: software; application
+  sentences:
+    - hanzi: 我 用 手机 软件 学习 中文
+      pinyin: wǒ yòng shǒu jī ruǎn jiàn xué xí zhōng wén
+  tags:
+    - Preply 1
+  pinyin: ruǎn jiàn
+- hanzi: 加班
+  translate: work overtime
+  sentences:
+    - hanzi: 我 需要 常常 加班
+      pinyin: wǒ xū yào cháng cháng jiā bān
+  tags:
+    - Preply 1
+  pinyin: jiā bān
+- hanzi: 危险
+  translate: dangerous
+  sentences:
+    - hanzi: 曼哈顿 不是 危险 的
+      pinyin: màn hā dùn bù shì wēi xiǎn de
+  tags:
+    - Preply 1
+  pinyin: wēi xiǎn
+- hanzi: 外卖
+  translate: take-out; to-go food
+  sentences:
+    - hanzi: 我们 经常 点 外卖
+      pinyin: wǒ men jīng cháng diǎn wài mài
+  tags:
+    - Preply 1
+  pinyin: wài mài
+- hanzi: 看情况
+  translate: depends on the situation
+  tags:
+    - Preply 1
+  pinyin: kàn qíng kuàng
+- hanzi: 季节
+  translate: season
+  sentences:
+    - hanzi: 你 最 喜欢 哪 个 季节 ？
+      pinyin: nǐ zuì xǐ huān nǎ gè jì jié ？
+  tags:
+    - Preply 1
+  pinyin: jì jié
+- hanzi: 阳光
+  translate: sunlight
+  tags:
+    - Preply 1
+  pinyin: yáng guāng
 - hanzi: 香港
   translate: Hong Kong
   tags:
