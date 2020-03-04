@@ -1081,103 +1081,103 @@
 - hanzi: 妈妈
   translate: mom; mama
   tags:
-    - Family
+    - Family 1
   pinyin: mā mā
 - hanzi: 爸爸
   translate: dad; papa
   tags:
-    - Family
+    - Family 1
   pinyin: bà bà
 - hanzi: 妻子
   translate: wife
   tags:
-    - Family
+    - Family 1
   pinyin: qī zi
 - hanzi: 丈夫
   translate: husband
   tags:
-    - Family
+    - Family 1
   pinyin: zhàng fū
 - hanzi: 家
   translate: home
   tags:
-    - Family
+    - Family 1
   pinyin: jiā
 - hanzi: 女儿
   translate: daughter
   tags:
-    - Family
+    - Family 1
   pinyin: nǚ ér
 - hanzi: 儿子
   translate: son
   tags:
-    - Family
+    - Family 1
   pinyin: ér zi
 - hanzi: 奶奶
-  translate: grandma
+  translate: paternal grandma
   tags:
-    - Family
+    - Family 1
   pinyin: nǎi nǎi
 - hanzi: 爷爷
-  translate: grandpa
+  translate: paternal grandpa
   tags:
-    - Family
+    - Family 1
   pinyin: yé yé
 - hanzi: 孩子
   translate: kids
   tags:
-    - Family
+    - Family 1
   pinyin: hái zi
 - hanzi: 哥哥
   translate: big brother
   tags:
-    - Family
+    - Family 1
   pinyin: gē gē
 - hanzi: 姐姐
   translate: big sister
   tags:
-    - Family
+    - Family 1
   pinyin: jiě jiě
 - hanzi: 弟弟
   translate: little brother
   tags:
-    - Family
+    - Family 1
   pinyin: dì dì
 - hanzi: 妹妹
   translate: little sister
   tags:
-    - Family
+    - Family 1
   pinyin: mèi mèi
 - hanzi: 手
   translate: hand
   pinyin: shǒu
   tags:
-    - Family
+    - Family 1
 - hanzi: 眼睛
   translate: eye
   pinyin: yǎn jīng
   tags:
-    - Family
+    - Family 1
 - hanzi: 嘴
   translate: mouth
   pinyin: zuǐ
   tags:
-    - Family
+    - Family 1
 - hanzi: 头发
   translate: hair
   pinyin: tóu fā
   tags:
-    - Family
+    - Family 1
 - hanzi: 耳朵
   translate: ear
   pinyin: ěr duo
   tags:
-    - Family
+    - Family 1
 - hanzi: 鼻子
   translate: nose
   pinyin: bí zi
   tags:
-    - Family
+    - Family 1
 - hanzi: 着
   translate: persistent state particle (follows a verb to indicate it is an ongoing state)
   sentences:
@@ -3609,7 +3609,8 @@
   translate: outdoor; open air
   sentences:
     - hanzi: 帐篷 被 儿子 弄 坏了 ， 我们 这 次 旅行 只好 在 露天 睡了
-      pinyin: zhàng péng bèi ér zi nòng huài le ， wǒ men zhè cì lǚ xíng zhǐ hǎo zài lù tiān shuì le
+      pinyin: zhàng péng bèi ér zi nòng huài le ， wǒ men zhè cì lǚ xíng zhǐ hǎo zài lù
+        tiān shuì le
   tags:
     - Travel 2
   pinyin: lù tiān
@@ -5129,6 +5130,134 @@
   tags:
     - Health 3
   pinyin: jīng guò
+- hanzi: 外公
+  translate: maternal grandpa
+  tags:
+    - Family 2
+  pinyin: wài gōng
+- hanzi: 外婆
+  translate: maternal grandma
+  tags:
+    - Family 2
+  pinyin: wài pó
+- hanzi: 伯伯
+  translate: paternal (older) uncle
+  tags:
+    - Family 2
+  pinyin: bó bó
+- hanzi: 叔叔
+  translate: paternal (younger) uncle
+  tags:
+    - Family 2
+  pinyin: shū shū
+- hanzi: 姑姑
+  translate: paternal aunt
+  tags:
+    - Family 2
+  pinyin: gū gū
+- hanzi: 舅舅
+  translate: maternal uncle
+  tags:
+    - Family 2
+  pinyin: jiù jiù
+- hanzi: 阿姨
+  translate: maternal aunt
+  tags:
+    - Family 2
+  pinyin: ā yí
+- hanzi: 堂哥
+  translate: paternal (older) cousin
+  tags:
+    - Family 2
+  pinyin: táng gē
+- hanzi: 表姐
+  translate: maternal (older) cousin
+  tags:
+    - Family 2
+  pinyin: biǎo jiě
+- hanzi: 兄弟
+  translate: brother
+  tags:
+    - Family 2
+  pinyin: xiōng dì
+- hanzi: 姐妹
+  translate: sister
+  tags:
+    - Family 2
+  pinyin: jiě mèi
+- hanzi: 亲戚
+  translate: relative
+  tags:
+    - Family 2
+  pinyin: qīn qī
+- hanzi: 父亲
+  translate: father
+  tags:
+    - Family 2
+  pinyin: fù qīn
+- hanzi: 母亲
+  translate: mother
+  tags:
+    - Family 2
+  pinyin: mǔ qīn
+- hanzi: 来自
+  translate: comes from (modifier)
+  sentences:
+    - hanzi: 我 在 吃 来自 日本 的 寿司
+      pinyin: wǒ zài chī lái zì rì běn de shòu sī
+  tags:
+    - Family 2
+  pinyin: lái zì
+- hanzi: 做客
+  translate: be a guest
+  sentences:
+    - hanzi: 星期天 ， 堂哥 和 堂姐 将 来 我 家 做客
+      pinyin: xīng qī tiān ， táng gē hé táng jiě jiāng lái wǒ jiā zuò kè
+  tags:
+    - Family 2
+  pinyin: zuò kè
+- hanzi: 属
+  translate: be of a zodiac sign
+  sentences:
+    - hanzi: 我 属 羊
+      pinyin: wǒ shǔ yáng
+  tags:
+    - Family 2
+  pinyin: shǔ
+- hanzi: 龙
+  translate: dragon
+  tags:
+    - Family 2
+  pinyin: lóng
+- hanzi: 礼物
+  translate: gift
+  tags:
+    - Family 2
+  pinyin: lǐ wù
+- hanzi: 关于
+  translate: about; on a topic
+  sentences:
+    - hanzi: 这本 关于 历史 的 书
+      pinyin: zhè běn guān yú lì shǐ de shū
+  tags:
+    - Family 2
+  pinyin: guān yú
+- hanzi: 愉快
+  translate: pleasant; joyful
+  sentences:
+    - hanzi: 我们 一定 会 度过 一个 愉快 的 周末
+      pinyin: wǒ men yī dìng huì dù guò yī gè yú kuài de zhōu mò
+  tags:
+    - Family 2
+  pinyin: yú kuài
+- hanzi: 度过
+  translate: pass time; spend time
+  sentences:
+    - hanzi: 我们 一定 会 度过 一个 愉快 的 周末
+      pinyin: wǒ men yī dìng huì dù guò yī gè yú kuài de zhōu mò
+  tags:
+    - Family 2
+  pinyin: dù guò
 - hanzi: 香港
   translate: Hong Kong
   tags:
