@@ -5558,6 +5558,55 @@
   tags:
     - Fluent City 3
   pinyin: shuài gē
+- hanzi: 看起来
+  translate: looks like; resembles
+  sentences:
+    - hanzi: 这 家 餐厅 的 菜 看起来 很 好吃
+      pinyin: zhè jiā cān tīng de cài kàn qǐ lái hěn hǎo chī
+  tags:
+    - Fluent City 4
+  pinyin: kàn qǐ lái
+- hanzi: 刚好
+  translate: just right
+  tags:
+    - Fluent City 4
+  pinyin: gāng hǎo
+- hanzi: 烫
+  translate: very hot; scalding
+  tags:
+    - Fluent City 4
+  pinyin: tàng
+- hanzi: 游戏
+  translate: game
+  sentences:
+    - hanzi: 我 上周末 打了 电子 游戏
+      pinyin: wǒ shàng zhōu mò dǎ le diàn zi yóu xì
+  tags:
+    - Fluent City 4
+  pinyin: yóu xì
+- hanzi: 雾
+  translate: fog
+  sentences:
+    - hanzi: 下 雾 了
+      pinyin: xià wù le
+  tags:
+    - Fluent City 4
+  pinyin: wù
+- hanzi: 聊天
+  translate: chat; gossip
+  tags:
+    - Fluent City 4
+  pinyin: liáo tiān
+- hanzi: 纯素食
+  translate: vegan food
+  tags:
+    - Fluent City 4
+  pinyin: chún sù shí
+- hanzi: 约会
+  translate: date; appointment
+  tags:
+    - Fluent City 4
+  pinyin: yuē huì
 - hanzi: 日常
   translate: daily
   tags:
