@@ -5384,6 +5384,98 @@
   tags:
     - Preply 1
   pinyin: yáng guāng
+- hanzi: 网络
+  translate: network; internet
+  tags:
+    - Preply 2
+  pinyin: wǎng luò
+- hanzi: 焦虑
+  translate: anxious; troubled
+  tags:
+    - Preply 2
+  pinyin: jiāo lǜ
+- hanzi: 下载
+  translate: download
+  tags:
+    - Preply 2
+  pinyin: xià zài
+- hanzi: 公寓
+  translate: apartment
+  tags:
+    - Preply 2
+  pinyin: gōng yù
+- hanzi: 大部分
+  translate: most; biggest portion
+  sentences:
+    - hanzi: 一天 大部分 时间 我 都 工作
+      pinyin: yī tiān dà bù fēn shí jiān wǒ dōu gōng zuò
+  tags:
+    - Preply 2
+  pinyin: dà bù fēn
+- hanzi: 加州
+  translate: California
+  tags:
+    - Preply 2
+  pinyin: jiā zhōu
+- hanzi: 倍
+  translate: multiples of; times
+  sentences:
+    - hanzi: 到 台湾 的 航班 的 时间 是 到 加州 的 航班 的 时间 的 两倍
+      pinyin: dào tái wān de háng bān de shí jiān shì dào jiā zhōu de háng bān de shí
+        jiān de liǎng bèi
+  tags:
+    - Preply 2
+  pinyin: bèi
+- hanzi: 唐人街
+  translate: Chinatown
+  tags:
+    - Preply 2
+  pinyin: táng rén jiē
+- hanzi: 想念
+  translate: miss; long to see again
+  tags:
+    - Preply 2
+  pinyin: xiǎng niàn
+- hanzi: 保重
+  translate: take care of oneself
+  tags:
+    - Preply 2
+  pinyin: bǎo zhòng
+- hanzi: 快餐
+  translate: fast food
+  tags:
+    - Preply 2
+  pinyin: kuài cān
+- hanzi: 套餐
+  translate: set meal
+  tags:
+    - Preply 2
+  pinyin: tào cān
+- hanzi: 自助餐
+  translate: buffet
+  tags:
+    - Preply 2
+  pinyin: zì zhù cān
+- hanzi: 盒饭
+  translate: box lunch
+  tags:
+    - Preply 2
+  pinyin: hé fàn
+- hanzi: 改天
+  translate: some other day; another day
+  tags:
+    - Preply 2
+  pinyin: gǎi tiān
+- hanzi: 小吃
+  translate: snack (from street vendor)
+  tags:
+    - Preply 2
+  pinyin: xiǎo chī
+- hanzi: 零食
+  translate: snack (processed, packaged)
+  tags:
+    - Preply 2
+  pinyin: líng shí
 - hanzi: 香港
   translate: Hong Kong
   tags:
