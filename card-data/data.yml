@@ -4240,17 +4240,17 @@
     - hanzi: 我 想 租 一 套 房子
       pinyin: wǒ xiǎng zū yī tào fáng zi
   tags:
-    - Housing
+    - Housing 1
   pinyin: fáng zi
 - hanzi: 别墅
   translate: villa
   tags:
-    - Housing
+    - Housing 1
   pinyin: bié shù
 - hanzi: 租
   translate: rent; lease
   tags:
-    - Housing
+    - Housing 1
   pinyin: zū
 - hanzi: 租金
   translate: rent payment
@@ -4258,7 +4258,7 @@
     - hanzi: 这 套 别墅 月 租金 多少 钱 ？
       pinyin: zhè tào bié shù yuè zū jīn duō shǎo qián ？
   tags:
-    - Housing
+    - Housing 1
   pinyin: zū jīn
 - hanzi: 由
   translate: by; through
@@ -4266,12 +4266,12 @@
     - hanzi: 水电费 由 谁 支付 ？
       pinyin: shuǐ diàn fèi yóu shéi zhī fù ？
   tags:
-    - Housing
+    - Housing 1
   pinyin: yóu
 - hanzi: 水电费
   translate: utilities bill (water + electric)
   tags:
-    - Housing
+    - Housing 1
   pinyin: shuǐ diàn fèi
 - hanzi: 支付
   translate: pay
@@ -4279,12 +4279,12 @@
     - hanzi: 水电费 由 承租人 支付
       pinyin: shuǐ diàn fèi yóu chéng zū rén zhī fù
   tags:
-    - Housing
+    - Housing 1
   pinyin: zhī fù
 - hanzi: 承租人
   translate: tenant; lessee
   tags:
-    - Housing
+    - Housing 1
   pinyin: chéng zū rén
 - hanzi: 取暖费
   translate: heating bill
@@ -4292,7 +4292,7 @@
     - hanzi: 取暖费 由 谁 支付 ？
       pinyin: qǔ nuǎn fèi yóu shéi zhī fù ？
   tags:
-    - Housing
+    - Housing 1
   pinyin: qǔ nuǎn fèi
 - hanzi: 房东
   translate: landlord
@@ -4300,7 +4300,7 @@
     - hanzi: 我 什么 时候 能 和 房东 签 合同 ？
       pinyin: wǒ shén me shí hòu néng hé fáng dōng qiān hé tóng ？
   tags:
-    - Housing
+    - Housing 1
   pinyin: fáng dōng
 - hanzi: 要求
   translate: require; request; demand
@@ -4308,12 +4308,12 @@
     - hanzi: 房东 要求 承租人 支付 五 千 块 押金
       pinyin: fáng dōng yāo qiú chéng zū rén zhī fù wǔ qiān kuài yā jīn
   tags:
-    - Housing
+    - Housing 1
   pinyin: yāo qiú
 - hanzi: 押金
   translate: deposit
   tags:
-    - Housing
+    - Housing 1
   pinyin: yā jīn
 - hanzi: 中介
   translate: agent; intermediary
@@ -4321,12 +4321,12 @@
     - hanzi: 中介 费 由 房东 和 承租人 一起 支付
       pinyin: zhōng jiè fèi yóu fáng dōng hé chéng zū rén yī qǐ zhī fù
   tags:
-    - Housing
+    - Housing 1
   pinyin: zhōng jiè
 - hanzi: 计算
   translate: calculate, count, compute
   tags:
-    - Housing
+    - Housing 1
   pinyin: jì suàn
 - hanzi: 开始
   translate: start; begin
@@ -4334,7 +4334,7 @@
     - hanzi: 租金 从 合同 签订 的 时间 开始 计算
       pinyin: zū jīn cóng hé tóng qiān dìng de shí jiān kāi shǐ jì suàn
   tags:
-    - Housing
+    - Housing 1
   pinyin: kāi shǐ
 - hanzi: 结束
   translate: end; conclusion
@@ -4342,7 +4342,7 @@
     - hanzi: 押金 在 合同 结束 的 时候 退回
       pinyin: yā jīn zài hé tóng jié shù de shí hòu tuì huí
   tags:
-    - Housing
+    - Housing 1
   pinyin: jié shù
 - hanzi: 违约
   translate: break a contract/promise
@@ -4351,12 +4351,12 @@
       pinyin: rú guǒ fáng dōng wéi yuē ， bì xū péi cháng chéng zū rén yī gè yuè de zū
         jīn
   tags:
-    - Housing
+    - Housing 1
   pinyin: wéi yuē
 - hanzi: 赔偿
   translate: compensate; compensation
   tags:
-    - Housing
+    - Housing 1
   pinyin: péi cháng
 - hanzi: 签订
   translate: sign; agree to sign
@@ -4364,7 +4364,7 @@
     - hanzi: 租金 从 合同 签订 的 时间 开始 计算
       pinyin: zū jīn cóng hé tóng qiān dìng de shí jiān kāi shǐ jì suàn
   tags:
-    - Housing
+    - Housing 1
   pinyin: qiān dìng
 - hanzi: 检查
   translate: inspect; examine
@@ -4372,7 +4372,7 @@
     - hanzi: 在 退房 的 时候 房东 检查 房子 的 情况
       pinyin: zài tuì fáng de shí hòu fáng dōng jiǎn chá fáng zi de qíng kuàng
   tags:
-    - Housing
+    - Housing 1
   pinyin: jiǎn chá
 - hanzi: 情况
   translate: situation; condition; circumstance
@@ -4380,7 +4380,7 @@
     - hanzi: 在 退房 的 时候 房东 检查 房子 的 情况
       pinyin: zài tuì fáng de shí hòu fáng dōng jiǎn chá fáng zi de qíng kuàng
   tags:
-    - Housing
+    - Housing 1
   pinyin: qíng kuàng
 - hanzi: 退回
   translate: return; send back
@@ -4388,7 +4388,7 @@
     - hanzi: 押金 在 合同 结束 的 时候 退回
       pinyin: yā jīn zài hé tóng jié shù de shí hòu tuì huí
   tags:
-    - Housing
+    - Housing 1
   pinyin: tuì huí
 - hanzi: 广告
   translate: advertisement; commercial
@@ -5318,6 +5318,99 @@
   tags:
     - People
   pinyin: láo dao
+- hanzi: 郊区
+  translate: suburbs
+  tags:
+    - Housing 2
+  pinyin: jiāo qū
+- hanzi: 热闹
+  translate: lively; bustling
+  sentences:
+    - hanzi: 城里 虽然 热闹 ， 但是 太 拥挤 了
+      pinyin: chéng lǐ suī rán rè nào ， dàn shì tài yōng jǐ le
+  tags:
+    - Housing 2
+  pinyin: rè nào
+- hanzi: 拥挤
+  translate: crowded; packed
+  sentences:
+    - hanzi: 城里 虽然 热闹 ， 但是 太 拥挤 了
+      pinyin: chéng lǐ suī rán rè nào ， dàn shì tài yōng jǐ le
+  tags:
+    - Housing 2
+  pinyin: yōng jǐ
+- hanzi: 遥远
+  translate: distant; remote; faraway
+  sentences:
+    - hanzi: 郊区 虽然 遥远 ， 但是 非常 安静
+      pinyin: jiāo qū suī rán yáo yuǎn ， dàn shì fēi cháng ān jìng
+  tags:
+    - Housing 2
+  pinyin: yáo yuǎn
+- hanzi: 有的
+  translate: some
+  sentences:
+    - hanzi: 有的 人 在 郊区 上班
+      pinyin: yǒu de rén zài jiāo qū shàng bān
+  tags:
+    - Housing 2
+  pinyin: yǒu de
+- hanzi: 出发
+  translate: set out; depart
+  sentences:
+    - hanzi: 每天 早上 我 从 家 出发 开车 去 城里 上班
+      pinyin: měi tiān zǎo shàng wǒ cóng jiā chū fā kāi chē qù chéng lǐ shàng bān
+  tags:
+    - Housing 2
+  pinyin: chū fā
+- hanzi: 市中心
+  translate: downtown
+  tags:
+    - Housing 2
+  pinyin: shì zhōng xīn
+- hanzi: 楼梯
+  translate: stairs
+  tags:
+    - Housing 2
+  pinyin: lóu tī
+- hanzi: 阳台
+  translate: balcony
+  tags:
+    - Housing 2
+  pinyin: yáng tái
+- hanzi: 书房
+  translate: study (room)
+  tags:
+    - Housing 2
+  pinyin: shū fáng
+- hanzi: 健身房
+  translate: (home) gym
+  tags:
+    - Housing 2
+  pinyin: jiàn shēn fáng
+- hanzi: 卫生间
+  translate: restroom; bathroom
+  tags:
+    - Housing 2
+  pinyin: wèi shēng jiān
+- hanzi: 家具
+  translate: furniture
+  tags:
+    - Housing 2
+  pinyin: jiā jù
+- hanzi: 电器
+  translate: appliance; device
+  tags:
+    - Housing 2
+  pinyin: diàn qì
+- hanzi: 适合
+  translate: suitable for; suits; fits
+  sentences:
+    - hanzi: 这 座 别墅 非常 适合 三代 人 一起 居住
+      pinyin: zhè zuò bié shù fēi cháng shì hé sān dài rén yī qǐ jū zhù
+  tags:
+    - Housing 2
+  pinyin: shì hé
 - hanzi: 留
   translate: stay
   sentences:
