@@ -5411,6 +5411,93 @@
   tags:
     - Housing 2
   pinyin: shì hé
+- hanzi: 魔法师
+  translate: magician
+  tags:
+    - Quotation
+  pinyin: mó fǎ shī
+- hanzi: 森林
+  translate: forest
+  tags:
+    - Quotation
+  pinyin: sēn lín
+- hanzi: 公主
+  translate: princess
+  tags:
+    - Quotation
+  pinyin: gōng zhǔ
+- hanzi: 王后
+  translate: queen
+  tags:
+    - Quotation
+  pinyin: wáng hòu
+- hanzi: 作家
+  translate: writer; author
+  tags:
+    - Quotation
+  pinyin: zuò jiā
+- hanzi: 宇航员
+  translate: astronaut
+  tags:
+    - Profession
+  pinyin: yǔ háng yuán
+- hanzi: 芭蕾舞
+  translate: ballet
+  tags:
+    - Profession
+  pinyin: bā lěi wǔ
+- hanzi: 海盗
+  translate: pirate
+  tags:
+    - Profession
+  pinyin: hǎi dào
+- hanzi: 演员
+  translate: actor; actress
+  tags:
+    - Profession
+  pinyin: yǎn yuán
+- hanzi: 记者
+  translate: reporter; journalist
+  tags:
+    - Profession
+  pinyin: jì zhě
+- hanzi: 科学家
+  translate: scientist
+  tags:
+    - Profession
+  pinyin: kē xué jiā
+- hanzi: 实现
+  translate: realize; achieve
+  sentences:
+    - hanzi: 邻居 说 他 实现了 成为 宇航员 的 梦想
+      pinyin: lín jū shuō tā shí xiàn le chéng wèi yǔ háng yuán de mèng xiǎng
+  tags:
+    - Profession
+  pinyin: shí xiàn
+- hanzi: 梦想
+  translate: dream
+  sentences:
+    - hanzi: 宇航员 说 他们 的 梦想 是 回家
+      pinyin: yǔ háng yuán shuō tā men de mèng xiǎng shì huí jiā
+  tags:
+    - Profession
+  pinyin: mèng xiǎng
+- hanzi: 理想
+  translate: aspiration
+  sentences:
+    - hanzi: 哥哥 说 他的 理想 是 当 一 名 作家
+      pinyin: gē gē shuō tā de lǐ xiǎng shì dāng yī míng zuò jiā
+  tags:
+    - Profession
+  pinyin: lǐ xiǎng
+- hanzi: 愿望
+  translate: a wish; desire
+  sentences:
+    - hanzi: 海盗 说 他的 愿望 是 不 当 海盗
+      pinyin: hǎi dào shuō tā de yuàn wàng shì bù dāng hǎi dào
+  tags:
+    - Profession
+  pinyin: yuàn wàng
 - hanzi: 留
   translate: stay
   sentences:
@@ -5863,11 +5950,6 @@
   tags:
     - CLA 1
   pinyin: mù
-- hanzi: 林
-  translate: forest
-  tags:
-    - CLA 1
-  pinyin: lín
 - hanzi: 火
   translate: fire
   tags:
