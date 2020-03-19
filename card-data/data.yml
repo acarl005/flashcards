@@ -2587,32 +2587,32 @@
     - hanzi: 你 的 职业 是 什么 ？
       pinyin: nǐ de zhí yè shì shén me ？
   tags:
-    - Occupation
+    - Occupation 1
   pinyin: zhí yè
 - hanzi: 老师
   translate: teacher
   tags:
-    - Occupation
+    - Occupation 1
   pinyin: lǎo shī
 - hanzi: 警察
   translate: policeman
   tags:
-    - Occupation
+    - Occupation 1
   pinyin: jǐng chá
 - hanzi: 厨师
   translate: chef
   tags:
-    - Occupation
+    - Occupation 1
   pinyin: chú shī
 - hanzi: 医生
   translate: doctor
   tags:
-    - Occupation
+    - Occupation 1
   pinyin: yī shēng
 - hanzi: 律师
   translate: lawyer
   tags:
-    - Occupation
+    - Occupation 1
   pinyin: lǜ shī
 - hanzi: 从事
   translate: undertake; embark; commit to
@@ -2620,7 +2620,7 @@
     - hanzi: 你 想 从事 什么 职业 ？
       pinyin: nǐ xiǎng cóng shì shén me zhí yè ？
   tags:
-    - Occupation
+    - Occupation 1
   pinyin: cóng shì
 - hanzi: 成为
   translate: become
@@ -2628,17 +2628,17 @@
     - hanzi: 我 想 成为 医生
       pinyin: wǒ xiǎng chéng wèi yī shēng
   tags:
-    - Occupation
+    - Occupation 1
   pinyin: chéng wèi
 - hanzi: 工程师
   translate: engineer
   tags:
-    - Occupation
+    - Occupation 1
   pinyin: gōng chéng shī
 - hanzi: 警察局
   translate: police office
   tags:
-    - Occupation
+    - Occupation 1
   pinyin: jǐng chá jú
 - hanzi: 学校
   translate: school
@@ -2646,17 +2646,17 @@
     - hanzi: 爸爸 去 学校 上班 了
       pinyin: bà bà qù xué xiào shàng bān le
   tags:
-    - Occupation
+    - Occupation 1
   pinyin: xué xiào
 - hanzi: 医院
   translate: hospital
   tags:
-    - Occupation
+    - Occupation 1
   pinyin: yī yuàn
 - hanzi: 银行
   translate: bank
   tags:
-    - Occupation
+    - Occupation 1
   pinyin: yín háng
 - hanzi: 每
   translate: each; per
@@ -2664,7 +2664,7 @@
     - hanzi: 我 每天 开车 去 医院 的
       pinyin: wǒ měi tiān kāi chē qù yī yuàn de
   tags:
-    - Occupation
+    - Occupation 1
   pinyin: měi
 - hanzi: 怎么
   translate: how
@@ -2672,7 +2672,7 @@
     - hanzi: 你 女儿 昨天 怎么 去 学校 的
       pinyin: nǐ nǚ ér zuó tiān zěn me qù xué xiào de
   tags:
-    - Occupation
+    - Occupation 1
   pinyin: zěn me
 - hanzi: 牙
   translate: tooth
@@ -5439,32 +5439,32 @@
 - hanzi: 宇航员
   translate: astronaut
   tags:
-    - Profession
+    - Occupation 2
   pinyin: yǔ háng yuán
 - hanzi: 芭蕾舞
   translate: ballet
   tags:
-    - Profession
+    - Occupation 2
   pinyin: bā lěi wǔ
 - hanzi: 海盗
   translate: pirate
   tags:
-    - Profession
+    - Occupation 2
   pinyin: hǎi dào
 - hanzi: 演员
   translate: actor; actress
   tags:
-    - Profession
+    - Occupation 2
   pinyin: yǎn yuán
 - hanzi: 记者
   translate: reporter; journalist
   tags:
-    - Profession
+    - Occupation 2
   pinyin: jì zhě
 - hanzi: 科学家
   translate: scientist
   tags:
-    - Profession
+    - Occupation 2
   pinyin: kē xué jiā
 - hanzi: 实现
   translate: realize; achieve
@@ -5472,7 +5472,7 @@
     - hanzi: 邻居 说 他 实现了 成为 宇航员 的 梦想
       pinyin: lín jū shuō tā shí xiàn le chéng wèi yǔ háng yuán de mèng xiǎng
   tags:
-    - Profession
+    - Occupation 2
   pinyin: shí xiàn
 - hanzi: 梦想
   translate: dream
@@ -5480,7 +5480,7 @@
     - hanzi: 宇航员 说 他们 的 梦想 是 回家
       pinyin: yǔ háng yuán shuō tā men de mèng xiǎng shì huí jiā
   tags:
-    - Profession
+    - Occupation 2
   pinyin: mèng xiǎng
 - hanzi: 理想
   translate: aspiration
@@ -5488,7 +5488,7 @@
     - hanzi: 哥哥 说 他的 理想 是 当 一 名 作家
       pinyin: gē gē shuō tā de lǐ xiǎng shì dāng yī míng zuò jiā
   tags:
-    - Profession
+    - Occupation 2
   pinyin: lǐ xiǎng
 - hanzi: 愿望
   translate: a wish; desire
@@ -5496,8 +5496,64 @@
     - hanzi: 海盗 说 他的 愿望 是 不 当 海盗
       pinyin: hǎi dào shuō tā de yuàn wàng shì bù dāng hǎi dào
   tags:
-    - Profession
+    - Occupation 2
   pinyin: yuàn wàng
+- hanzi: 十分
+  translate: ten points; idiomatic for very
+  sentences:
+    - hanzi: 王老 十分 严格
+      pinyin: wáng lǎo shí fēn yán gé
+  tags:
+    - Degree
+  pinyin: shí fēn
+- hanzi: 脏
+  translate: dirty
+  tags:
+    - Degree
+  pinyin: zàng
+- hanzi: 破
+  translate: broken; damaged
+  tags:
+    - Degree
+  pinyin: pò
+- hanzi: 臭
+  translate: smelly
+  tags:
+    - Degree
+  pinyin: chòu
+- hanzi: 乱
+  translate: messy
+  tags:
+    - Degree
+  pinyin: luàn
+- hanzi: 实在
+  translate: really; well-done
+  sentences:
+    - hanzi: 孩子 的 房间 实在 乱
+      pinyin: hái zi de fáng jiān shí zài luàn
+  tags:
+    - Degree
+  pinyin: shí zài
+- hanzi: 垃圾桶
+  translate: garbage can
+  tags:
+    - Degree
+  pinyin: lā jī tǒng
+- hanzi: 的确
+  translate: truly; really; indeed
+  tags:
+    - Degree
+  pinyin: dí què
+- hanzi: 尤其
+  translate: especially
+  tags:
+    - Degree
+  pinyin: yóu qí
+- hanzi: 主任
+  translate: director
+  tags:
+    - Degree
+  pinyin: zhǔ rèn
 - hanzi: 留
   translate: stay
   sentences:
