@@ -5712,6 +5712,99 @@
   tags:
     - Preply 2
   pinyin: líng shí
+- hanzi: 牌子
+  translate: brand; trademark
+  tags:
+    - Preply 3
+  pinyin: pái zi
+- hanzi: 型号
+  translate: model number
+  tags:
+    - Preply 3
+  pinyin: xíng hào
+- hanzi: 尺寸
+  translate: size; measurement
+  tags:
+    - Preply 3
+  pinyin: chǐ cùn
+- hanzi: 特点
+  translate: feature
+  tags:
+    - Preply 3
+  pinyin: tè diǎn
+- hanzi: 电子产品
+  translate: electronic product
+  tags:
+    - Preply 3
+  pinyin: diàn zi chǎn pǐn
+- hanzi: 手提电脑
+  translate: laptop computer
+  tags:
+    - Preply 3
+  pinyin: shǒu tí diàn nǎo
+- hanzi: 台式电脑
+  translate: desktop computer
+  tags:
+    - Preply 3
+  pinyin: tái shì diàn nǎo
+- hanzi: 质量
+  translate: quality
+  tags:
+    - Preply 3
+  pinyin: zhì liàng
+- hanzi: 价格
+  translate: price
+  tags:
+    - Preply 3
+  pinyin: jià gé
+- hanzi: 全部
+  translate: whole; all; total; complete
+  tags:
+    - Preply 3
+  pinyin: quán bù
+- hanzi: 程序
+  translate: computer program
+  tags:
+    - Preply 3
+  pinyin: chéng xù
+- hanzi: 就算
+  translate: even if
+  sentences:
+    - hanzi: 就算 手机 很 贵 ， 年轻 还 会 买 想要 的 手机
+      pinyin: jiù suàn shǒu jī hěn guì ， nián qīng hái huì mǎi xiǎng yào de shǒu jī
+  tags:
+    - Preply 3
+  pinyin: jiù suàn
+- hanzi: 摄像头
+  translate: camera (on a phone or computer)
+  tags:
+    - Preply 3
+  pinyin: shè xiàng tóu
+- hanzi: 屏幕
+  translate: screen
+  tags:
+    - Preply 3
+  pinyin: píng mù
+- hanzi: 充电
+  translate: charge (a battery)
+  tags:
+    - Preply 3
+  pinyin: chōng diàn
+- hanzi: 电池
+  translate: battery
+  tags:
+    - Preply 3
+  pinyin: diàn chí
+- hanzi: 持续
+  translate: last; endure
+  tags:
+    - Preply 3
+  pinyin: chí xù
+- hanzi: 无线
+  translate: wireless
+  tags:
+    - Preply 3
+  pinyin: wú xiàn
 - hanzi: 香港
   translate: Hong Kong
   tags:
