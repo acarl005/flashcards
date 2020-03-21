@@ -5554,6 +5554,68 @@
   tags:
     - Degree
   pinyin: zhǔ rèn
+- hanzi: 菠萝
+  translate: pineapple
+  tags:
+    - Food 3
+  pinyin: bō luó
+- hanzi: 牛油果
+  translate: avocado
+  tags:
+    - Food 3
+  pinyin: niú yóu guǒ
+- hanzi: 葡萄
+  translate: grape
+  tags:
+    - Food 3
+  pinyin: pú táo
+- hanzi: 要命
+  translate: terribly; extremely
+  sentences:
+    - hanzi: 冰箱 里 的 牛油果 硬 得 要命
+      pinyin: bīng xiāng lǐ de niú yóu guǒ yìng dé yào mìng
+  tags:
+    - Food 3
+  pinyin: yào mìng
+- hanzi: 硬
+  translate: hard; tough; firm
+  sentences:
+    - hanzi: 冰箱 里 的 牛油果 硬 得 要命
+      pinyin: bīng xiāng lǐ de niú yóu guǒ yìng dé yào mìng
+  tags:
+    - Food 3
+  pinyin: yìng
+- hanzi: 要死
+  translate: awfully; terribly
+  sentences:
+    - hanzi: 盘子 上 的 菠萝 酸 得 要死
+      pinyin: pán zi shàng de bō luó suān dé yào sǐ
+  tags:
+    - Food 3
+  pinyin: yào sǐ
+- hanzi: 香
+  translate: fragrant
+  tags:
+    - Food 3
+  pinyin: xiāng
+- hanzi: 咸
+  translate: salty
+  tags:
+    - Food 3
+  pinyin: xián
+- hanzi: 不得了
+  translate: extremely (using 得)
+  sentences:
+    - hanzi: 客人 说 道 菜 咸 得 不得了
+      pinyin: kè rén shuō dào cài xián dé bù dé le
+  tags:
+    - Food 3
+  pinyin: bù dé le
+- hanzi: 淡
+  translate: dull; bland
+  tags:
+    - Food 3
+  pinyin: dàn
 - hanzi: 留
   translate: stay
   sentences:
