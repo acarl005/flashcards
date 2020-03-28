@@ -5867,6 +5867,91 @@
   tags:
     - Preply 3
   pinyin: wú xiàn
+- hanzi: 无聊
+  translate: bored
+  tags:
+    - Preply 4
+  pinyin: wú liáo
+- hanzi: 保护
+  translate: protect
+  tags:
+    - Preply 4
+  pinyin: bǎo hù
+- hanzi: 文件
+  translate: file; paper
+  tags:
+    - Preply 4
+  pinyin: wén jiàn
+- hanzi: 设置
+  translate: configure; set up; install
+  tags:
+    - Preply 4
+  pinyin: shè zhì
+- hanzi: 运行
+  translate: run (a program); operate
+  tags:
+    - Preply 4
+  pinyin: yùn xíng
+- hanzi: 视频
+  translate: video
+  tags:
+    - Preply 4
+  pinyin: shì pín
+- hanzi: 触屏
+  translate: touch screen
+  tags:
+    - Preply 4
+  pinyin: chù píng
+- hanzi: 键盘
+  translate: keyboard
+  tags:
+    - Preply 4
+  pinyin: jiàn pán
+- hanzi: 机械
+  translate: mechanical
+  tags:
+    - Preply 4
+  pinyin: jī xiè
+- hanzi: 鼠标
+  translate: (computer) mouse
+  tags:
+    - Preply 4
+  pinyin: shǔ biāo
+- hanzi: 蓝牙
+  translate: bluetooth
+  tags:
+    - Preply 4
+  pinyin: lán yá
+- hanzi: 无线
+  translate: wireless
+  tags:
+    - Preply 4
+  pinyin: wú xiàn
+- hanzi: 系统
+  translate: system
+  tags:
+    - Preply 4
+  pinyin: xì tǒng
+- hanzi: 数据
+  translate: data
+  tags:
+    - Preply 4
+  pinyin: shù jù
+- hanzi: 硬件
+  translate: hardware
+  tags:
+    - Preply 4
+  pinyin: yìng jiàn
+- hanzi: 像素
+  translate: pixel
+  tags:
+    - Preply 4
+  pinyin: xiàng sù
+- hanzi: 镜头
+  translate: camera lens
+  tags:
+    - Preply 4
+  pinyin: jìng tóu
 - hanzi: 香港
   translate: Hong Kong
   tags:
