@@ -2243,7 +2243,7 @@
     - Food 2
   pinyin: tián
 - hanzi: 味道
-  translate: taste
+  translate: taste; flavor
   tags:
     - Food 2
   pinyin: wèi dào
@@ -5616,6 +5616,67 @@
   tags:
     - Food 3
   pinyin: dàn
+- hanzi: 天哪
+  translate: omg!
+  tags:
+    - Exclamation
+  pinyin: tiān nǎ
+- hanzi: 我的妈呀
+  translate: my mother!
+  tags:
+    - Exclamation
+  pinyin: wǒ de mā ya
+- hanzi: 小气
+  translate: stingy; cheap
+  sentences:
+    - hanzi: 你 的 男朋友 那么 小气
+      pinyin: nǐ de nán péng yǒu nà me xiǎo qì
+  tags:
+    - Exclamation
+  pinyin: xiǎo qì
+- hanzi: 竟然
+  translate: surprisingly; unexpectedly
+  sentences:
+    - hanzi: 这个 菠萝 竟然 这么 甜 ！
+      pinyin: zhè gè bō luó jìng rán zhè me tián ！
+  tags:
+    - Exclamation
+  pinyin: jìng rán
+- hanzi: 尝
+  translate: to taste
+  tags:
+    - Daily Life
+  pinyin: cháng
+- hanzi: 醒
+  translate: awaken
+  tags:
+    - Daily Life
+  pinyin: xǐng
+- hanzi: 下棋
+  translate: play chess
+  tags:
+    - Daily Life
+  pinyin: xià qí
+- hanzi: 记住
+  translate: remember
+  tags:
+    - Complement
+  pinyin: jì zhù
+- hanzi: 回忆
+  translate: memories
+  tags:
+    - Complement
+  pinyin: huí yì
+- hanzi: 却
+  translate: yet; but
+  tags:
+    - Complement
+  pinyin: què
+- hanzi: 车牌
+  translate: license plate
+  tags:
+    - Complement
+  pinyin: chē pái
 - hanzi: 留
   translate: stay
   sentences:
