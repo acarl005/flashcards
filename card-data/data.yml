@@ -1184,47 +1184,47 @@
     - hanzi: 妈妈 穿着 一件 粉色 的 毛衣
       pinyin: mā mā chuān zhe yī jiàn fěn sè de máo yī
   tags:
-    - Clothing
+    - Clothing 1
   pinyin: zhe
 - hanzi: 毛衣
   translate: sweater
   tags:
-    - Clothing
+    - Clothing 1
   pinyin: máo yī
 - hanzi: 衬衫
   translate: shirt
   tags:
-    - Clothing
+    - Clothing 1
   pinyin: chèn shān
 - hanzi: 外套
   translate: coat
   tags:
-    - Clothing
+    - Clothing 1
   pinyin: wài tào
 - hanzi: 灰色
   translate: gray
   tags:
-    - Clothing
+    - Clothing 1
   pinyin: huī sè
 - hanzi: 橙色
   translate: orange (color)
   tags:
-    - Clothing
+    - Clothing 1
   pinyin: chéng sè
 - hanzi: 粉色
   translate: pink
   tags:
-    - Clothing
+    - Clothing 1
   pinyin: fěn sè
 - hanzi: 穿
   translate: wear (clothes)
   tags:
-    - Clothing
+    - Clothing 1
   pinyin: chuān
 - hanzi: 鞋子
   translate: shoe
   tags:
-    - Clothing
+    - Clothing 1
   pinyin: xié zi
 - hanzi: 围巾
   translate: scarf
@@ -1232,7 +1232,7 @@
     - hanzi: 姐姐 戴 着 一 条 白色 的 围巾
       pinyin: jiě jiě dài zhe yī tiáo bái sè de wéi jīn
   tags:
-    - Clothing
+    - Clothing 1
   pinyin: wéi jīn
 - hanzi: 袜子
   translate: socks
@@ -1240,7 +1240,7 @@
     - hanzi: 妹妹 穿着 一 双 粉色 的 袜子
       pinyin: mèi mèi chuān zhe yī shuāng fěn sè de wà zi
   tags:
-    - Clothing
+    - Clothing 1
   pinyin: wà zi
 - hanzi: 帽子
   translate: hat
@@ -1248,42 +1248,42 @@
     - hanzi: 哥哥 戴着 一 顶 黑色 的 帽子
       pinyin: gē gē dài zhe yī dǐng hēi sè de mào zi
   tags:
-    - Clothing
+    - Clothing 1
   pinyin: mào zi
 - hanzi: 戴
   translate: wear (hats or accessories)
   tags:
-    - Clothing
+    - Clothing 1
   pinyin: dài
 - hanzi: 裤子
   translate: pants
   tags:
-    - Clothing
+    - Clothing 1
   pinyin: kù zi
 - hanzi: 裙子
   translate: skirt; dress
   tags:
-    - Clothing
+    - Clothing 1
   pinyin: qún zi
 - hanzi: 钻石
   translate: diamond
   tags:
-    - Clothing
+    - Clothing 1
   pinyin: zuàn shí
 - hanzi: 戒指
   translate: ring
   tags:
-    - Clothing
+    - Clothing 1
   pinyin: jiè zhǐ
 - hanzi: 项链
   translate: necklace
   tags:
-    - Clothing
+    - Clothing 1
   pinyin: xiàng liàn
 - hanzi: 给
   translate: give
   tags:
-    - Clothing
+    - Clothing 1
   pinyin: gěi
 - hanzi: 手表
   translate: watch
@@ -1291,7 +1291,7 @@
     - hanzi: 妈妈 给了 爸爸 一 块 手表
       pinyin: mā mā gěi le bà bà yī kuài shǒu biǎo
   tags:
-    - Clothing
+    - Clothing 1
   pinyin: shǒu biǎo
 - hanzi: 耳环
   translate: earrings
@@ -1299,7 +1299,7 @@
     - hanzi: 爷爷 给了 奶奶 一 对 钻石 耳环
       pinyin: yé yé gěi le nǎi nǎi yī duì zuàn shí ěr huán
   tags:
-    - Clothing
+    - Clothing 1
   pinyin: ěr huán
 - hanzi: 请问
   translate: excuse me; may I ask (invite ask)
@@ -5677,6 +5677,57 @@
   tags:
     - Complement
   pinyin: chē pái
+- hanzi: 王冠
+  translate: crown
+  tags:
+    - Clothing 2
+  pinyin: wáng guān
+- hanzi: 高跟鞋
+  translate: high-heeled shoes
+  tags:
+    - Clothing 2
+  pinyin: gāo gēn xié
+- hanzi: 衣橱
+  translate: wardrobe; closet
+  tags:
+    - Clothing 2
+  pinyin: yī chú
+- hanzi: 看出
+  translate: perceive; make out; see
+  sentences:
+    - hanzi: 你 能 看出 这 两 双 高跟鞋 的 不同 吗 ？
+      pinyin: nǐ néng kàn chū zhè liǎng shuāng gāo gēn xié de bù tóng ma ？
+  tags:
+    - Clothing 2
+  pinyin: kàn chū
+- hanzi: 脱下
+  translate: take off; disrobe; shed
+  sentences:
+    - hanzi: 她 脱下了 外婆 的 旗袍
+      pinyin: tā tuō xià le wài pó de qí páo
+  tags:
+    - Clothing 2
+  pinyin: tuō xià
+- hanzi: 靴子
+  translate: boots
+  tags:
+    - Clothing 2
+  pinyin: xuē zi
+- hanzi: 牛仔裤
+  translate: jeans
+  tags:
+    - Clothing 2
+  pinyin: niú zǎi kù
+- hanzi: 羽绒服
+  translate: down jacket
+  tags:
+    - Clothing 2
+  pinyin: yǔ róng fú
+- hanzi: 连衣裙
+  translate: dress; gown
+  tags:
+    - Clothing 2
+  pinyin: lián yī qún
 - hanzi: 留
   translate: stay
   sentences:
