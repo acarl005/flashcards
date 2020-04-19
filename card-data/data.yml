@@ -5728,6 +5728,26 @@
   tags:
     - Clothing 2
   pinyin: lián yī qún
+
+
+- hanzi: 灯泡
+  translate: light bulb
+  tags:
+    - Direction
+- hanzi: 扔
+  translate: throw
+  sentences:
+    - hanzi: 叔叔 把 钥匙 从 三 楼 扔 下来了
+  tags:
+    - Direction
+- hanzi: 打印
+  translate: print
+  sentences:
+    - hanzi: 我 把 照片 打印 出来了
+  tags:
+    - Direction
+
+
 - hanzi: 留
   translate: stay
   sentences:
